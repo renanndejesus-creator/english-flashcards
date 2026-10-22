@@ -6,6 +6,7 @@ class CardState {
     this.ease = 2.5,
     required this.due,
     this.lapses = 0,
+    this.reviewedAt = 0,
   });
 
   /// Acertos seguidos.
@@ -23,12 +24,16 @@ class CardState {
   /// Quantas vezes a palavra foi esquecida.
   final int lapses;
 
+  /// Momento da última revisão (ms desde 1970), usado para mesclar aparelhos.
+  final int reviewedAt;
+
   CardState copyWith({
     int? reps,
     int? interval,
     double? ease,
     int? due,
     int? lapses,
+    int? reviewedAt,
   }) {
     return CardState(
       reps: reps ?? this.reps,
@@ -36,6 +41,7 @@ class CardState {
       ease: ease ?? this.ease,
       due: due ?? this.due,
       lapses: lapses ?? this.lapses,
+      reviewedAt: reviewedAt ?? this.reviewedAt,
     );
   }
 
@@ -45,6 +51,7 @@ class CardState {
     'e': ease,
     'd': due,
     'l': lapses,
+    't': reviewedAt,
   };
 
   factory CardState.fromJson(Map<String, dynamic> json) => CardState(
@@ -53,6 +60,7 @@ class CardState {
     ease: (json['e'] as num?)?.toDouble() ?? 2.5,
     due: (json['d'] as num).toInt(),
     lapses: (json['l'] as num?)?.toInt() ?? 0,
+    reviewedAt: (json['t'] as num?)?.toInt() ?? 0,
   );
 }
 

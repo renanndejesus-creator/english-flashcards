@@ -4,6 +4,7 @@ import '../main.dart';
 import '../services/browser.dart';
 import '../services/srs.dart';
 import '../state/app_state.dart';
+import '../widgets/account_card.dart';
 
 class SettingsScreen extends StatelessWidget {
   const SettingsScreen({super.key});
@@ -17,6 +18,8 @@ class SettingsScreen extends StatelessWidget {
     return ListView(
       padding: const EdgeInsets.symmetric(vertical: 16),
       children: [
+        _header(theme, 'Conta e nuvem'),
+        const AccountCard(),
         _header(theme, 'Estudo'),
         ListTile(
           title: const Text('Novas palavras por dia'),
@@ -88,8 +91,8 @@ class SettingsScreen extends StatelessWidget {
         const ListTile(
           dense: true,
           subtitle: Text(
-            'O progresso fica salvo neste navegador. Exporte um backup para não perder '
-            'ou para continuar em outro aparelho.',
+            'O progresso fica salvo neste navegador e, se você entrou com Google, '
+            'também na nuvem. Você ainda pode exportar um arquivo de backup.',
           ),
         ),
         ListTile(
@@ -151,7 +154,8 @@ class SettingsScreen extends StatelessWidget {
       builder: (context) => AlertDialog(
         title: const Text('Apagar progresso?'),
         content: const Text(
-          'Todo o histórico de estudo deste navegador será apagado. Isso não pode ser desfeito.',
+          'Todo o histórico de estudo será apagado, inclusive na nuvem se você '
+          'entrou com Google. Isso não pode ser desfeito.',
         ),
         actions: [
           TextButton(

@@ -4,12 +4,17 @@ import 'screens/home_screen.dart';
 import 'screens/settings_screen.dart';
 import 'screens/study_screen.dart';
 import 'screens/words_screen.dart';
+import 'services/browser.dart';
+import 'services/cloud_sync.dart';
 import 'state/app_state.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
+  Browser.requestPersistentStorage();
   final state = await AppState.load();
-  runApp(FlashcardsApp(state: state));
+  final sync = CloudSync(state);
+  await sync.init();
+  runApp(FlashcardsApp(state: state, sync: sync));
 }
 
 /// Dá acesso ao [AppState] para qualquer widget abaixo dele.
@@ -21,30 +26,43 @@ class AppScope extends InheritedNotifier<AppState> {
       context.dependOnInheritedWidgetOfExactType<AppScope>()!.notifier!;
 }
 
+/// Dá acesso ao [CloudSync] (login e sincronização com a nuvem).
+class SyncScope extends InheritedNotifier<CloudSync> {
+  const SyncScope({super.key, required CloudSync sync, required super.child})
+    : super(notifier: sync);
+
+  static CloudSync of(BuildContext context) =>
+      context.dependOnInheritedWidgetOfExactType<SyncScope>()!.notifier!;
+}
+
 class FlashcardsApp extends StatelessWidget {
-  const FlashcardsApp({super.key, required this.state});
+  const FlashcardsApp({super.key, required this.state, required this.sync});
 
   final AppState state;
+  final CloudSync sync;
 
   static const _seed = Color(0xFF4F46E5);
 
   @override
   Widget build(BuildContext context) {
-    return AppScope(
-      state: state,
-      child: ListenableBuilder(
-        listenable: state,
-        builder: (context, _) => MaterialApp(
-          title: 'Flashcards de Inglês',
-          debugShowCheckedModeBanner: false,
-          themeMode: state.settings.themeMode,
-          theme: ThemeData(colorSchemeSeed: _seed, useMaterial3: true),
-          darkTheme: ThemeData(
-            colorSchemeSeed: _seed,
-            brightness: Brightness.dark,
-            useMaterial3: true,
+    return SyncScope(
+      sync: sync,
+      child: AppScope(
+        state: state,
+        child: ListenableBuilder(
+          listenable: state,
+          builder: (context, _) => MaterialApp(
+            title: 'Flashcards de Inglês',
+            debugShowCheckedModeBanner: false,
+            themeMode: state.settings.themeMode,
+            theme: ThemeData(colorSchemeSeed: _seed, useMaterial3: true),
+            darkTheme: ThemeData(
+              colorSchemeSeed: _seed,
+              brightness: Brightness.dark,
+              useMaterial3: true,
+            ),
+            home: const HomeShell(),
           ),
-          home: const HomeShell(),
         ),
       ),
     );

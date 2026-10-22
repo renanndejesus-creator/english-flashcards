@@ -74,6 +74,15 @@ class Speech {
 
 /// Download e upload de arquivos pelo navegador.
 class Browser {
+  /// Pede ao navegador para não apagar os dados do site quando faltar espaço.
+  static void requestPersistentStorage() {
+    try {
+      web.window.navigator.storage.persist();
+    } catch (_) {
+      // Navegador sem suporte: os dados continuam no armazenamento normal.
+    }
+  }
+
   /// Baixa um arquivo de texto gerado pelo app.
   static void download(String fileName, String content) {
     final blob = web.Blob(

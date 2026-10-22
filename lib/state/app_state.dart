@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
@@ -86,7 +87,8 @@ class DayStats {
   );
 }
 
-/// Estado global do app: vocabulário, progresso e ajustes, salvos no navegador.
+/// Estado global do app: vocabulário, progresso e ajustes, salvos no navegador
+/// (e na nuvem pelo CloudSync, quando o usuário entra com Google).
 class AppState extends ChangeNotifier {
   AppState._(this._prefs, this.words);
 
@@ -99,6 +101,15 @@ class AppState extends ChangeNotifier {
   Map<String, CardState> _progress = {};
   Map<String, DayStats> _days = {};
   Settings _settings = const Settings();
+
+  /// Última alteração local (ms) e último "apagar progresso" (ms).
+  int _updatedAt = 0;
+  int _resetAt = 0;
+
+  final _changes = StreamController<void>.broadcast();
+
+  /// Emite a cada alteração feita pelo usuário neste navegador.
+  Stream<void> get changes => _changes.stream;
 
   Settings get settings => _settings;
 
@@ -122,8 +133,11 @@ class AppState extends ChangeNotifier {
 
   // ---------- Persistência ----------
 
-  Map<String, dynamic> _toJson() => {
+  /// Snapshot completo do progresso, no formato salvo localmente e na nuvem.
+  Map<String, dynamic> snapshot() => {
     'version': 1,
+    'updatedAt': _updatedAt,
+    'resetAt': _resetAt,
     'progress': _progress.map((k, v) => MapEntry(k, v.toJson())),
     'days': _days.map((k, v) => MapEntry(k, v.toJson())),
     'settings': _settings.toJson(),
@@ -142,14 +156,25 @@ class AppState extends ChangeNotifier {
     _progress = progress;
     _days = days;
     _settings = settings;
+    _updatedAt = (json['updatedAt'] as num?)?.toInt() ?? 0;
+    _resetAt = (json['resetAt'] as num?)?.toInt() ?? 0;
   }
 
-  void _save() {
-    _prefs.setString(_storageKey, jsonEncode(_toJson()));
+  /// Salva no navegador. [local] = alteração feita aqui (avisa o CloudSync).
+  void _save({bool local = true}) {
+    if (local) _updatedAt = DateTime.now().millisecondsSinceEpoch;
+    _prefs.setString(_storageKey, jsonEncode(snapshot()));
     notifyListeners();
+    if (local) _changes.add(null);
   }
 
-  String exportJson() => const JsonEncoder.withIndent('  ').convert(_toJson());
+  /// Aplica um snapshot vindo da nuvem (já mesclado com o local).
+  void applySnapshot(Map<String, dynamic> json) {
+    _restore(json);
+    _save(local: false);
+  }
+
+  String exportJson() => const JsonEncoder.withIndent('  ').convert(snapshot());
 
   /// Substitui o progresso pelo conteúdo de um backup. Lança erro se for inválido.
   void importJson(String text) {
@@ -158,12 +183,19 @@ class AppState extends ChangeNotifier {
       throw const FormatException('Arquivo de progresso inválido.');
     }
     _restore(json);
+    // O backup importado substitui o progresso, inclusive na nuvem.
+    final now = DateTime.now().millisecondsSinceEpoch;
+    _resetAt = now - 1;
+    _progress = _progress.map(
+      (k, v) => MapEntry(k, v.copyWith(reviewedAt: now)),
+    );
     _save();
   }
 
   void resetProgress() {
     _progress = {};
     _days = {};
+    _resetAt = DateTime.now().millisecondsSinceEpoch;
     _save();
   }
 
@@ -248,7 +280,11 @@ class AppState extends ChangeNotifier {
     final stats = _todayStats;
     if (previous == null) stats.learned++;
     stats.reviews++;
-    _progress[word.id] = Srs.schedule(previous, grade, today);
+    _progress[word.id] = Srs.schedule(
+      previous,
+      grade,
+      today,
+    ).copyWith(reviewedAt: DateTime.now().millisecondsSinceEpoch);
     _save();
   }
 
