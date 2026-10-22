@@ -22,7 +22,7 @@ class HomeScreen extends StatelessWidget {
       padding: const EdgeInsets.all(16),
       children: [
         Text(
-          name == null ? 'Olá! 👋' : 'Olá, $name! 👋',
+          name == null ? 'Olá! 👋' : 'Olá $name! 👋',
           style: theme.textTheme.headlineMedium?.copyWith(
             fontWeight: FontWeight.bold,
           ),
