@@ -14,7 +14,8 @@ App web feito em **Flutter** para estudar as 1500 palavras mais usadas do inglê
 - Menu lateral à esquerda (vira gaveta no celular)
 - Lista de palavras com busca, filtro por status e detalhes de cada palavra
 - Estatísticas: revisões do dia, palavras vistas, dominadas e dias seguidos
-- Progresso salvo no navegador, com exportação/importação de backup (JSON)
+- Progresso salvo no navegador e, com **login Google**, sincronizado na nuvem (Firebase) entre aparelhos
+- Exportação/importação de backup (JSON)
 - Tema claro/escuro (Material 3)
 - Atalhos de teclado: `espaço` vira o cartão · `1`–`4` responde · `P` ouve a palavra · `F` ouve a frase
 
@@ -46,6 +47,20 @@ flutter run -d chrome        # desenvolvimento
 flutter test                 # testes
 flutter build web --release  # gera build/web
 ```
+
+## Nuvem (Firebase)
+
+O login com Google e a sincronização usam o projeto Firebase `english-flashcards-4fc25`:
+
+- **Authentication**: provedor Google; domínios autorizados incluem `renanndejesus-creator.github.io` e `localhost`
+- **Firestore** (`southamerica-east1`): um documento por usuário em `users/{uid}`, com o progresso em JSON
+- **Regras**: `firestore.rules` (cada usuário só acessa o próprio documento). Para publicar mudanças:
+
+```bash
+firebase deploy --only firestore
+```
+
+O navegador continua sendo a cópia de trabalho (funciona offline); cada alteração sobe para a nuvem em ~2 s, e o progresso de vários aparelhos é mesclado palavra por palavra (`lib/services/sync_merge.dart`).
 
 ## Deploy
 
