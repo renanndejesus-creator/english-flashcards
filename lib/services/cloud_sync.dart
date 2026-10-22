@@ -37,6 +37,10 @@ class CloudSync extends ChangeNotifier {
 
   bool get available => _status != SyncStatus.unavailable;
 
+  /// Janela de login do Google aberta, aguardando o usuário.
+  bool _signingIn = false;
+  bool get signingIn => _signingIn;
+
   StreamSubscription<DocumentSnapshot<Map<String, dynamic>>>? _remoteSub;
   StreamSubscription<void>? _localSub;
   Timer? _pushTimer;
@@ -51,10 +55,23 @@ class CloudSync extends ChangeNotifier {
       return;
     }
     _setStatus(SyncStatus.signedOut);
-    FirebaseAuth.instance.authStateChanges().listen(_onUser);
+    // Espera a sessão salva ser restaurada, para não mostrar a tela de login
+    // por um instante a quem já entrou.
+    final firstUser = Completer<void>();
+    FirebaseAuth.instance.authStateChanges().listen((user) {
+      _onUser(user);
+      if (!firstUser.isCompleted) firstUser.complete();
+    });
+    await firstUser.future.timeout(
+      const Duration(seconds: 5),
+      onTimeout: () {},
+    );
   }
 
   Future<void> signIn() async {
+    _error = null;
+    _signingIn = true;
+    notifyListeners();
     try {
       await FirebaseAuth.instance.signInWithPopup(GoogleAuthProvider());
     } on FirebaseAuthException catch (e) {
@@ -68,6 +85,9 @@ class CloudSync extends ChangeNotifier {
         'popup-blocked' => 'O navegador bloqueou a janela de login. Permita pop-ups para este site e tente de novo.',
         _ => 'Não foi possível entrar: ${e.message ?? e.code}',
       });
+    } finally {
+      _signingIn = false;
+      notifyListeners();
     }
   }
 

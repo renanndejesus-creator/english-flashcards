@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'screens/home_screen.dart';
+import 'screens/login_screen.dart';
 import 'screens/settings_screen.dart';
 import 'screens/study_screen.dart';
 import 'screens/words_screen.dart';
@@ -61,11 +62,33 @@ class FlashcardsApp extends StatelessWidget {
               brightness: Brightness.dark,
               useMaterial3: true,
             ),
-            home: const HomeShell(),
+            home: const AuthGate(),
           ),
         ),
       ),
     );
+  }
+}
+
+/// Mostra a tela de login até o usuário entrar com Google (ou escolher
+/// continuar sem conta). Sem Firebase disponível, abre o app direto.
+class AuthGate extends StatefulWidget {
+  const AuthGate({super.key});
+
+  @override
+  State<AuthGate> createState() => _AuthGateState();
+}
+
+class _AuthGateState extends State<AuthGate> {
+  bool _guest = false;
+
+  @override
+  Widget build(BuildContext context) {
+    final sync = SyncScope.of(context);
+    if (sync.user != null || _guest || !sync.available) {
+      return const HomeShell();
+    }
+    return LoginScreen(onContinueAsGuest: () => setState(() => _guest = true));
   }
 }
 
