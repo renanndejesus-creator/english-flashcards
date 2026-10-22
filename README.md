@@ -62,6 +62,22 @@ firebase deploy --only firestore
 
 O navegador continua sendo a cópia de trabalho (funciona offline); cada alteração sobe para a nuvem em ~2 s, e o progresso de vários aparelhos é mesclado palavra por palavra (`lib/services/sync_merge.dart`).
 
+## Acesso e console de administração
+
+Só entra no app quem estiver na lista `allowedUsers/{email}` do Firestore (o e-mail da conta Google, em minúsculas). O dono (`renanndejesus@gmail.com`) sempre tem acesso e é administrador.
+
+No menu **Administração** (visível só para administradores) é possível:
+
+- liberar o acesso de um e-mail, com nome opcional e opção de administrador
+- tornar ou deixar de ser administrador, e remover o acesso (o progresso da pessoa é mantido)
+- ver o último acesso e o resumo do progresso de cada pessoa
+
+As regras em `firestore.rules` garantem isso no servidor. Para testá-las no emulador (requer Java):
+
+```bash
+cd tool/rules_test && npm install && npm test
+```
+
 ## Deploy
 
 Cada push na branch `main` roda os testes, compila o app e publica no **GitHub Pages** pelo workflow em `.github/workflows/deploy.yml`.

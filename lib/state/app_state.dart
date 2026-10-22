@@ -92,8 +92,12 @@ class DayStats {
 class AppState extends ChangeNotifier {
   AppState._(this._prefs, this.words);
 
-  static const _storageKey = 'flashcards-en-v1';
+  /// Chave do progresso salvo antes do login (passa para a primeira conta).
+  static const _legacyKey = 'flashcards-en-v1';
   static const levelCount = 15;
+
+  /// Cada conta tem seu próprio progresso neste navegador.
+  String _storageKey = _legacyKey;
 
   final SharedPreferences _prefs;
   final List<Word> words;
@@ -120,7 +124,7 @@ class AppState extends ChangeNotifier {
       for (var i = 0; i < lines.length; i++) Word.parse(lines[i], i + 1),
     ];
     final state = AppState._(await SharedPreferences.getInstance(), words);
-    final saved = state._prefs.getString(_storageKey);
+    final saved = state._prefs.getString(state._storageKey);
     if (saved != null) {
       try {
         state._restore(jsonDecode(saved) as Map<String, dynamic>);
@@ -132,6 +136,51 @@ class AppState extends ChangeNotifier {
   }
 
   // ---------- Persistência ----------
+
+  /// Troca para o progresso local da conta [uid] (null = sem conta).
+  void useAccount(String? uid) {
+    final key = uid == null ? _legacyKey : '$_legacyKey-$uid';
+    if (key == _storageKey) return;
+    _storageKey = key;
+    var saved = _prefs.getString(key);
+    if (saved == null && uid != null) {
+      // Progresso feito antes do login vai para a primeira conta que entrar.
+      saved = _prefs.getString(_legacyKey);
+      if (saved != null) {
+        _prefs.setString(key, saved);
+        _prefs.remove(_legacyKey);
+      }
+    }
+    _progress = {};
+    _days = {};
+    _settings = const Settings();
+    _updatedAt = 0;
+    _resetAt = 0;
+    if (saved != null) {
+      try {
+        _restore(jsonDecode(saved) as Map<String, dynamic>);
+      } catch (e) {
+        debugPrint('Progresso salvo inválido, começando do zero: $e');
+      }
+    }
+    notifyListeners();
+  }
+
+  /// Resumo do progresso, gravado na nuvem para o console de administração.
+  Map<String, dynamic> summary() {
+    final lastReview = _progress.values.fold<int>(
+      0,
+      (m, c) => c.reviewedAt > m ? c.reviewedAt : m,
+    );
+    return {
+      'seen': seenCount,
+      'mastered': countWithStatus(WordStatus.mastered),
+      'due': dueWords().length,
+      'streak': streak,
+      'reviewsToday': _days[Srs.dateKey(today)]?.reviews ?? 0,
+      'lastReviewAt': lastReview,
+    };
+  }
 
   /// Snapshot completo do progresso, no formato salvo localmente e na nuvem.
   Map<String, dynamic> snapshot() => {

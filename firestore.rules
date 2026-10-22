@@ -1,9 +1,48 @@
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
-    // Cada usuário só lê e grava o próprio progresso.
+
+    // Dono do app: sempre tem acesso e é administrador.
+    function isOwner() {
+      return signedIn() && email() == 'renanndejesus@gmail.com';
+    }
+
+    function signedIn() {
+      return request.auth != null && request.auth.token.email_verified == true;
+    }
+
+    function email() {
+      return request.auth.token.email.lower();
+    }
+
+    function memberPath() {
+      return /databases/$(database)/documents/allowedUsers/$(email());
+    }
+
+    // Só entra quem foi cadastrado no console (allowedUsers/{email}).
+    function isAllowed() {
+      return isOwner() || (signedIn() && exists(memberPath()));
+    }
+
+    function isAdmin() {
+      return isOwner() || (isAllowed() && get(memberPath()).data.role == 'admin');
+    }
+
+    // Progresso de cada pessoa: só ela grava; administradores podem ler.
     match /users/{userId} {
-      allow read, write: if request.auth != null && request.auth.uid == userId;
+      allow read: if (isAllowed() && request.auth.uid == userId) || isAdmin();
+      allow write: if isAllowed() && request.auth.uid == userId;
+    }
+
+    // Lista de acesso, gerenciada no console de administração.
+    match /allowedUsers/{memberEmail} {
+      allow read: if isAdmin() || (signedIn() && email() == memberEmail);
+      allow create, delete: if isAdmin();
+      // A própria pessoa só pode registrar dados do login (não o papel).
+      allow update: if isAdmin()
+        || (signedIn() && email() == memberEmail
+            && request.resource.data.diff(resource.data).affectedKeys()
+                 .hasOnly(['uid', 'displayName', 'photoURL', 'lastLoginAt']));
     }
   }
 }

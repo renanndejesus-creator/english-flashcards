@@ -13,7 +13,14 @@ import 'sync_merge.dart';
 
 enum SyncStatus { unavailable, signedOut, syncing, synced, error }
 
-/// Sincroniza o progresso com o Firestore (users/{uid}) após login com Google.
+/// Situação do acesso da conta conectada à lista de e-mails liberados.
+enum Access { checking, allowed, denied }
+
+/// Dono do app: sempre tem acesso e é administrador (igual a firestore.rules).
+const ownerEmail = 'renanndejesus@gmail.com';
+
+/// Controla o login com Google, o acesso pela lista de e-mails liberados
+/// (allowedUsers/{email}) e sincroniza o progresso com o Firestore (users/{uid}).
 ///
 /// O navegador continua sendo a cópia de trabalho; a nuvem recebe cada
 /// alteração (com um pequeno atraso) e as mudanças de outros aparelhos são
@@ -37,11 +44,18 @@ class CloudSync extends ChangeNotifier {
 
   bool get available => _status != SyncStatus.unavailable;
 
+  Access _access = Access.checking;
+  Access get access => _access;
+
+  bool _isAdmin = false;
+  bool get isAdmin => _isAdmin;
+
   /// Janela de login do Google aberta, aguardando o usuário.
   bool _signingIn = false;
   bool get signingIn => _signingIn;
 
   StreamSubscription<DocumentSnapshot<Map<String, dynamic>>>? _remoteSub;
+  StreamSubscription<DocumentSnapshot<Map<String, dynamic>>>? _memberSub;
   StreamSubscription<void>? _localSub;
   Timer? _pushTimer;
 
@@ -92,22 +106,85 @@ class CloudSync extends ChangeNotifier {
   }
 
   Future<void> signOut() async {
-    await _flush();
+    if (_access == Access.allowed) await _flush();
     await FirebaseAuth.instance.signOut();
   }
 
   DocumentReference<Map<String, dynamic>> _doc(User user) =>
       FirebaseFirestore.instance.collection('users').doc(user.uid);
 
+  static DocumentReference<Map<String, dynamic>> memberDoc(String email) =>
+      FirebaseFirestore.instance
+          .collection('allowedUsers')
+          .doc(email.trim().toLowerCase());
+
   void _onUser(User? user) {
     _user = user;
-    _remoteSub?.cancel();
-    _localSub?.cancel();
-    _pushTimer?.cancel();
+    _stopSync();
+    _memberSub?.cancel();
+    _isAdmin = false;
     if (user == null) {
+      _app.useAccount(null);
       _setStatus(SyncStatus.signedOut);
       return;
     }
+    _access = Access.checking;
+    _setStatus(SyncStatus.syncing);
+    final email = (user.email ?? '').toLowerCase();
+    if (email == ownerEmail) {
+      _isAdmin = true;
+      _registerLogin(user, owner: true);
+      _grantAccess(user);
+      return;
+    }
+    // Acompanha o cadastro: se o administrador remover o e-mail, o acesso cai na hora.
+    _memberSub = memberDoc(email).snapshots().listen((doc) {
+      if (!doc.exists) {
+        _denyAccess();
+        return;
+      }
+      _isAdmin = doc.data()?['role'] == 'admin';
+      if (_access != Access.allowed) {
+        _registerLogin(user);
+        _grantAccess(user);
+      } else {
+        notifyListeners();
+      }
+    }, onError: (Object _) => _denyAccess());
+  }
+
+  /// Guarda no cadastro quando e com qual conta a pessoa entrou (visto no console).
+  Future<void> _registerLogin(User user, {bool owner = false}) async {
+    final email = (user.email ?? '').toLowerCase();
+    try {
+      await memberDoc(email).set({
+        if (owner) ...{'email': email, 'role': 'admin'},
+        'uid': user.uid,
+        'displayName': user.displayName,
+        'photoURL': user.photoURL,
+        'lastLoginAt': FieldValue.serverTimestamp(),
+      }, SetOptions(merge: true));
+    } catch (e) {
+      debugPrint('Não foi possível registrar o login: $e');
+    }
+  }
+
+  void _denyAccess() {
+    _stopSync();
+    _access = Access.denied;
+    _isAdmin = false;
+    _setStatus(SyncStatus.signedOut);
+  }
+
+  void _stopSync() {
+    _remoteSub?.cancel();
+    _localSub?.cancel();
+    _pushTimer?.cancel();
+  }
+
+  void _grantAccess(User user) {
+    _access = Access.allowed;
+    _app.useAccount(user.uid);
     _setStatus(SyncStatus.syncing);
     _remoteSub = _doc(user).snapshots().listen(
       _onRemote,
@@ -154,7 +231,9 @@ class CloudSync extends ChangeNotifier {
     _setStatus(SyncStatus.syncing);
     try {
       await _doc(user).set({
+        'email': user.email?.toLowerCase(),
         'data': jsonEncode(_app.snapshot()),
+        'summary': _app.summary(),
         'updatedAt': FieldValue.serverTimestamp(),
       });
       _markSynced();

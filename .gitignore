@@ -53,3 +53,6 @@ app.*.map.json
 # Firebase CLI
 firebase-debug.log
 .firebase/
+
+# Testes das regras
+tool/rules_test/node_modules/

@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'screens/access_denied_screen.dart';
+import 'screens/admin_screen.dart';
 import 'screens/home_screen.dart';
 import 'screens/login_screen.dart';
 import 'screens/settings_screen.dart';
@@ -70,14 +72,21 @@ class FlashcardsApp extends StatelessWidget {
   }
 }
 
-/// O login com Google é obrigatório: sem usuário, só a tela de login aparece.
+/// Login com Google obrigatório, e só para e-mails liberados no console.
 class AuthGate extends StatelessWidget {
   const AuthGate({super.key});
 
   @override
   Widget build(BuildContext context) {
     final sync = SyncScope.of(context);
-    return sync.user != null ? const HomeShell() : const LoginScreen();
+    if (sync.user == null) return const LoginScreen();
+    return switch (sync.access) {
+      Access.checking => const Scaffold(
+        body: Center(child: CircularProgressIndicator()),
+      ),
+      Access.denied => const AccessDeniedScreen(),
+      Access.allowed => HomeShell(isAdmin: sync.isAdmin),
+    };
   }
 }
 
@@ -90,7 +99,10 @@ class _Destination {
 }
 
 class HomeShell extends StatefulWidget {
-  const HomeShell({super.key});
+  const HomeShell({super.key, this.isAdmin = false});
+
+  /// Mostra a aba de administração no menu.
+  final bool isAdmin;
 
   @override
   State<HomeShell> createState() => _HomeShellState();
@@ -106,11 +118,22 @@ class _HomeShellState extends State<HomeShell> {
     _index = 1;
   });
 
-  static const _destinations = [
+  static const _baseDestinations = [
     _Destination('Início', Icons.home_outlined, Icons.home),
     _Destination('Estudar', Icons.style_outlined, Icons.style),
     _Destination('Palavras', Icons.list_alt_outlined, Icons.list_alt),
     _Destination('Ajustes', Icons.settings_outlined, Icons.settings),
+  ];
+
+  static const _adminDestination = _Destination(
+    'Administração',
+    Icons.admin_panel_settings_outlined,
+    Icons.admin_panel_settings,
+  );
+
+  List<_Destination> get _destinations => [
+    ..._baseDestinations,
+    if (widget.isAdmin) _adminDestination,
   ];
 
   /// Abaixo desta largura o menu vira uma gaveta lateral esquerda.
@@ -127,11 +150,16 @@ class _HomeShellState extends State<HomeShell> {
       ),
       const WordsScreen(),
       const SettingsScreen(),
+      if (widget.isAdmin) const AdminScreen(),
     ];
+    // Se a pessoa deixou de ser administradora com a aba aberta, volta ao início.
+    if (_index >= pages.length) _index = 0;
     final content = SafeArea(
       child: Center(
         child: ConstrainedBox(
-          constraints: const BoxConstraints(maxWidth: 760),
+          constraints: BoxConstraints(
+            maxWidth: widget.isAdmin && _index == pages.length - 1 ? 960 : 760,
+          ),
           child: pages[_index],
         ),
       ),
