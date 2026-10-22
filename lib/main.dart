@@ -70,25 +70,14 @@ class FlashcardsApp extends StatelessWidget {
   }
 }
 
-/// Mostra a tela de login até o usuário entrar com Google (ou escolher
-/// continuar sem conta). Sem Firebase disponível, abre o app direto.
-class AuthGate extends StatefulWidget {
+/// O login com Google é obrigatório: sem usuário, só a tela de login aparece.
+class AuthGate extends StatelessWidget {
   const AuthGate({super.key});
-
-  @override
-  State<AuthGate> createState() => _AuthGateState();
-}
-
-class _AuthGateState extends State<AuthGate> {
-  bool _guest = false;
 
   @override
   Widget build(BuildContext context) {
     final sync = SyncScope.of(context);
-    if (sync.user != null || _guest || !sync.available) {
-      return const HomeShell();
-    }
-    return LoginScreen(onContinueAsGuest: () => setState(() => _guest = true));
+    return sync.user != null ? const HomeShell() : const LoginScreen();
   }
 }
 

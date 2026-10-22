@@ -74,6 +74,8 @@ class Speech {
 
 /// Download e upload de arquivos pelo navegador.
 class Browser {
+  static void reload() => web.window.location.reload();
+
   /// Pede ao navegador para não apagar os dados do site quando faltar espaço.
   static void requestPersistentStorage() {
     try {

@@ -1,13 +1,11 @@
 import 'package:flutter/material.dart';
 
 import '../main.dart';
+import '../services/browser.dart';
 
 /// Tela de entrada: login com Google antes de abrir o app.
 class LoginScreen extends StatelessWidget {
-  const LoginScreen({super.key, required this.onContinueAsGuest});
-
-  /// Abre o app sem conta (progresso só neste navegador).
-  final VoidCallback onContinueAsGuest;
+  const LoginScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -76,7 +74,9 @@ class LoginScreen extends StatelessWidget {
                         width: double.infinity,
                         height: 52,
                         child: FilledButton.icon(
-                          onPressed: sync.signingIn ? null : sync.signIn,
+                          onPressed: sync.signingIn || !sync.available
+                              ? null
+                              : sync.signIn,
                           icon: sync.signingIn
                               ? const SizedBox.square(
                                   dimension: 20,
@@ -95,6 +95,22 @@ class LoginScreen extends StatelessWidget {
                           ),
                         ),
                       ),
+                      if (!sync.available) ...[
+                        const SizedBox(height: 12),
+                        Text(
+                          'Não foi possível conectar ao serviço de login. '
+                          'Verifique sua internet e tente de novo.',
+                          textAlign: TextAlign.center,
+                          style: theme.textTheme.bodyMedium?.copyWith(
+                            color: scheme.error,
+                          ),
+                        ),
+                        TextButton.icon(
+                          onPressed: Browser.reload,
+                          icon: const Icon(Icons.refresh),
+                          label: const Text('Tentar de novo'),
+                        ),
+                      ],
                       if (sync.error != null) ...[
                         const SizedBox(height: 12),
                         Text(
@@ -105,18 +121,7 @@ class LoginScreen extends StatelessWidget {
                           ),
                         ),
                       ],
-                      const SizedBox(height: 8),
-                      TextButton(
-                        onPressed: onContinueAsGuest,
-                        child: const Text('Continuar sem entrar'),
-                      ),
-                      Text(
-                        'Sem entrar, o progresso fica salvo só neste navegador.',
-                        textAlign: TextAlign.center,
-                        style: theme.textTheme.bodySmall?.copyWith(
-                          color: scheme.onSurfaceVariant,
-                        ),
-                      ),
+                      const SizedBox(height: 12),
                     ],
                   ),
                 ),

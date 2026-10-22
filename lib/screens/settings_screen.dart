@@ -91,8 +91,8 @@ class SettingsScreen extends StatelessWidget {
         const ListTile(
           dense: true,
           subtitle: Text(
-            'O progresso fica salvo neste navegador e, se você entrou com Google, '
-            'também na nuvem. Você ainda pode exportar um arquivo de backup.',
+            'O progresso fica salvo na nuvem, na sua conta Google, e também neste '
+            'navegador. Você ainda pode exportar um arquivo de backup.',
           ),
         ),
         ListTile(
@@ -154,8 +154,8 @@ class SettingsScreen extends StatelessWidget {
       builder: (context) => AlertDialog(
         title: const Text('Apagar progresso?'),
         content: const Text(
-          'Todo o histórico de estudo será apagado, inclusive na nuvem se você '
-          'entrou com Google. Isso não pode ser desfeito.',
+          'Todo o histórico de estudo será apagado, inclusive na nuvem, em todos '
+          'os aparelhos. Isso não pode ser desfeito.',
         ),
         actions: [
           TextButton(

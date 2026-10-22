@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import '../main.dart';
 import '../models/card_state.dart';
 import '../state/app_state.dart';
-import '../widgets/account_card.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key, required this.onStudy});
@@ -34,7 +33,6 @@ class HomeScreen extends StatelessWidget {
             color: theme.colorScheme.onSurfaceVariant,
           ),
         ),
-        const AccountCard(compact: true),
         const SizedBox(height: 16),
         LayoutBuilder(
           builder: (context, constraints) {

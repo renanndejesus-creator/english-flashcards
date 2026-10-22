@@ -3,82 +3,16 @@ import 'package:flutter/material.dart';
 import '../main.dart';
 import '../services/cloud_sync.dart';
 
-/// Login com Google e situação da sincronização com a nuvem.
+/// Conta Google conectada e situação da sincronização com a nuvem.
 class AccountCard extends StatelessWidget {
-  const AccountCard({super.key, this.compact = false});
-
-  /// Versão curta para a tela inicial: só aparece se o usuário não entrou.
-  final bool compact;
+  const AccountCard({super.key});
 
   @override
   Widget build(BuildContext context) {
     final sync = SyncScope.of(context);
-    final theme = Theme.of(context);
-    final scheme = theme.colorScheme;
-
-    if (!sync.available) {
-      if (compact) return const SizedBox.shrink();
-      return const ListTile(
-        leading: Icon(Icons.cloud_off_outlined),
-        title: Text('Sincronização na nuvem indisponível'),
-        subtitle: Text('O progresso está salvo só neste navegador.'),
-      );
-    }
-
+    final scheme = Theme.of(context).colorScheme;
     final user = sync.user;
-    if (user == null) {
-      return Card.filled(
-        color: scheme.primaryContainer,
-        margin: compact
-            ? const EdgeInsets.only(top: 16)
-            : const EdgeInsets.symmetric(horizontal: 16),
-        child: Padding(
-          padding: const EdgeInsets.all(16),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Row(
-                children: [
-                  Icon(
-                    Icons.cloud_upload_outlined,
-                    color: scheme.onPrimaryContainer,
-                  ),
-                  const SizedBox(width: 10),
-                  Expanded(
-                    child: Text(
-                      'Salve seu progresso na nuvem',
-                      style: theme.textTheme.titleMedium?.copyWith(
-                        color: scheme.onPrimaryContainer,
-                      ),
-                    ),
-                  ),
-                ],
-              ),
-              const SizedBox(height: 6),
-              Text(
-                'Hoje ele está só neste navegador. Entre com sua conta Google para não '
-                'perder nada e continuar em qualquer aparelho.',
-                style: theme.textTheme.bodyMedium?.copyWith(
-                  color: scheme.onPrimaryContainer,
-                ),
-              ),
-              if (sync.status == SyncStatus.error && sync.error != null) ...[
-                const SizedBox(height: 8),
-                Text(sync.error!, style: TextStyle(color: scheme.error)),
-              ],
-              const SizedBox(height: 12),
-              FilledButton.icon(
-                onPressed: sync.signIn,
-                icon: const Icon(Icons.login),
-                label: const Text('Entrar com Google'),
-              ),
-            ],
-          ),
-        ),
-      );
-    }
-
-    if (compact) return const SizedBox.shrink();
+    if (user == null) return const SizedBox.shrink();
 
     final photo = user.photoURL;
     return ListTile(
