@@ -1,0 +1,1500 @@
+the|det|o, a, os, as
+be|v|ser, estar
+and|conj|e
+of|prep|de
+a|det|um, uma
+to|prep|para, a
+in|prep|em, dentro de
+have|v|ter
+it|pron|isso, ele, ela (coisa)
+I|pron|eu
+that|pron|que, aquilo, aquele
+for|prep|para, por
+you|pron|você, vocês
+he|pron|ele
+with|prep|com
+on|prep|em, sobre
+do|v|fazer
+say|v|dizer
+this|pron|isto, este, esta
+they|pron|eles, elas
+at|prep|em, no, na
+but|conj|mas
+we|pron|nós
+his|det|dele, seu
+from|prep|de, desde
+not|adv|não
+by|prep|por, perto de
+she|pron|ela
+or|conj|ou
+as|conj|como, enquanto
+what|pron|o que, qual
+go|v|ir
+their|det|deles, delas
+can|v|poder, conseguir
+who|pron|quem
+get|v|conseguir, obter, pegar
+if|conj|se
+would|v|(futuro do pretérito) -ria
+her|pron|ela, dela
+all|det|todo, todos
+my|det|meu, minha
+make|v|fazer, fabricar
+about|prep|sobre, a respeito de
+know|v|saber, conhecer
+will|v|(futuro) -rá; vontade
+up|adv|para cima
+one|num|um, uma
+time|n|tempo, vez, hora
+there|adv|lá, ali; haver
+year|n|ano
+so|adv|então, tão, assim
+think|v|pensar, achar
+when|adv|quando
+which|pron|qual, que
+them|pron|eles, elas (objeto)
+some|det|algum, alguns, um pouco
+me|pron|me, mim
+people|n|pessoas, povo
+take|v|pegar, levar, tomar
+out|adv|fora, para fora
+into|prep|para dentro de
+just|adv|apenas, só, acabou de
+see|v|ver
+him|pron|ele, o, lhe
+your|det|seu, sua, de você
+come|v|vir
+could|v|poderia, podia
+now|adv|agora
+than|conj|do que
+like|prep|como, igual a
+other|adj|outro
+how|adv|como
+then|adv|então, depois
+its|det|seu, sua (de coisa)
+our|det|nosso, nossa
+two|num|dois
+more|adv|mais
+these|pron|estes, estas
+want|v|querer
+way|n|caminho, maneira, jeito
+look|v|olhar, parecer
+first|adj|primeiro
+also|adv|também
+new|adj|novo
+because|conj|porque
+day|n|dia
+use|v|usar
+no|det|nenhum; não
+man|n|homem
+find|v|encontrar, achar
+here|adv|aqui
+thing|n|coisa
+give|v|dar
+many|det|muitos
+well|adv|bem
+only|adv|somente, apenas
+those|pron|aqueles, aquelas
+tell|v|contar, dizer
+very|adv|muito
+even|adv|até, mesmo
+back|adv|de volta, para trás
+any|det|qualquer, algum
+good|adj|bom
+woman|n|mulher
+through|prep|através de, por
+us|pron|nos, nós
+life|n|vida
+child|n|criança, filho
+work|v|trabalhar, funcionar
+down|adv|para baixo
+may|v|poder (possibilidade)
+after|prep|depois de
+should|v|deveria
+call|v|chamar, ligar
+world|n|mundo
+over|prep|sobre, acima de
+school|n|escola
+still|adv|ainda
+try|v|tentar
+last|adj|último, passado
+ask|v|perguntar, pedir
+need|v|precisar
+too|adv|também, demais
+feel|v|sentir
+three|num|três
+state|n|estado
+never|adv|nunca
+become|v|tornar-se
+between|prep|entre
+high|adj|alto
+really|adv|realmente, de verdade
+something|pron|algo, alguma coisa
+most|adv|mais, a maioria
+another|det|outro, mais um
+family|n|família
+own|adj|próprio
+leave|v|sair, deixar
+put|v|pôr, colocar
+old|adj|velho, antigo
+while|conj|enquanto
+mean|v|significar, querer dizer
+keep|v|manter, guardar
+student|n|estudante, aluno
+why|adv|por que
+let|v|deixar, permitir
+great|adj|ótimo, grande
+same|adj|mesmo, igual
+big|adj|grande
+group|n|grupo
+begin|v|começar
+seem|v|parecer
+country|n|país
+help|v|ajudar
+talk|v|conversar, falar
+where|adv|onde
+turn|v|virar, girar
+problem|n|problema
+every|det|cada, todo
+start|v|começar
+hand|n|mão
+might|v|poderia, talvez
+show|v|mostrar
+part|n|parte
+against|prep|contra
+place|n|lugar
+such|det|tal, tão
+again|adv|de novo, novamente
+few|det|poucos
+case|n|caso
+week|n|semana
+company|n|empresa, companhia
+system|n|sistema
+each|det|cada
+right|adj|certo, direito
+program|n|programa
+hear|v|ouvir
+question|n|pergunta, questão
+during|prep|durante
+play|v|jogar, brincar, tocar
+government|n|governo
+run|v|correr, administrar
+small|adj|pequeno
+number|n|número
+always|adv|sempre
+move|v|mover, mudar-se
+night|n|noite
+live|v|viver, morar
+point|n|ponto
+believe|v|acreditar
+hold|v|segurar
+today|adv|hoje
+bring|v|trazer
+happen|v|acontecer
+next|adj|próximo
+without|prep|sem
+before|prep|antes de
+large|adj|grande
+million|num|milhão
+must|v|dever, ter que
+home|n|casa, lar
+under|prep|embaixo de, sob
+water|n|água
+room|n|quarto, sala, espaço
+write|v|escrever
+mother|n|mãe
+area|n|área
+national|adj|nacional
+money|n|dinheiro
+story|n|história
+young|adj|jovem
+fact|n|fato
+month|n|mês
+different|adj|diferente
+lot|n|monte, muito
+study|v|estudar
+book|n|livro
+eye|n|olho
+job|n|emprego, trabalho
+word|n|palavra
+though|conj|embora
+business|n|negócio, empresa
+issue|n|questão, assunto
+side|n|lado
+kind|n|tipo, espécie
+four|num|quatro
+head|n|cabeça
+far|adv|longe
+black|adj|preto, negro
+long|adj|longo, comprido
+both|det|ambos
+little|adj|pequeno, pouco
+house|n|casa
+yes|adv|sim
+since|prep|desde
+provide|v|fornecer
+service|n|serviço
+around|prep|ao redor de, por volta de
+friend|n|amigo
+important|adj|importante
+father|n|pai
+sit|v|sentar
+away|adv|longe, embora
+until|prep|até
+power|n|poder, energia
+hour|n|hora
+game|n|jogo
+often|adv|frequentemente
+yet|adv|ainda, já
+line|n|linha, fila
+political|adj|político
+end|n|fim
+among|prep|entre (vários)
+ever|adv|já, alguma vez, sempre
+stand|v|ficar em pé
+bad|adj|ruim, mau
+lose|v|perder
+however|adv|no entanto
+member|n|membro
+pay|v|pagar
+law|n|lei
+meet|v|encontrar, conhecer
+car|n|carro
+city|n|cidade
+almost|adv|quase
+include|v|incluir
+continue|v|continuar
+set|v|definir, pôr, ajustar
+later|adv|mais tarde, depois
+community|n|comunidade
+much|adv|muito
+name|n|nome
+five|num|cinco
+once|adv|uma vez
+white|adj|branco
+least|adv|menos, mínimo
+president|n|presidente
+learn|v|aprender
+real|adj|real, verdadeiro
+change|v|mudar, trocar
+team|n|time, equipe
+minute|n|minuto
+best|adj|melhor
+several|det|vários
+idea|n|ideia
+kid|n|criança, garoto
+body|n|corpo
+information|n|informação
+nothing|pron|nada
+ago|adv|atrás (tempo)
+lead|v|liderar, conduzir
+social|adj|social
+understand|v|entender
+whether|conj|se (ou não)
+watch|v|assistir, observar
+together|adv|juntos
+follow|v|seguir
+parent|n|pai ou mãe
+stop|v|parar
+face|n|rosto, cara
+anything|pron|qualquer coisa, algo
+create|v|criar
+public|adj|público
+already|adv|já
+speak|v|falar
+others|pron|outros
+read|v|ler
+level|n|nível
+allow|v|permitir
+add|v|adicionar, somar
+office|n|escritório
+spend|v|gastar, passar (tempo)
+door|n|porta
+health|n|saúde
+person|n|pessoa
+art|n|arte
+sure|adj|certo, seguro
+war|n|guerra
+history|n|história
+party|n|festa, partido
+within|prep|dentro de
+grow|v|crescer
+result|n|resultado
+open|v|abrir
+morning|n|manhã
+walk|v|andar, caminhar
+reason|n|razão, motivo
+low|adj|baixo
+win|v|ganhar, vencer
+research|n|pesquisa
+girl|n|menina, garota
+guy|n|cara, sujeito
+early|adv|cedo
+food|n|comida
+moment|n|momento
+himself|pron|ele mesmo, se
+air|n|ar
+teacher|n|professor
+force|n|força
+offer|v|oferecer
+enough|adv|suficiente, bastante
+education|n|educação
+across|prep|através de, do outro lado
+although|conj|embora
+remember|v|lembrar
+foot|n|pé
+second|adj|segundo
+boy|n|menino, garoto
+maybe|adv|talvez
+toward|prep|em direção a
+able|adj|capaz
+age|n|idade
+policy|n|política (diretriz)
+everything|pron|tudo
+love|v|amar
+process|n|processo
+music|n|música
+including|prep|incluindo
+consider|v|considerar
+appear|v|aparecer
+actually|adv|na verdade
+buy|v|comprar
+probably|adv|provavelmente
+human|adj|humano
+wait|v|esperar
+serve|v|servir
+market|n|mercado
+die|v|morrer
+send|v|enviar, mandar
+expect|v|esperar (expectativa)
+sense|n|sentido
+build|v|construir
+stay|v|ficar, permanecer
+fall|v|cair
+oh|int|oh, ah
+nation|n|nação
+plan|n|plano
+cut|v|cortar
+college|n|faculdade
+interest|n|interesse
+death|n|morte
+course|n|curso; rumo
+someone|pron|alguém
+experience|n|experiência
+behind|prep|atrás de
+reach|v|alcançar, chegar a
+local|adj|local
+six|num|seis
+remain|v|permanecer
+effect|n|efeito
+yeah|int|é, sim
+suggest|v|sugerir
+class|n|aula, turma, classe
+control|n|controle
+raise|v|levantar, criar, aumentar
+care|n|cuidado
+perhaps|adv|talvez
+late|adj|atrasado, tarde
+hard|adj|difícil, duro
+field|n|campo
+else|adv|mais, outro
+pass|v|passar
+former|adj|antigo, ex-
+sell|v|vender
+major|adj|principal, importante
+sometimes|adv|às vezes
+require|v|exigir, precisar
+along|prep|ao longo de
+development|n|desenvolvimento
+themselves|pron|eles mesmos, se
+report|n|relatório
+role|n|papel, função
+better|adj|melhor
+economic|adj|econômico
+effort|n|esforço
+decide|v|decidir
+rate|n|taxa, índice
+strong|adj|forte
+possible|adj|possível
+heart|n|coração
+leader|n|líder
+light|n|luz
+voice|n|voz
+wife|n|esposa
+whole|adj|inteiro, todo
+police|n|polícia
+mind|n|mente
+finally|adv|finalmente
+pull|v|puxar
+return|v|voltar, devolver
+free|adj|livre, grátis
+military|adj|militar
+price|n|preço
+less|adv|menos
+according|adv|de acordo (com)
+decision|n|decisão
+explain|v|explicar
+son|n|filho
+hope|v|esperar (ter esperança)
+develop|v|desenvolver
+view|n|vista, opinião
+relationship|n|relacionamento
+carry|v|carregar, levar
+town|n|cidade pequena
+road|n|estrada, rua
+drive|v|dirigir
+arm|n|braço
+true|adj|verdadeiro
+break|v|quebrar
+difference|n|diferença
+thank|v|agradecer
+receive|v|receber
+value|n|valor
+international|adj|internacional
+building|n|prédio, edifício
+action|n|ação
+full|adj|cheio, completo
+model|n|modelo
+join|v|juntar-se, entrar em
+season|n|estação, temporada
+society|n|sociedade
+tax|n|imposto
+director|n|diretor
+position|n|posição
+player|n|jogador
+agree|v|concordar
+especially|adv|especialmente
+record|n|registro, recorde
+pick|v|escolher, pegar
+wear|v|vestir, usar (roupa)
+paper|n|papel
+special|adj|especial
+space|n|espaço
+ground|n|chão, solo
+form|n|forma, formulário
+support|v|apoiar
+event|n|evento
+official|n|funcionário, oficial
+whose|pron|cujo, de quem
+matter|n|assunto, questão
+everyone|pron|todos, todo mundo
+center|n|centro
+couple|n|casal, par
+site|n|local, site
+project|n|projeto
+hit|v|bater, atingir
+base|n|base
+activity|n|atividade
+star|n|estrela
+table|n|mesa, tabela
+court|n|tribunal, quadra
+produce|v|produzir
+eat|v|comer
+American|adj|americano
+teach|v|ensinar
+oil|n|óleo, petróleo
+half|n|metade
+situation|n|situação
+easy|adj|fácil
+cost|n|custo
+industry|n|indústria
+figure|n|figura, número
+street|n|rua
+image|n|imagem
+itself|pron|ele mesmo, se (coisa)
+phone|n|telefone
+either|det|qualquer um (de dois)
+data|n|dados
+cover|v|cobrir
+quite|adv|bastante, bem
+picture|n|imagem, foto
+clear|adj|claro
+practice|n|prática
+piece|n|pedaço, peça
+land|n|terra, terreno
+recent|adj|recente
+describe|v|descrever
+product|n|produto
+doctor|n|médico
+wall|n|parede, muro
+patient|n|paciente
+worker|n|trabalhador
+news|n|notícias
+test|n|teste, prova
+movie|n|filme
+certain|adj|certo, determinado
+north|n|norte
+personal|adj|pessoal
+simply|adv|simplesmente
+third|adj|terceiro
+technology|n|tecnologia
+catch|v|pegar, apanhar
+step|n|passo, degrau
+baby|n|bebê
+computer|n|computador
+type|n|tipo
+attention|n|atenção
+draw|v|desenhar
+film|n|filme
+tree|n|árvore
+source|n|fonte, origem
+red|adj|vermelho
+nearly|adv|quase
+organization|n|organização
+choose|v|escolher
+cause|v|causar
+hair|n|cabelo
+century|n|século
+evidence|n|evidência, prova
+window|n|janela
+difficult|adj|difícil
+listen|v|ouvir, escutar
+soon|adv|logo, em breve
+culture|n|cultura
+billion|num|bilhão
+chance|n|chance, oportunidade
+brother|n|irmão
+energy|n|energia
+period|n|período
+summer|n|verão
+realize|v|perceber, dar-se conta
+hundred|num|cem
+available|adj|disponível
+plant|n|planta, fábrica
+likely|adj|provável
+opportunity|n|oportunidade
+term|n|termo, prazo
+short|adj|curto, baixo
+letter|n|carta, letra
+condition|n|condição
+choice|n|escolha
+single|adj|único, solteiro
+rule|n|regra
+daughter|n|filha
+south|n|sul
+husband|n|marido
+floor|n|chão, andar
+campaign|n|campanha
+material|n|material
+population|n|população
+economy|n|economia
+medical|adj|médico
+hospital|n|hospital
+church|n|igreja
+close|v|fechar
+thousand|num|mil
+risk|n|risco
+current|adj|atual
+fire|n|fogo, incêndio
+future|n|futuro
+wrong|adj|errado
+involve|v|envolver
+defense|n|defesa
+anyone|pron|qualquer pessoa, alguém
+increase|v|aumentar
+security|n|segurança
+bank|n|banco
+myself|pron|eu mesmo, me
+certainly|adv|certamente
+west|n|oeste
+sport|n|esporte
+board|n|quadro, conselho
+seek|v|procurar, buscar
+per|prep|por (cada)
+subject|n|assunto, matéria
+officer|n|oficial, policial
+private|adj|privado, particular
+rest|n|descanso, resto
+behavior|n|comportamento
+deal|n|acordo, negócio
+performance|n|desempenho
+fight|v|lutar, brigar
+throw|v|jogar, lançar
+top|n|topo
+quickly|adv|rapidamente
+past|n|passado
+goal|n|objetivo, meta, gol
+bed|n|cama
+order|n|ordem, pedido
+author|n|autor
+fill|v|encher, preencher
+represent|v|representar
+focus|v|focar
+foreign|adj|estrangeiro
+drop|v|deixar cair, largar
+blood|n|sangue
+upon|prep|sobre, em cima de
+agency|n|agência
+push|v|empurrar
+nature|n|natureza
+color|n|cor
+recently|adv|recentemente
+store|n|loja
+reduce|v|reduzir
+sound|n|som
+note|n|nota, anotação
+fine|adj|bem, bom, fino
+near|prep|perto de
+movement|n|movimento
+page|n|página
+enter|v|entrar
+share|v|compartilhar, dividir
+common|adj|comum
+poor|adj|pobre
+natural|adj|natural
+race|n|corrida, raça
+concern|n|preocupação
+series|n|série
+significant|adj|significativo
+similar|adj|semelhante
+hot|adj|quente
+language|n|idioma, língua
+usually|adv|normalmente
+response|n|resposta
+dead|adj|morto
+rise|v|subir, levantar-se
+animal|n|animal
+factor|n|fator
+decade|n|década
+article|n|artigo
+shoot|v|atirar, filmar
+east|n|leste
+save|v|salvar, economizar
+seven|num|sete
+artist|n|artista
+scene|n|cena
+stock|n|estoque, ação (bolsa)
+career|n|carreira
+despite|prep|apesar de
+central|adj|central
+eight|num|oito
+thus|adv|assim, portanto
+treatment|n|tratamento
+beyond|prep|além de
+happy|adj|feliz
+exactly|adv|exatamente
+protect|v|proteger
+approach|n|abordagem
+lie|v|mentir; deitar
+size|n|tamanho
+dog|n|cachorro
+fund|n|fundo (dinheiro)
+serious|adj|sério
+occur|v|ocorrer
+media|n|mídia
+ready|adj|pronto
+sign|n|sinal, placa
+thought|n|pensamento
+list|n|lista
+individual|n|indivíduo
+simple|adj|simples
+quality|n|qualidade
+pressure|n|pressão
+accept|v|aceitar
+answer|n|resposta
+resource|n|recurso
+identify|v|identificar
+left|adj|esquerdo
+meeting|n|reunião
+determine|v|determinar
+prepare|v|preparar
+disease|n|doença
+whatever|pron|o que quer que, tanto faz
+success|n|sucesso
+argue|v|discutir, argumentar
+cup|n|xícara, copo
+particularly|adv|particularmente
+amount|n|quantidade
+ability|n|habilidade, capacidade
+staff|n|equipe, funcionários
+recognize|v|reconhecer
+indicate|v|indicar
+character|n|personagem, caráter
+growth|n|crescimento
+loss|n|perda
+degree|n|grau, diploma
+wonder|v|perguntar-se, imaginar
+attack|n|ataque
+herself|pron|ela mesma, se
+region|n|região
+television|n|televisão
+box|n|caixa
+training|n|treinamento
+pretty|adv|bastante, bem
+trade|n|comércio
+election|n|eleição
+everybody|pron|todo mundo
+physical|adj|físico
+lay|v|colocar, deitar (algo)
+general|adj|geral
+feeling|n|sentimento
+standard|n|padrão
+bill|n|conta, projeto de lei
+message|n|mensagem
+fail|v|falhar, fracassar
+outside|adv|fora, lá fora
+arrive|v|chegar
+analysis|n|análise
+benefit|n|benefício
+forward|adv|para frente
+lawyer|n|advogado
+present|adj|presente, atual
+section|n|seção
+environmental|adj|ambiental
+glass|n|vidro, copo
+skill|n|habilidade
+sister|n|irmã
+professor|n|professor (universitário)
+operation|n|operação
+financial|adj|financeiro
+crime|n|crime
+stage|n|palco, fase
+ok|adj|ok, tudo bem
+compare|v|comparar
+authority|n|autoridade
+miss|v|perder, sentir falta
+design|n|design, projeto
+sort|n|tipo, espécie
+act|v|agir, atuar
+ten|num|dez
+knowledge|n|conhecimento
+station|n|estação
+blue|adj|azul
+strategy|n|estratégia
+clearly|adv|claramente
+discuss|v|discutir, debater
+indeed|adv|de fato
+truth|n|verdade
+song|n|música, canção
+example|n|exemplo
+check|v|verificar, conferir
+environment|n|meio ambiente, ambiente
+leg|n|perna
+dark|adj|escuro
+various|adj|vários
+rather|adv|em vez de, bastante
+laugh|v|rir
+guess|v|adivinhar, achar
+executive|n|executivo
+prove|v|provar
+hang|v|pendurar
+entire|adj|inteiro
+rock|n|pedra, rocha
+forget|v|esquecer
+claim|v|alegar, reivindicar
+remove|v|remover
+manager|n|gerente
+enjoy|v|curtir, aproveitar
+network|n|rede
+legal|adj|legal, jurídico
+religious|adj|religioso
+cold|adj|frio
+final|adj|final
+main|adj|principal
+science|n|ciência
+green|adj|verde
+memory|n|memória
+card|n|cartão, carta
+above|prep|acima de
+seat|n|assento
+cell|n|célula, celular
+establish|v|estabelecer
+nice|adj|legal, agradável
+trial|n|julgamento, teste
+expert|n|especialista
+spring|n|primavera, mola
+firm|n|firma, empresa
+radio|n|rádio
+visit|v|visitar
+management|n|gestão, gerência
+avoid|v|evitar
+imagine|v|imaginar
+tonight|adv|hoje à noite
+huge|adj|enorme
+ball|n|bola
+finish|v|terminar
+yourself|pron|você mesmo
+theory|n|teoria
+impact|n|impacto
+respond|v|responder
+statement|n|declaração
+maintain|v|manter
+charge|n|cobrança, acusação
+popular|adj|popular
+traditional|adj|tradicional
+onto|prep|sobre, para cima de
+reveal|v|revelar
+direction|n|direção
+employee|n|funcionário
+cultural|adj|cultural
+contain|v|conter
+peace|n|paz
+pain|n|dor
+apply|v|aplicar, candidatar-se
+measure|v|medir
+wide|adj|largo, amplo
+shake|v|sacudir, tremer
+fly|v|voar
+interview|n|entrevista
+manage|v|gerenciar, conseguir
+chair|n|cadeira
+fish|n|peixe
+particular|adj|particular, específico
+camera|n|câmera
+structure|n|estrutura
+politics|n|política
+perform|v|realizar, apresentar
+bit|n|pouco, pedaço
+weight|n|peso
+suddenly|adv|de repente
+discover|v|descobrir
+candidate|n|candidato
+production|n|produção
+treat|v|tratar
+trip|n|viagem
+evening|n|noite, fim de tarde
+affect|v|afetar
+inside|adv|dentro
+conference|n|conferência
+unit|n|unidade
+style|n|estilo
+adult|n|adulto
+worry|v|preocupar-se
+range|n|variedade, alcance
+mention|v|mencionar
+deep|adj|profundo
+edge|n|borda, beira
+specific|adj|específico
+writer|n|escritor
+trouble|n|problema, encrenca
+necessary|adj|necessário
+throughout|prep|durante todo, por todo
+challenge|n|desafio
+fear|n|medo
+shoulder|n|ombro
+institution|n|instituição
+middle|n|meio
+sea|n|mar
+dream|n|sonho
+bar|n|bar, barra
+beautiful|adj|bonito, lindo
+property|n|propriedade
+instead|adv|em vez disso
+improve|v|melhorar
+stuff|n|coisas
+detail|n|detalhe
+method|n|método
+somebody|pron|alguém
+magazine|n|revista
+hotel|n|hotel
+soldier|n|soldado
+reflect|v|refletir
+heavy|adj|pesado
+bag|n|bolsa, sacola
+heat|n|calor
+marriage|n|casamento
+tough|adj|duro, difícil
+sing|v|cantar
+surface|n|superfície
+purpose|n|propósito
+exist|v|existir
+pattern|n|padrão
+whom|pron|quem (objeto)
+skin|n|pele
+agent|n|agente
+owner|n|dono
+machine|n|máquina
+gas|n|gás, gasolina
+ahead|adv|à frente
+generation|n|geração
+commercial|adj|comercial
+address|n|endereço
+cancer|n|câncer
+item|n|item
+reality|n|realidade
+coach|n|treinador
+yard|n|quintal, jarda
+beat|v|bater, vencer
+violence|n|violência
+total|adj|total
+tend|v|tender
+investment|n|investimento
+discussion|n|discussão
+finger|n|dedo
+garden|n|jardim
+notice|v|notar, perceber
+collection|n|coleção
+modern|adj|moderno
+task|n|tarefa
+partner|n|parceiro, sócio
+positive|adj|positivo
+civil|adj|civil
+kitchen|n|cozinha
+consumer|n|consumidor
+shot|n|tiro, foto, dose
+budget|n|orçamento
+wish|v|desejar
+painting|n|pintura
+scientist|n|cientista
+safe|adj|seguro
+agreement|n|acordo
+capital|n|capital
+mouth|n|boca
+nor|conj|nem
+victim|n|vítima
+newspaper|n|jornal
+threat|n|ameaça
+responsibility|n|responsabilidade
+smile|v|sorrir
+score|n|placar, pontuação
+account|n|conta
+interesting|adj|interessante
+audience|n|público, plateia
+rich|adj|rico
+dinner|n|jantar
+vote|v|votar
+western|adj|ocidental
+relate|v|relacionar
+travel|v|viajar
+debate|n|debate
+prevent|v|prevenir, impedir
+citizen|n|cidadão
+majority|n|maioria
+none|pron|nenhum
+front|n|frente
+born|adj|nascido
+admit|v|admitir
+senior|adj|sênior, mais velho
+assume|v|supor, assumir
+wind|n|vento
+key|n|chave
+professional|adj|profissional
+mission|n|missão
+fast|adj|rápido
+alone|adj|sozinho
+customer|n|cliente
+suffer|v|sofrer
+speech|n|discurso, fala
+successful|adj|bem-sucedido
+option|n|opção
+participant|n|participante
+southern|adj|do sul
+fresh|adj|fresco
+eventually|adv|finalmente, com o tempo
+forest|n|floresta
+video|n|vídeo
+global|adj|global
+reform|n|reforma
+access|n|acesso
+restaurant|n|restaurante
+judge|n|juiz
+publish|v|publicar
+relation|n|relação
+release|v|lançar, liberar
+bird|n|pássaro
+opinion|n|opinião
+credit|n|crédito
+critical|adj|crítico
+corner|n|canto, esquina
+concerned|adj|preocupado
+recall|v|lembrar, recordar
+version|n|versão
+stare|v|encarar, olhar fixamente
+safety|n|segurança
+effective|adj|eficaz
+neighborhood|n|bairro, vizinhança
+original|adj|original
+income|n|renda
+directly|adv|diretamente
+hurt|v|machucar, doer
+species|n|espécie
+immediately|adv|imediatamente
+track|n|trilha, faixa
+basic|adj|básico
+strike|v|atingir, golpear
+sky|n|céu
+freedom|n|liberdade
+absolutely|adv|absolutamente
+plane|n|avião
+nobody|pron|ninguém
+achieve|v|alcançar, conquistar
+object|n|objeto
+attitude|n|atitude
+labor|n|trabalho, mão de obra
+refer|v|referir-se
+concept|n|conceito
+client|n|cliente
+powerful|adj|poderoso
+perfect|adj|perfeito
+nine|num|nove
+therefore|adv|portanto
+conduct|v|conduzir, realizar
+announce|v|anunciar
+conversation|n|conversa
+examine|v|examinar
+touch|v|tocar
+please|adv|por favor
+attend|v|frequentar, comparecer
+completely|adv|completamente
+variety|n|variedade
+sleep|v|dormir
+involved|adj|envolvido
+investigation|n|investigação
+nuclear|adj|nuclear
+researcher|n|pesquisador
+press|v|pressionar, apertar
+conflict|n|conflito
+spirit|n|espírito
+replace|v|substituir
+British|adj|britânico
+encourage|v|encorajar
+argument|n|argumento, discussão
+camp|n|acampamento
+brain|n|cérebro
+feature|n|característica, recurso
+afternoon|n|tarde
+weekend|n|fim de semana
+dozen|n|dúzia
+possibility|n|possibilidade
+insurance|n|seguro
+department|n|departamento
+battle|n|batalha
+beginning|n|começo
+date|n|data, encontro
+generally|adv|geralmente
+African|adj|africano
+sorry|adj|desculpe, arrependido
+crisis|n|crise
+complete|v|completar
+fan|n|fã, ventilador
+stick|v|grudar, colar
+define|v|definir
+easily|adv|facilmente
+hole|n|buraco
+element|n|elemento
+vision|n|visão
+status|n|status, situação
+normal|adj|normal
+Chinese|adj|chinês
+ship|n|navio
+solution|n|solução
+stone|n|pedra
+slowly|adv|devagar
+scale|n|escala, balança
+university|n|universidade
+introduce|v|apresentar, introduzir
+driver|n|motorista
+attempt|n|tentativa
+park|n|parque
+spot|n|lugar, mancha
+lack|n|falta
+ice|n|gelo
+boat|n|barco
+drink|v|beber
+sun|n|sol
+distance|n|distância
+wood|n|madeira
+handle|v|lidar com, manusear
+truck|n|caminhão
+mountain|n|montanha
+survey|n|pesquisa, levantamento
+supposed|adj|suposto
+tradition|n|tradição
+winter|n|inverno
+village|n|vila, aldeia
+refuse|v|recusar
+sales|n|vendas
+roll|v|rolar
+communication|n|comunicação
+screen|n|tela
+gain|v|ganhar, obter
+resident|n|morador
+hide|v|esconder
+gold|n|ouro
+club|n|clube
+farm|n|fazenda
+potential|adj|potencial
+European|adj|europeu
+presence|n|presença
+independent|adj|independente
+district|n|distrito, bairro
+shape|n|forma
+reader|n|leitor
+contract|n|contrato
+crowd|n|multidão
+Christian|adj|cristão
+express|v|expressar
+apartment|n|apartamento
+willing|adj|disposto
+strength|n|força
+previous|adj|anterior
+band|n|banda
+obviously|adv|obviamente
+horse|n|cavalo
+interested|adj|interessado
+target|n|alvo, meta
+prison|n|prisão
+ride|v|andar (de bicicleta, cavalo)
+guard|n|guarda
+terms|n|termos, condições
+demand|n|demanda, exigência
+reporter|n|repórter
+deliver|v|entregar
+text|n|texto, mensagem
+tool|n|ferramenta
+wild|adj|selvagem
+vehicle|n|veículo
+observe|v|observar
+flight|n|voo
+facility|n|instalação
+understanding|n|compreensão
+average|adj|médio
+emerge|v|surgir, emergir
+advantage|n|vantagem
+quick|adj|rápido
+leadership|n|liderança
+earn|v|ganhar (dinheiro)
+pound|n|libra
+basis|n|base
+bright|adj|brilhante, claro
+operate|v|operar
+guest|n|convidado, hóspede
+sample|n|amostra
+contribute|v|contribuir
+tiny|adj|minúsculo
+block|n|quarteirão, bloco
+protection|n|proteção
+settle|v|resolver, estabelecer-se
+feed|v|alimentar
+collect|v|coletar, juntar
+additional|adj|adicional
+highly|adv|altamente
+identity|n|identidade
+title|n|título
+mostly|adv|principalmente
+lesson|n|lição, aula
+faith|n|fé
+river|n|rio
+promote|v|promover
+living|n|vida, sustento
+count|v|contar
+unless|conj|a menos que
+marry|v|casar
+tomorrow|adv|amanhã
+technique|n|técnica
+path|n|caminho, trilha
+ear|n|orelha, ouvido
+shop|n|loja
+folk|n|pessoas, gente
+principle|n|princípio
+survive|v|sobreviver
+lift|v|levantar
+border|n|fronteira, borda
+competition|n|competição
+jump|v|pular
+gather|v|reunir, juntar
+limit|n|limite
+fit|v|caber, servir
+cry|v|chorar, gritar
+equipment|n|equipamento
+worth|adj|que vale
+associate|v|associar
+critic|n|crítico
+warm|adj|morno, quente, caloroso
+aspect|n|aspecto
+insist|v|insistir
+failure|n|fracasso, falha
+annual|adj|anual
+French|adj|francês
+Christmas|n|Natal
+comment|n|comentário
+responsible|adj|responsável
+affair|n|caso, assunto
+procedure|n|procedimento
+regular|adj|regular, comum
+spread|v|espalhar
+soft|adj|macio, suave
+ignore|v|ignorar
+egg|n|ovo
+belief|n|crença
+demonstrate|v|demonstrar
+anybody|pron|qualquer um, alguém
+gift|n|presente, dom
+religion|n|religião
+review|n|análise, revisão
+editor|n|editor
+engage|v|envolver-se, engajar
+coffee|n|café
+document|n|documento
+speed|n|velocidade
+cross|v|atravessar, cruzar
+influence|n|influência
+anyway|adv|de qualquer forma
+threaten|v|ameaçar
+commit|v|cometer, comprometer-se
+female|adj|feminino
+youth|n|juventude
+wave|n|onda
+afraid|adj|com medo
+quarter|n|quarto, trimestre
+background|n|fundo, histórico
+native|adj|nativo
+broad|adj|amplo, largo
+wonderful|adj|maravilhoso
+deny|v|negar
+apparently|adv|aparentemente
+slightly|adv|ligeiramente
+reaction|n|reação
+twice|adv|duas vezes
+suit|n|terno
+perspective|n|perspectiva
+growing|adj|crescente
+blow|v|soprar, explodir
+construction|n|construção
+intelligence|n|inteligência
+destroy|v|destruir
+cook|v|cozinhar
+connection|n|conexão
+burn|v|queimar
+shoe|n|sapato
+grade|n|nota, série
+context|n|contexto
+committee|n|comitê
+hey|int|ei, oi
+mistake|n|erro
+location|n|localização
+clothes|n|roupas
+Indian|adj|indiano
+quiet|adj|quieto, silencioso
+dress|n|vestido
+promise|v|prometer
+aware|adj|ciente
+neighbor|n|vizinho
+function|n|função
+bone|n|osso
+active|adj|ativo
+extend|v|estender
+chief|adj|chefe, principal
+combine|v|combinar
+wine|n|vinho
+below|prep|abaixo de
+cool|adj|fresco, legal
+voter|n|eleitor
+learning|n|aprendizado
+bus|n|ônibus
+dangerous|adj|perigoso
+remind|v|lembrar (alguém)
+moral|adj|moral
+category|n|categoria
+relatively|adv|relativamente
+victory|n|vitória
+academic|adj|acadêmico
+Internet|n|internet
+healthy|adj|saudável
+negative|adj|negativo
+following|adj|seguinte
+historical|adj|histórico
+medicine|n|remédio, medicina
+tour|n|passeio, turnê
+depend|v|depender
+photo|n|foto
+finding|n|descoberta, resultado
+grab|v|agarrar
+direct|adj|direto
+classroom|n|sala de aula
+contact|n|contato
+justice|n|justiça
+participate|v|participar
+daily|adj|diário
+fair|adj|justo
+pair|n|par
+famous|adj|famoso
+exercise|n|exercício
+knee|n|joelho
+flower|n|flor
+tape|n|fita
+hire|v|contratar
+familiar|adj|familiar, conhecido
+appropriate|adj|apropriado
+supply|n|suprimento, oferta
+fully|adv|totalmente
+actor|n|ator
+birth|n|nascimento
+search|n|busca
+tie|n|gravata, empate
+democracy|n|democracia
+eastern|adj|oriental
+primary|adj|primário, principal
+yesterday|adv|ontem
+circle|n|círculo
+device|n|dispositivo
+progress|n|progresso
+bottom|n|fundo, parte de baixo
+island|n|ilha
+exchange|n|troca, câmbio
+clean|adj|limpo
+studio|n|estúdio
+train|n|trem
+lady|n|senhora, dama
+colleague|n|colega
+application|n|aplicativo, candidatura
+neck|n|pescoço
+lean|v|inclinar-se, apoiar-se
+damage|n|dano
+plastic|n|plástico
+tall|adj|alto
+plate|n|prato
+hate|v|odiar
+otherwise|adv|caso contrário
+writing|n|escrita
+male|adj|masculino
+alive|adj|vivo
+expression|n|expressão
+football|n|futebol (americano)
+intend|v|pretender
+chicken|n|frango, galinha
+army|n|exército
+theater|n|teatro
+shut|v|fechar
+map|n|mapa
+extra|adj|extra
+session|n|sessão
+danger|n|perigo
+welcome|v|dar boas-vindas
+domestic|adj|doméstico, nacional
+lots|n|muitos, um monte
+literature|n|literatura
+rain|n|chuva
+desire|n|desejo
+assessment|n|avaliação
+injury|n|lesão, ferimento
+respect|n|respeito
+northern|adj|do norte
+nod|v|acenar com a cabeça
+paint|v|pintar
+fuel|n|combustível
+leaf|n|folha
+dry|adj|seco
+Russian|adj|russo
+instruction|n|instrução
+pool|n|piscina
+climb|v|escalar, subir
+sweet|adj|doce
+engine|n|motor
+fourth|adj|quarto
+salt|n|sal
+expand|v|expandir
+importance|n|importância
+metal|n|metal
+fat|adj|gordo
+ticket|n|ingresso, passagem
+software|n|software
+disappear|v|desaparecer
+corporate|adj|corporativo
+strange|adj|estranho
+lip|n|lábio
+reading|n|leitura
+urban|adj|urbano
+mental|adj|mental
+increasingly|adv|cada vez mais
+lunch|n|almoço
+educational|adj|educacional
+somewhere|adv|em algum lugar
+farmer|n|fazendeiro, agricultor
+sugar|n|açúcar
+planet|n|planeta
+favorite|adj|favorito
+explore|v|explorar
+obtain|v|obter
+enemy|n|inimigo
+greatest|adj|maior, melhor
+complex|adj|complexo
+surround|v|cercar
+athlete|n|atleta
+invite|v|convidar
+repeat|v|repetir
+carefully|adv|cuidadosamente
+soul|n|alma
+scientific|adj|científico
+impossible|adj|impossível
+panel|n|painel
+meaning|n|significado
+mom|n|mãe, mamãe
+married|adj|casado
+instrument|n|instrumento
+predict|v|prever
+weather|n|tempo, clima
+emotional|adj|emocional
+commitment|n|compromisso
+bear|v|suportar, aguentar
+pocket|n|bolso
+thin|adj|fino, magro
+temperature|n|temperatura
+surprise|n|surpresa
+poll|n|pesquisa (de opinião)
+proposal|n|proposta
+consequence|n|consequência
+breath|n|respiração, fôlego
+sight|n|visão, vista
+balance|n|equilíbrio, saldo
+adopt|v|adotar
+minority|n|minoria
+straight|adj|reto, direto
+connect|v|conectar
+works|n|obras
+teaching|n|ensino
+belong|v|pertencer
+aid|n|ajuda
+advice|n|conselho
+okay|adv|tudo bem, ok
+photograph|n|fotografia
+empty|adj|vazio
+regional|adj|regional
+trail|n|trilha
+novel|n|romance (livro)
+code|n|código
+somehow|adv|de alguma forma
+organize|v|organizar
+acknowledge|v|reconhecer
+theme|n|tema
+storm|n|tempestade
+union|n|sindicato, união
+desk|n|mesa (de trabalho)
+thanks|n|obrigado
+fruit|n|fruta
+expensive|adj|caro
+yellow|adj|amarelo
+conservative|adj|conservador
+wake|v|acordar
+mirror|n|espelho
+English|n|inglês
+reply|v|responder
+ourselves|pron|nós mesmos
+fix|v|consertar
+shirt|n|camisa
+tea|n|chá
+milk|n|leite
+bread|n|pão
+cheap|adj|barato
+hungry|adj|com fome
+tired|adj|cansado
+sick|adj|doente
+angry|adj|bravo, irritado
+sad|adj|triste
+funny|adj|engraçado
+clever|adj|esperto
+beach|n|praia
+holiday|n|feriado, férias
+kiss|v|beijar
+hello|int|olá
+goodbye|int|tchau, adeus
+cat|n|gato
+rice|n|arroz
+meat|n|carne
+apple|n|maçã
+nose|n|nariz
+tooth|n|dente
+uncle|n|tio
+aunt|n|tia
+cousin|n|primo
+grandmother|n|avó
