@@ -44,10 +44,8 @@ class CloudSync extends ChangeNotifier {
   static const _pushDelay = Duration(seconds: 2);
 
   Future<void> init() async {
-    final options = firebaseWebOptions;
-    if (options == null) return;
     try {
-      await Firebase.initializeApp(options: options);
+      await Firebase.initializeApp(options: firebaseWebOptions);
     } catch (e) {
       debugPrint('Firebase indisponível: $e');
       return;
@@ -64,11 +62,12 @@ class CloudSync extends ChangeNotifier {
           e.code == 'cancelled-popup-request') {
         return;
       }
-      _fail(
-        e.code == 'unauthorized-domain'
-            ? 'Este endereço não está autorizado no Firebase (Authentication → Domínios autorizados).'
-            : 'Não foi possível entrar: ${e.message ?? e.code}',
-      );
+      _fail(switch (e.code) {
+        'unauthorized-domain' => 'Este endereço não está autorizado no Firebase (Authentication → Domínios autorizados).',
+        'operation-not-allowed' || 'configuration-not-found' => 'O login com Google ainda não foi ativado no Firebase (Authentication → Método de login).',
+        'popup-blocked' => 'O navegador bloqueou a janela de login. Permita pop-ups para este site e tente de novo.',
+        _ => 'Não foi possível entrar: ${e.message ?? e.code}',
+      });
     }
   }
 

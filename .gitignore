@@ -49,3 +49,7 @@ app.*.map.json
 
 # Configuração local do Claude Code
 .claude/
+
+# Firebase CLI
+firebase-debug.log
+.firebase/
