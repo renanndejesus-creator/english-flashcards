@@ -145,6 +145,11 @@ class CloudSync extends ChangeNotifier {
       _isAdmin = true;
       _registerLogin(user, owner: true);
       _grantAccess(user);
+      // O dono não depende do cadastro para entrar; só acompanha o nome.
+      _memberSub = memberDoc(email).snapshots().listen((doc) {
+        _memberName = doc.data()?['name'] as String?;
+        notifyListeners();
+      }, onError: (Object _) {});
       return;
     }
     // Acompanha o cadastro: se o administrador remover o e-mail, o acesso cai na hora.

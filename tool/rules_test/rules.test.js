@@ -80,6 +80,12 @@ test('administrador cadastrado gerencia acessos e vê o progresso', async () => 
   await assertFails(setDoc(doc(db, 'users/ana'), { data: '{}' }));
 });
 
+test('só administradores editam o nome no cadastro', async () => {
+  await assertSucceeds(updateDoc(doc(as('bia', 'bia@gmail.com'), 'allowedUsers/ana@gmail.com'), { name: 'Ana Paula' }));
+  await assertSucceeds(updateDoc(doc(as('owner', OWNER), 'allowedUsers/ana@gmail.com'), { name: 'Ana' }));
+  await assertFails(updateDoc(doc(as('ana', 'ana@gmail.com'), 'allowedUsers/ana@gmail.com'), { name: 'Outro nome' }));
+});
+
 test('e-mail não verificado é recusado', async () => {
   const db = as('ana', 'ana@gmail.com', false);
   await assertFails(getDoc(doc(db, 'users/ana')));

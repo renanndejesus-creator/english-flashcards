@@ -311,11 +311,13 @@ class _MemberTile extends StatelessWidget {
                 ],
               ),
             ),
-            if (!m.isOwner && !me)
-              PopupMenuButton<String>(
-                tooltip: 'Opções',
-                onSelected: (action) => _onAction(context, action),
-                itemBuilder: (context) => [
+            PopupMenuButton<String>(
+              tooltip: 'Opções',
+              onSelected: (action) => _onAction(context, action),
+              itemBuilder: (context) => [
+                const PopupMenuItem(value: 'name', child: Text('Editar nome')),
+                // O dono e a própria conta não podem perder o acesso por aqui.
+                if (!m.isOwner && !me) ...[
                   PopupMenuItem(
                     value: 'role',
                     child: Text(
@@ -329,7 +331,8 @@ class _MemberTile extends StatelessWidget {
                     child: Text('Remover acesso'),
                   ),
                 ],
-              ),
+              ],
+            ),
           ],
         ),
       ),
@@ -341,6 +344,19 @@ class _MemberTile extends StatelessWidget {
     try {
       if (action == 'role') {
         await AdminService.setAdmin(member.email, !member.isAdmin);
+        return;
+      }
+      if (action == 'name') {
+        final name = await showDialog<String>(
+          context: context,
+          builder: (context) => _EditNameDialog(member: member),
+        );
+        if (name != null) {
+          await AdminService.setName(member.email, name);
+          messenger.showSnackBar(
+            SnackBar(content: Text('Nome atualizado: ${member.email}')),
+          );
+        }
         return;
       }
       final ok = await showDialog<bool>(
@@ -372,6 +388,65 @@ class _MemberTile extends StatelessWidget {
     } catch (e) {
       messenger.showSnackBar(SnackBar(content: Text('Não foi possível: $e')));
     }
+  }
+}
+
+class _EditNameDialog extends StatefulWidget {
+  const _EditNameDialog({required this.member});
+
+  final Member member;
+
+  @override
+  State<_EditNameDialog> createState() => _EditNameDialogState();
+}
+
+class _EditNameDialogState extends State<_EditNameDialog> {
+  late final _controller = TextEditingController(
+    text: widget.member.name ?? '',
+  );
+
+  @override
+  void dispose() {
+    _controller.dispose();
+    super.dispose();
+  }
+
+  void _save() => Navigator.pop(context, _controller.text);
+
+  @override
+  Widget build(BuildContext context) {
+    final google = widget.member.displayName;
+    return AlertDialog(
+      title: const Text('Editar nome'),
+      content: Column(
+        mainAxisSize: MainAxisSize.min,
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(widget.member.email),
+          const SizedBox(height: 16),
+          TextField(
+            controller: _controller,
+            autofocus: true,
+            textCapitalization: TextCapitalization.words,
+            decoration: InputDecoration(
+              labelText: 'Nome',
+              border: const OutlineInputBorder(),
+              helperText: google == null
+                  ? 'Deixe vazio para usar o nome da conta Google'
+                  : 'Deixe vazio para usar o nome do Google ($google)',
+            ),
+            onSubmitted: (_) => _save(),
+          ),
+        ],
+      ),
+      actions: [
+        TextButton(
+          onPressed: () => Navigator.pop(context),
+          child: const Text('Cancelar'),
+        ),
+        FilledButton(onPressed: _save, child: const Text('Salvar')),
+      ],
+    );
   }
 }
 

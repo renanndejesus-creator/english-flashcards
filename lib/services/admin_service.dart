@@ -117,6 +117,11 @@ class AdminService {
   static Future<void> setAdmin(String email, bool admin) =>
       CloudSync.memberDoc(email).update({'role': admin ? 'admin' : 'user'});
 
+  /// Troca o nome mostrado no console e no cumprimento. Vazio = usar o do Google.
+  static Future<void> setName(String email, String name) => CloudSync.memberDoc(
+    email,
+  ).update({'name': name.trim().isEmpty ? FieldValue.delete() : name.trim()});
+
   /// Remove o acesso. O progresso da pessoa continua guardado.
   static Future<void> remove(String email) =>
       CloudSync.memberDoc(email).delete();
