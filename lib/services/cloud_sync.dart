@@ -50,6 +50,15 @@ class CloudSync extends ChangeNotifier {
   bool _isAdmin = false;
   bool get isAdmin => _isAdmin;
 
+  /// Nome digitado no cadastro do console (tem prioridade sobre o do Google).
+  String? _memberName;
+
+  /// Primeiro nome para cumprimentar a pessoa, ou null se não houver.
+  String? get firstName {
+    final name = (_memberName ?? _user?.displayName ?? '').trim();
+    return name.isEmpty ? null : name.split(RegExp(r'\s+')).first;
+  }
+
   /// Janela de login do Google aberta, aguardando o usuário.
   bool _signingIn = false;
   bool get signingIn => _signingIn;
@@ -123,6 +132,7 @@ class CloudSync extends ChangeNotifier {
     _stopSync();
     _memberSub?.cancel();
     _isAdmin = false;
+    _memberName = null;
     if (user == null) {
       _app.useAccount(null);
       _setStatus(SyncStatus.signedOut);
@@ -144,6 +154,7 @@ class CloudSync extends ChangeNotifier {
         return;
       }
       _isAdmin = doc.data()?['role'] == 'admin';
+      _memberName = doc.data()?['name'] as String?;
       if (_access != Access.allowed) {
         _registerLogin(user);
         _grantAccess(user);

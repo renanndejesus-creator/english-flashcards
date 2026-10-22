@@ -13,6 +13,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final app = AppScope.of(context);
+    final name = SyncScope.of(context).firstName;
     final theme = Theme.of(context);
     final seen = app.seenCount;
     final total = app.words.length;
@@ -21,7 +22,7 @@ class HomeScreen extends StatelessWidget {
       padding: const EdgeInsets.all(16),
       children: [
         Text(
-          'Olá! 👋',
+          name == null ? 'Olá! 👋' : 'Olá, $name! 👋',
           style: theme.textTheme.headlineMedium?.copyWith(
             fontWeight: FontWeight.bold,
           ),
