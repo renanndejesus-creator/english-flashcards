@@ -1,1500 +1,1500 @@
-the|det|o, a, os, as
-be|v|ser, estar
-and|conj|e
-of|prep|de
-a|det|um, uma
-to|prep|para, a
-in|prep|em, dentro de
-have|v|ter
-it|pron|isso, ele, ela (coisa)
-I|pron|eu
-that|pron|que, aquilo, aquele
-for|prep|para, por
-you|pron|você, vocês
-he|pron|ele
-with|prep|com
-on|prep|em, sobre
-do|v|fazer
-say|v|dizer
-this|pron|isto, este, esta
-they|pron|eles, elas
-at|prep|em, no, na
-but|conj|mas
-we|pron|nós
-his|det|dele, seu
-from|prep|de, desde
-not|adv|não
-by|prep|por, perto de
-she|pron|ela
-or|conj|ou
-as|conj|como, enquanto
-what|pron|o que, qual
-go|v|ir
-their|det|deles, delas
-can|v|poder, conseguir
-who|pron|quem
-get|v|conseguir, obter, pegar
-if|conj|se
-would|v|(futuro do pretérito) -ria
-her|pron|ela, dela
-all|det|todo, todos
-my|det|meu, minha
-make|v|fazer, fabricar
-about|prep|sobre, a respeito de
-know|v|saber, conhecer
-will|v|(futuro) -rá; vontade
-up|adv|para cima
-one|num|um, uma
-time|n|tempo, vez, hora
-there|adv|lá, ali; haver
-year|n|ano
-so|adv|então, tão, assim
-think|v|pensar, achar
-when|adv|quando
-which|pron|qual, que
-them|pron|eles, elas (objeto)
-some|det|algum, alguns, um pouco
-me|pron|me, mim
-people|n|pessoas, povo
-take|v|pegar, levar, tomar
-out|adv|fora, para fora
-into|prep|para dentro de
-just|adv|apenas, só, acabou de
-see|v|ver
-him|pron|ele, o, lhe
-your|det|seu, sua, de você
-come|v|vir
-could|v|poderia, podia
-now|adv|agora
-than|conj|do que
-like|prep|como, igual a
-other|adj|outro
-how|adv|como
-then|adv|então, depois
-its|det|seu, sua (de coisa)
-our|det|nosso, nossa
-two|num|dois
-more|adv|mais
-these|pron|estes, estas
-want|v|querer
-way|n|caminho, maneira, jeito
-look|v|olhar, parecer
-first|adj|primeiro
-also|adv|também
-new|adj|novo
-because|conj|porque
-day|n|dia
-use|v|usar
-no|det|nenhum; não
-man|n|homem
-find|v|encontrar, achar
-here|adv|aqui
-thing|n|coisa
-give|v|dar
-many|det|muitos
-well|adv|bem
-only|adv|somente, apenas
-those|pron|aqueles, aquelas
-tell|v|contar, dizer
-very|adv|muito
-even|adv|até, mesmo
-back|adv|de volta, para trás
-any|det|qualquer, algum
-good|adj|bom
-woman|n|mulher
-through|prep|através de, por
-us|pron|nos, nós
-life|n|vida
-child|n|criança, filho
-work|v|trabalhar, funcionar
-down|adv|para baixo
-may|v|poder (possibilidade)
-after|prep|depois de
-should|v|deveria
-call|v|chamar, ligar
-world|n|mundo
-over|prep|sobre, acima de
-school|n|escola
-still|adv|ainda
-try|v|tentar
-last|adj|último, passado
-ask|v|perguntar, pedir
-need|v|precisar
-too|adv|também, demais
-feel|v|sentir
-three|num|três
-state|n|estado
-never|adv|nunca
-become|v|tornar-se
-between|prep|entre
-high|adj|alto
-really|adv|realmente, de verdade
-something|pron|algo, alguma coisa
-most|adv|mais, a maioria
-another|det|outro, mais um
-family|n|família
-own|adj|próprio
-leave|v|sair, deixar
-put|v|pôr, colocar
-old|adj|velho, antigo
-while|conj|enquanto
-mean|v|significar, querer dizer
-keep|v|manter, guardar
-student|n|estudante, aluno
-why|adv|por que
-let|v|deixar, permitir
-great|adj|ótimo, grande
-same|adj|mesmo, igual
-big|adj|grande
-group|n|grupo
-begin|v|começar
-seem|v|parecer
-country|n|país
-help|v|ajudar
-talk|v|conversar, falar
-where|adv|onde
-turn|v|virar, girar
-problem|n|problema
-every|det|cada, todo
-start|v|começar
-hand|n|mão
-might|v|poderia, talvez
-show|v|mostrar
-part|n|parte
-against|prep|contra
-place|n|lugar
-such|det|tal, tão
-again|adv|de novo, novamente
-few|det|poucos
-case|n|caso
-week|n|semana
-company|n|empresa, companhia
-system|n|sistema
-each|det|cada
-right|adj|certo, direito
-program|n|programa
-hear|v|ouvir
-question|n|pergunta, questão
-during|prep|durante
-play|v|jogar, brincar, tocar
-government|n|governo
-run|v|correr, administrar
-small|adj|pequeno
-number|n|número
-always|adv|sempre
-move|v|mover, mudar-se
-night|n|noite
-live|v|viver, morar
-point|n|ponto
-believe|v|acreditar
-hold|v|segurar
-today|adv|hoje
-bring|v|trazer
-happen|v|acontecer
-next|adj|próximo
-without|prep|sem
-before|prep|antes de
-large|adj|grande
-million|num|milhão
-must|v|dever, ter que
-home|n|casa, lar
-under|prep|embaixo de, sob
-water|n|água
-room|n|quarto, sala, espaço
-write|v|escrever
-mother|n|mãe
-area|n|área
-national|adj|nacional
-money|n|dinheiro
-story|n|história
-young|adj|jovem
-fact|n|fato
-month|n|mês
-different|adj|diferente
-lot|n|monte, muito
-study|v|estudar
-book|n|livro
-eye|n|olho
-job|n|emprego, trabalho
-word|n|palavra
-though|conj|embora
-business|n|negócio, empresa
-issue|n|questão, assunto
-side|n|lado
-kind|n|tipo, espécie
-four|num|quatro
-head|n|cabeça
-far|adv|longe
-black|adj|preto, negro
-long|adj|longo, comprido
-both|det|ambos
-little|adj|pequeno, pouco
-house|n|casa
-yes|adv|sim
-since|prep|desde
-provide|v|fornecer
-service|n|serviço
-around|prep|ao redor de, por volta de
-friend|n|amigo
-important|adj|importante
-father|n|pai
-sit|v|sentar
-away|adv|longe, embora
-until|prep|até
-power|n|poder, energia
-hour|n|hora
-game|n|jogo
-often|adv|frequentemente
-yet|adv|ainda, já
-line|n|linha, fila
-political|adj|político
-end|n|fim
-among|prep|entre (vários)
-ever|adv|já, alguma vez, sempre
-stand|v|ficar em pé
-bad|adj|ruim, mau
-lose|v|perder
-however|adv|no entanto
-member|n|membro
-pay|v|pagar
-law|n|lei
-meet|v|encontrar, conhecer
-car|n|carro
-city|n|cidade
-almost|adv|quase
-include|v|incluir
-continue|v|continuar
-set|v|definir, pôr, ajustar
-later|adv|mais tarde, depois
-community|n|comunidade
-much|adv|muito
-name|n|nome
-five|num|cinco
-once|adv|uma vez
-white|adj|branco
-least|adv|menos, mínimo
-president|n|presidente
-learn|v|aprender
-real|adj|real, verdadeiro
-change|v|mudar, trocar
-team|n|time, equipe
-minute|n|minuto
-best|adj|melhor
-several|det|vários
-idea|n|ideia
-kid|n|criança, garoto
-body|n|corpo
-information|n|informação
-nothing|pron|nada
-ago|adv|atrás (tempo)
-lead|v|liderar, conduzir
-social|adj|social
-understand|v|entender
-whether|conj|se (ou não)
-watch|v|assistir, observar
-together|adv|juntos
-follow|v|seguir
-parent|n|pai ou mãe
-stop|v|parar
-face|n|rosto, cara
-anything|pron|qualquer coisa, algo
-create|v|criar
-public|adj|público
-already|adv|já
-speak|v|falar
-others|pron|outros
-read|v|ler
-level|n|nível
-allow|v|permitir
-add|v|adicionar, somar
-office|n|escritório
-spend|v|gastar, passar (tempo)
-door|n|porta
-health|n|saúde
-person|n|pessoa
-art|n|arte
-sure|adj|certo, seguro
-war|n|guerra
-history|n|história
-party|n|festa, partido
-within|prep|dentro de
-grow|v|crescer
-result|n|resultado
-open|v|abrir
-morning|n|manhã
-walk|v|andar, caminhar
-reason|n|razão, motivo
-low|adj|baixo
-win|v|ganhar, vencer
-research|n|pesquisa
-girl|n|menina, garota
-guy|n|cara, sujeito
-early|adv|cedo
-food|n|comida
-moment|n|momento
-himself|pron|ele mesmo, se
-air|n|ar
-teacher|n|professor
-force|n|força
-offer|v|oferecer
-enough|adv|suficiente, bastante
-education|n|educação
-across|prep|através de, do outro lado
-although|conj|embora
-remember|v|lembrar
-foot|n|pé
-second|adj|segundo
-boy|n|menino, garoto
-maybe|adv|talvez
-toward|prep|em direção a
-able|adj|capaz
-age|n|idade
-policy|n|política (diretriz)
-everything|pron|tudo
-love|v|amar
-process|n|processo
-music|n|música
-including|prep|incluindo
-consider|v|considerar
-appear|v|aparecer
-actually|adv|na verdade
-buy|v|comprar
-probably|adv|provavelmente
-human|adj|humano
-wait|v|esperar
-serve|v|servir
-market|n|mercado
-die|v|morrer
-send|v|enviar, mandar
-expect|v|esperar (expectativa)
-sense|n|sentido
-build|v|construir
-stay|v|ficar, permanecer
-fall|v|cair
-oh|int|oh, ah
-nation|n|nação
-plan|n|plano
-cut|v|cortar
-college|n|faculdade
-interest|n|interesse
-death|n|morte
-course|n|curso; rumo
-someone|pron|alguém
-experience|n|experiência
-behind|prep|atrás de
-reach|v|alcançar, chegar a
-local|adj|local
-six|num|seis
-remain|v|permanecer
-effect|n|efeito
-yeah|int|é, sim
-suggest|v|sugerir
-class|n|aula, turma, classe
-control|n|controle
-raise|v|levantar, criar, aumentar
-care|n|cuidado
-perhaps|adv|talvez
-late|adj|atrasado, tarde
-hard|adj|difícil, duro
-field|n|campo
-else|adv|mais, outro
-pass|v|passar
-former|adj|antigo, ex-
-sell|v|vender
-major|adj|principal, importante
-sometimes|adv|às vezes
-require|v|exigir, precisar
-along|prep|ao longo de
-development|n|desenvolvimento
-themselves|pron|eles mesmos, se
-report|n|relatório
-role|n|papel, função
-better|adj|melhor
-economic|adj|econômico
-effort|n|esforço
-decide|v|decidir
-rate|n|taxa, índice
-strong|adj|forte
-possible|adj|possível
-heart|n|coração
-leader|n|líder
-light|n|luz
-voice|n|voz
-wife|n|esposa
-whole|adj|inteiro, todo
-police|n|polícia
-mind|n|mente
-finally|adv|finalmente
-pull|v|puxar
-return|v|voltar, devolver
-free|adj|livre, grátis
-military|adj|militar
-price|n|preço
-less|adv|menos
-according|adv|de acordo (com)
-decision|n|decisão
-explain|v|explicar
-son|n|filho
-hope|v|esperar (ter esperança)
-develop|v|desenvolver
-view|n|vista, opinião
-relationship|n|relacionamento
-carry|v|carregar, levar
-town|n|cidade pequena
-road|n|estrada, rua
-drive|v|dirigir
-arm|n|braço
-true|adj|verdadeiro
-break|v|quebrar
-difference|n|diferença
-thank|v|agradecer
-receive|v|receber
-value|n|valor
-international|adj|internacional
-building|n|prédio, edifício
-action|n|ação
-full|adj|cheio, completo
-model|n|modelo
-join|v|juntar-se, entrar em
-season|n|estação, temporada
-society|n|sociedade
-tax|n|imposto
-director|n|diretor
-position|n|posição
-player|n|jogador
-agree|v|concordar
-especially|adv|especialmente
-record|n|registro, recorde
-pick|v|escolher, pegar
-wear|v|vestir, usar (roupa)
-paper|n|papel
-special|adj|especial
-space|n|espaço
-ground|n|chão, solo
-form|n|forma, formulário
-support|v|apoiar
-event|n|evento
-official|n|funcionário, oficial
-whose|pron|cujo, de quem
-matter|n|assunto, questão
-everyone|pron|todos, todo mundo
-center|n|centro
-couple|n|casal, par
-site|n|local, site
-project|n|projeto
-hit|v|bater, atingir
-base|n|base
-activity|n|atividade
-star|n|estrela
-table|n|mesa, tabela
-court|n|tribunal, quadra
-produce|v|produzir
-eat|v|comer
-American|adj|americano
-teach|v|ensinar
-oil|n|óleo, petróleo
-half|n|metade
-situation|n|situação
-easy|adj|fácil
-cost|n|custo
-industry|n|indústria
-figure|n|figura, número
-street|n|rua
-image|n|imagem
-itself|pron|ele mesmo, se (coisa)
-phone|n|telefone
-either|det|qualquer um (de dois)
-data|n|dados
-cover|v|cobrir
-quite|adv|bastante, bem
-picture|n|imagem, foto
-clear|adj|claro
-practice|n|prática
-piece|n|pedaço, peça
-land|n|terra, terreno
-recent|adj|recente
-describe|v|descrever
-product|n|produto
-doctor|n|médico
-wall|n|parede, muro
-patient|n|paciente
-worker|n|trabalhador
-news|n|notícias
-test|n|teste, prova
-movie|n|filme
-certain|adj|certo, determinado
-north|n|norte
-personal|adj|pessoal
-simply|adv|simplesmente
-third|adj|terceiro
-technology|n|tecnologia
-catch|v|pegar, apanhar
-step|n|passo, degrau
-baby|n|bebê
-computer|n|computador
-type|n|tipo
-attention|n|atenção
-draw|v|desenhar
-film|n|filme
-tree|n|árvore
-source|n|fonte, origem
-red|adj|vermelho
-nearly|adv|quase
-organization|n|organização
-choose|v|escolher
-cause|v|causar
-hair|n|cabelo
-century|n|século
-evidence|n|evidência, prova
-window|n|janela
-difficult|adj|difícil
-listen|v|ouvir, escutar
-soon|adv|logo, em breve
-culture|n|cultura
-billion|num|bilhão
-chance|n|chance, oportunidade
-brother|n|irmão
-energy|n|energia
-period|n|período
-summer|n|verão
-realize|v|perceber, dar-se conta
-hundred|num|cem
-available|adj|disponível
-plant|n|planta, fábrica
-likely|adj|provável
-opportunity|n|oportunidade
-term|n|termo, prazo
-short|adj|curto, baixo
-letter|n|carta, letra
-condition|n|condição
-choice|n|escolha
-single|adj|único, solteiro
-rule|n|regra
-daughter|n|filha
-south|n|sul
-husband|n|marido
-floor|n|chão, andar
-campaign|n|campanha
-material|n|material
-population|n|população
-economy|n|economia
-medical|adj|médico
-hospital|n|hospital
-church|n|igreja
-close|v|fechar
-thousand|num|mil
-risk|n|risco
-current|adj|atual
-fire|n|fogo, incêndio
-future|n|futuro
-wrong|adj|errado
-involve|v|envolver
-defense|n|defesa
-anyone|pron|qualquer pessoa, alguém
-increase|v|aumentar
-security|n|segurança
-bank|n|banco
-myself|pron|eu mesmo, me
-certainly|adv|certamente
-west|n|oeste
-sport|n|esporte
-board|n|quadro, conselho
-seek|v|procurar, buscar
-per|prep|por (cada)
-subject|n|assunto, matéria
-officer|n|oficial, policial
-private|adj|privado, particular
-rest|n|descanso, resto
-behavior|n|comportamento
-deal|n|acordo, negócio
-performance|n|desempenho
-fight|v|lutar, brigar
-throw|v|jogar, lançar
-top|n|topo
-quickly|adv|rapidamente
-past|n|passado
-goal|n|objetivo, meta, gol
-bed|n|cama
-order|n|ordem, pedido
-author|n|autor
-fill|v|encher, preencher
-represent|v|representar
-focus|v|focar
-foreign|adj|estrangeiro
-drop|v|deixar cair, largar
-blood|n|sangue
-upon|prep|sobre, em cima de
-agency|n|agência
-push|v|empurrar
-nature|n|natureza
-color|n|cor
-recently|adv|recentemente
-store|n|loja
-reduce|v|reduzir
-sound|n|som
-note|n|nota, anotação
-fine|adj|bem, bom, fino
-near|prep|perto de
-movement|n|movimento
-page|n|página
-enter|v|entrar
-share|v|compartilhar, dividir
-common|adj|comum
-poor|adj|pobre
-natural|adj|natural
-race|n|corrida, raça
-concern|n|preocupação
-series|n|série
-significant|adj|significativo
-similar|adj|semelhante
-hot|adj|quente
-language|n|idioma, língua
-usually|adv|normalmente
-response|n|resposta
-dead|adj|morto
-rise|v|subir, levantar-se
-animal|n|animal
-factor|n|fator
-decade|n|década
-article|n|artigo
-shoot|v|atirar, filmar
-east|n|leste
-save|v|salvar, economizar
-seven|num|sete
-artist|n|artista
-scene|n|cena
-stock|n|estoque, ação (bolsa)
-career|n|carreira
-despite|prep|apesar de
-central|adj|central
-eight|num|oito
-thus|adv|assim, portanto
-treatment|n|tratamento
-beyond|prep|além de
-happy|adj|feliz
-exactly|adv|exatamente
-protect|v|proteger
-approach|n|abordagem
-lie|v|mentir; deitar
-size|n|tamanho
-dog|n|cachorro
-fund|n|fundo (dinheiro)
-serious|adj|sério
-occur|v|ocorrer
-media|n|mídia
-ready|adj|pronto
-sign|n|sinal, placa
-thought|n|pensamento
-list|n|lista
-individual|n|indivíduo
-simple|adj|simples
-quality|n|qualidade
-pressure|n|pressão
-accept|v|aceitar
-answer|n|resposta
-resource|n|recurso
-identify|v|identificar
-left|adj|esquerdo
-meeting|n|reunião
-determine|v|determinar
-prepare|v|preparar
-disease|n|doença
-whatever|pron|o que quer que, tanto faz
-success|n|sucesso
-argue|v|discutir, argumentar
-cup|n|xícara, copo
-particularly|adv|particularmente
-amount|n|quantidade
-ability|n|habilidade, capacidade
-staff|n|equipe, funcionários
-recognize|v|reconhecer
-indicate|v|indicar
-character|n|personagem, caráter
-growth|n|crescimento
-loss|n|perda
-degree|n|grau, diploma
-wonder|v|perguntar-se, imaginar
-attack|n|ataque
-herself|pron|ela mesma, se
-region|n|região
-television|n|televisão
-box|n|caixa
-training|n|treinamento
-pretty|adv|bastante, bem
-trade|n|comércio
-election|n|eleição
-everybody|pron|todo mundo
-physical|adj|físico
-lay|v|colocar, deitar (algo)
-general|adj|geral
-feeling|n|sentimento
-standard|n|padrão
-bill|n|conta, projeto de lei
-message|n|mensagem
-fail|v|falhar, fracassar
-outside|adv|fora, lá fora
-arrive|v|chegar
-analysis|n|análise
-benefit|n|benefício
-forward|adv|para frente
-lawyer|n|advogado
-present|adj|presente, atual
-section|n|seção
-environmental|adj|ambiental
-glass|n|vidro, copo
-skill|n|habilidade
-sister|n|irmã
-professor|n|professor (universitário)
-operation|n|operação
-financial|adj|financeiro
-crime|n|crime
-stage|n|palco, fase
-ok|adj|ok, tudo bem
-compare|v|comparar
-authority|n|autoridade
-miss|v|perder, sentir falta
-design|n|design, projeto
-sort|n|tipo, espécie
-act|v|agir, atuar
-ten|num|dez
-knowledge|n|conhecimento
-station|n|estação
-blue|adj|azul
-strategy|n|estratégia
-clearly|adv|claramente
-discuss|v|discutir, debater
-indeed|adv|de fato
-truth|n|verdade
-song|n|música, canção
-example|n|exemplo
-check|v|verificar, conferir
-environment|n|meio ambiente, ambiente
-leg|n|perna
-dark|adj|escuro
-various|adj|vários
-rather|adv|em vez de, bastante
-laugh|v|rir
-guess|v|adivinhar, achar
-executive|n|executivo
-prove|v|provar
-hang|v|pendurar
-entire|adj|inteiro
-rock|n|pedra, rocha
-forget|v|esquecer
-claim|v|alegar, reivindicar
-remove|v|remover
-manager|n|gerente
-enjoy|v|curtir, aproveitar
-network|n|rede
-legal|adj|legal, jurídico
-religious|adj|religioso
-cold|adj|frio
-final|adj|final
-main|adj|principal
-science|n|ciência
-green|adj|verde
-memory|n|memória
-card|n|cartão, carta
-above|prep|acima de
-seat|n|assento
-cell|n|célula, celular
-establish|v|estabelecer
-nice|adj|legal, agradável
-trial|n|julgamento, teste
-expert|n|especialista
-spring|n|primavera, mola
-firm|n|firma, empresa
-radio|n|rádio
-visit|v|visitar
-management|n|gestão, gerência
-avoid|v|evitar
-imagine|v|imaginar
-tonight|adv|hoje à noite
-huge|adj|enorme
-ball|n|bola
-finish|v|terminar
-yourself|pron|você mesmo
-theory|n|teoria
-impact|n|impacto
-respond|v|responder
-statement|n|declaração
-maintain|v|manter
-charge|n|cobrança, acusação
-popular|adj|popular
-traditional|adj|tradicional
-onto|prep|sobre, para cima de
-reveal|v|revelar
-direction|n|direção
-employee|n|funcionário
-cultural|adj|cultural
-contain|v|conter
-peace|n|paz
-pain|n|dor
-apply|v|aplicar, candidatar-se
-measure|v|medir
-wide|adj|largo, amplo
-shake|v|sacudir, tremer
-fly|v|voar
-interview|n|entrevista
-manage|v|gerenciar, conseguir
-chair|n|cadeira
-fish|n|peixe
-particular|adj|particular, específico
-camera|n|câmera
-structure|n|estrutura
-politics|n|política
-perform|v|realizar, apresentar
-bit|n|pouco, pedaço
-weight|n|peso
-suddenly|adv|de repente
-discover|v|descobrir
-candidate|n|candidato
-production|n|produção
-treat|v|tratar
-trip|n|viagem
-evening|n|noite, fim de tarde
-affect|v|afetar
-inside|adv|dentro
-conference|n|conferência
-unit|n|unidade
-style|n|estilo
-adult|n|adulto
-worry|v|preocupar-se
-range|n|variedade, alcance
-mention|v|mencionar
-deep|adj|profundo
-edge|n|borda, beira
-specific|adj|específico
-writer|n|escritor
-trouble|n|problema, encrenca
-necessary|adj|necessário
-throughout|prep|durante todo, por todo
-challenge|n|desafio
-fear|n|medo
-shoulder|n|ombro
-institution|n|instituição
-middle|n|meio
-sea|n|mar
-dream|n|sonho
-bar|n|bar, barra
-beautiful|adj|bonito, lindo
-property|n|propriedade
-instead|adv|em vez disso
-improve|v|melhorar
-stuff|n|coisas
-detail|n|detalhe
-method|n|método
-somebody|pron|alguém
-magazine|n|revista
-hotel|n|hotel
-soldier|n|soldado
-reflect|v|refletir
-heavy|adj|pesado
-bag|n|bolsa, sacola
-heat|n|calor
-marriage|n|casamento
-tough|adj|duro, difícil
-sing|v|cantar
-surface|n|superfície
-purpose|n|propósito
-exist|v|existir
-pattern|n|padrão
-whom|pron|quem (objeto)
-skin|n|pele
-agent|n|agente
-owner|n|dono
-machine|n|máquina
-gas|n|gás, gasolina
-ahead|adv|à frente
-generation|n|geração
-commercial|adj|comercial
-address|n|endereço
-cancer|n|câncer
-item|n|item
-reality|n|realidade
-coach|n|treinador
-yard|n|quintal, jarda
-beat|v|bater, vencer
-violence|n|violência
-total|adj|total
-tend|v|tender
-investment|n|investimento
-discussion|n|discussão
-finger|n|dedo
-garden|n|jardim
-notice|v|notar, perceber
-collection|n|coleção
-modern|adj|moderno
-task|n|tarefa
-partner|n|parceiro, sócio
-positive|adj|positivo
-civil|adj|civil
-kitchen|n|cozinha
-consumer|n|consumidor
-shot|n|tiro, foto, dose
-budget|n|orçamento
-wish|v|desejar
-painting|n|pintura
-scientist|n|cientista
-safe|adj|seguro
-agreement|n|acordo
-capital|n|capital
-mouth|n|boca
-nor|conj|nem
-victim|n|vítima
-newspaper|n|jornal
-threat|n|ameaça
-responsibility|n|responsabilidade
-smile|v|sorrir
-score|n|placar, pontuação
-account|n|conta
-interesting|adj|interessante
-audience|n|público, plateia
-rich|adj|rico
-dinner|n|jantar
-vote|v|votar
-western|adj|ocidental
-relate|v|relacionar
-travel|v|viajar
-debate|n|debate
-prevent|v|prevenir, impedir
-citizen|n|cidadão
-majority|n|maioria
-none|pron|nenhum
-front|n|frente
-born|adj|nascido
-admit|v|admitir
-senior|adj|sênior, mais velho
-assume|v|supor, assumir
-wind|n|vento
-key|n|chave
-professional|adj|profissional
-mission|n|missão
-fast|adj|rápido
-alone|adj|sozinho
-customer|n|cliente
-suffer|v|sofrer
-speech|n|discurso, fala
-successful|adj|bem-sucedido
-option|n|opção
-participant|n|participante
-southern|adj|do sul
-fresh|adj|fresco
-eventually|adv|finalmente, com o tempo
-forest|n|floresta
-video|n|vídeo
-global|adj|global
-reform|n|reforma
-access|n|acesso
-restaurant|n|restaurante
-judge|n|juiz
-publish|v|publicar
-relation|n|relação
-release|v|lançar, liberar
-bird|n|pássaro
-opinion|n|opinião
-credit|n|crédito
-critical|adj|crítico
-corner|n|canto, esquina
-concerned|adj|preocupado
-recall|v|lembrar, recordar
-version|n|versão
-stare|v|encarar, olhar fixamente
-safety|n|segurança
-effective|adj|eficaz
-neighborhood|n|bairro, vizinhança
-original|adj|original
-income|n|renda
-directly|adv|diretamente
-hurt|v|machucar, doer
-species|n|espécie
-immediately|adv|imediatamente
-track|n|trilha, faixa
-basic|adj|básico
-strike|v|atingir, golpear
-sky|n|céu
-freedom|n|liberdade
-absolutely|adv|absolutamente
-plane|n|avião
-nobody|pron|ninguém
-achieve|v|alcançar, conquistar
-object|n|objeto
-attitude|n|atitude
-labor|n|trabalho, mão de obra
-refer|v|referir-se
-concept|n|conceito
-client|n|cliente
-powerful|adj|poderoso
-perfect|adj|perfeito
-nine|num|nove
-therefore|adv|portanto
-conduct|v|conduzir, realizar
-announce|v|anunciar
-conversation|n|conversa
-examine|v|examinar
-touch|v|tocar
-please|adv|por favor
-attend|v|frequentar, comparecer
-completely|adv|completamente
-variety|n|variedade
-sleep|v|dormir
-involved|adj|envolvido
-investigation|n|investigação
-nuclear|adj|nuclear
-researcher|n|pesquisador
-press|v|pressionar, apertar
-conflict|n|conflito
-spirit|n|espírito
-replace|v|substituir
-British|adj|britânico
-encourage|v|encorajar
-argument|n|argumento, discussão
-camp|n|acampamento
-brain|n|cérebro
-feature|n|característica, recurso
-afternoon|n|tarde
-weekend|n|fim de semana
-dozen|n|dúzia
-possibility|n|possibilidade
-insurance|n|seguro
-department|n|departamento
-battle|n|batalha
-beginning|n|começo
-date|n|data, encontro
-generally|adv|geralmente
-African|adj|africano
-sorry|adj|desculpe, arrependido
-crisis|n|crise
-complete|v|completar
-fan|n|fã, ventilador
-stick|v|grudar, colar
-define|v|definir
-easily|adv|facilmente
-hole|n|buraco
-element|n|elemento
-vision|n|visão
-status|n|status, situação
-normal|adj|normal
-Chinese|adj|chinês
-ship|n|navio
-solution|n|solução
-stone|n|pedra
-slowly|adv|devagar
-scale|n|escala, balança
-university|n|universidade
-introduce|v|apresentar, introduzir
-driver|n|motorista
-attempt|n|tentativa
-park|n|parque
-spot|n|lugar, mancha
-lack|n|falta
-ice|n|gelo
-boat|n|barco
-drink|v|beber
-sun|n|sol
-distance|n|distância
-wood|n|madeira
-handle|v|lidar com, manusear
-truck|n|caminhão
-mountain|n|montanha
-survey|n|pesquisa, levantamento
-supposed|adj|suposto
-tradition|n|tradição
-winter|n|inverno
-village|n|vila, aldeia
-refuse|v|recusar
-sales|n|vendas
-roll|v|rolar
-communication|n|comunicação
-screen|n|tela
-gain|v|ganhar, obter
-resident|n|morador
-hide|v|esconder
-gold|n|ouro
-club|n|clube
-farm|n|fazenda
-potential|adj|potencial
-European|adj|europeu
-presence|n|presença
-independent|adj|independente
-district|n|distrito, bairro
-shape|n|forma
-reader|n|leitor
-contract|n|contrato
-crowd|n|multidão
-Christian|adj|cristão
-express|v|expressar
-apartment|n|apartamento
-willing|adj|disposto
-strength|n|força
-previous|adj|anterior
-band|n|banda
-obviously|adv|obviamente
-horse|n|cavalo
-interested|adj|interessado
-target|n|alvo, meta
-prison|n|prisão
-ride|v|andar (de bicicleta, cavalo)
-guard|n|guarda
-terms|n|termos, condições
-demand|n|demanda, exigência
-reporter|n|repórter
-deliver|v|entregar
-text|n|texto, mensagem
-tool|n|ferramenta
-wild|adj|selvagem
-vehicle|n|veículo
-observe|v|observar
-flight|n|voo
-facility|n|instalação
-understanding|n|compreensão
-average|adj|médio
-emerge|v|surgir, emergir
-advantage|n|vantagem
-quick|adj|rápido
-leadership|n|liderança
-earn|v|ganhar (dinheiro)
-pound|n|libra
-basis|n|base
-bright|adj|brilhante, claro
-operate|v|operar
-guest|n|convidado, hóspede
-sample|n|amostra
-contribute|v|contribuir
-tiny|adj|minúsculo
-block|n|quarteirão, bloco
-protection|n|proteção
-settle|v|resolver, estabelecer-se
-feed|v|alimentar
-collect|v|coletar, juntar
-additional|adj|adicional
-highly|adv|altamente
-identity|n|identidade
-title|n|título
-mostly|adv|principalmente
-lesson|n|lição, aula
-faith|n|fé
-river|n|rio
-promote|v|promover
-living|n|vida, sustento
-count|v|contar
-unless|conj|a menos que
-marry|v|casar
-tomorrow|adv|amanhã
-technique|n|técnica
-path|n|caminho, trilha
-ear|n|orelha, ouvido
-shop|n|loja
-folk|n|pessoas, gente
-principle|n|princípio
-survive|v|sobreviver
-lift|v|levantar
-border|n|fronteira, borda
-competition|n|competição
-jump|v|pular
-gather|v|reunir, juntar
-limit|n|limite
-fit|v|caber, servir
-cry|v|chorar, gritar
-equipment|n|equipamento
-worth|adj|que vale
-associate|v|associar
-critic|n|crítico
-warm|adj|morno, quente, caloroso
-aspect|n|aspecto
-insist|v|insistir
-failure|n|fracasso, falha
-annual|adj|anual
-French|adj|francês
-Christmas|n|Natal
-comment|n|comentário
-responsible|adj|responsável
-affair|n|caso, assunto
-procedure|n|procedimento
-regular|adj|regular, comum
-spread|v|espalhar
-soft|adj|macio, suave
-ignore|v|ignorar
-egg|n|ovo
-belief|n|crença
-demonstrate|v|demonstrar
-anybody|pron|qualquer um, alguém
-gift|n|presente, dom
-religion|n|religião
-review|n|análise, revisão
-editor|n|editor
-engage|v|envolver-se, engajar
-coffee|n|café
-document|n|documento
-speed|n|velocidade
-cross|v|atravessar, cruzar
-influence|n|influência
-anyway|adv|de qualquer forma
-threaten|v|ameaçar
-commit|v|cometer, comprometer-se
-female|adj|feminino
-youth|n|juventude
-wave|n|onda
-afraid|adj|com medo
-quarter|n|quarto, trimestre
-background|n|fundo, histórico
-native|adj|nativo
-broad|adj|amplo, largo
-wonderful|adj|maravilhoso
-deny|v|negar
-apparently|adv|aparentemente
-slightly|adv|ligeiramente
-reaction|n|reação
-twice|adv|duas vezes
-suit|n|terno
-perspective|n|perspectiva
-growing|adj|crescente
-blow|v|soprar, explodir
-construction|n|construção
-intelligence|n|inteligência
-destroy|v|destruir
-cook|v|cozinhar
-connection|n|conexão
-burn|v|queimar
-shoe|n|sapato
-grade|n|nota, série
-context|n|contexto
-committee|n|comitê
-hey|int|ei, oi
-mistake|n|erro
-location|n|localização
-clothes|n|roupas
-Indian|adj|indiano
-quiet|adj|quieto, silencioso
-dress|n|vestido
-promise|v|prometer
-aware|adj|ciente
-neighbor|n|vizinho
-function|n|função
-bone|n|osso
-active|adj|ativo
-extend|v|estender
-chief|adj|chefe, principal
-combine|v|combinar
-wine|n|vinho
-below|prep|abaixo de
-cool|adj|fresco, legal
-voter|n|eleitor
-learning|n|aprendizado
-bus|n|ônibus
-dangerous|adj|perigoso
-remind|v|lembrar (alguém)
-moral|adj|moral
-category|n|categoria
-relatively|adv|relativamente
-victory|n|vitória
-academic|adj|acadêmico
-Internet|n|internet
-healthy|adj|saudável
-negative|adj|negativo
-following|adj|seguinte
-historical|adj|histórico
-medicine|n|remédio, medicina
-tour|n|passeio, turnê
-depend|v|depender
-photo|n|foto
-finding|n|descoberta, resultado
-grab|v|agarrar
-direct|adj|direto
-classroom|n|sala de aula
-contact|n|contato
-justice|n|justiça
-participate|v|participar
-daily|adj|diário
-fair|adj|justo
-pair|n|par
-famous|adj|famoso
-exercise|n|exercício
-knee|n|joelho
-flower|n|flor
-tape|n|fita
-hire|v|contratar
-familiar|adj|familiar, conhecido
-appropriate|adj|apropriado
-supply|n|suprimento, oferta
-fully|adv|totalmente
-actor|n|ator
-birth|n|nascimento
-search|n|busca
-tie|n|gravata, empate
-democracy|n|democracia
-eastern|adj|oriental
-primary|adj|primário, principal
-yesterday|adv|ontem
-circle|n|círculo
-device|n|dispositivo
-progress|n|progresso
-bottom|n|fundo, parte de baixo
-island|n|ilha
-exchange|n|troca, câmbio
-clean|adj|limpo
-studio|n|estúdio
-train|n|trem
-lady|n|senhora, dama
-colleague|n|colega
-application|n|aplicativo, candidatura
-neck|n|pescoço
-lean|v|inclinar-se, apoiar-se
-damage|n|dano
-plastic|n|plástico
-tall|adj|alto
-plate|n|prato
-hate|v|odiar
-otherwise|adv|caso contrário
-writing|n|escrita
-male|adj|masculino
-alive|adj|vivo
-expression|n|expressão
-football|n|futebol (americano)
-intend|v|pretender
-chicken|n|frango, galinha
-army|n|exército
-theater|n|teatro
-shut|v|fechar
-map|n|mapa
-extra|adj|extra
-session|n|sessão
-danger|n|perigo
-welcome|v|dar boas-vindas
-domestic|adj|doméstico, nacional
-lots|n|muitos, um monte
-literature|n|literatura
-rain|n|chuva
-desire|n|desejo
-assessment|n|avaliação
-injury|n|lesão, ferimento
-respect|n|respeito
-northern|adj|do norte
-nod|v|acenar com a cabeça
-paint|v|pintar
-fuel|n|combustível
-leaf|n|folha
-dry|adj|seco
-Russian|adj|russo
-instruction|n|instrução
-pool|n|piscina
-climb|v|escalar, subir
-sweet|adj|doce
-engine|n|motor
-fourth|adj|quarto
-salt|n|sal
-expand|v|expandir
-importance|n|importância
-metal|n|metal
-fat|adj|gordo
-ticket|n|ingresso, passagem
-software|n|software
-disappear|v|desaparecer
-corporate|adj|corporativo
-strange|adj|estranho
-lip|n|lábio
-reading|n|leitura
-urban|adj|urbano
-mental|adj|mental
-increasingly|adv|cada vez mais
-lunch|n|almoço
-educational|adj|educacional
-somewhere|adv|em algum lugar
-farmer|n|fazendeiro, agricultor
-sugar|n|açúcar
-planet|n|planeta
-favorite|adj|favorito
-explore|v|explorar
-obtain|v|obter
-enemy|n|inimigo
-greatest|adj|maior, melhor
-complex|adj|complexo
-surround|v|cercar
-athlete|n|atleta
-invite|v|convidar
-repeat|v|repetir
-carefully|adv|cuidadosamente
-soul|n|alma
-scientific|adj|científico
-impossible|adj|impossível
-panel|n|painel
-meaning|n|significado
-mom|n|mãe, mamãe
-married|adj|casado
-instrument|n|instrumento
-predict|v|prever
-weather|n|tempo, clima
-emotional|adj|emocional
-commitment|n|compromisso
-bear|v|suportar, aguentar
-pocket|n|bolso
-thin|adj|fino, magro
-temperature|n|temperatura
-surprise|n|surpresa
-poll|n|pesquisa (de opinião)
-proposal|n|proposta
-consequence|n|consequência
-breath|n|respiração, fôlego
-sight|n|visão, vista
-balance|n|equilíbrio, saldo
-adopt|v|adotar
-minority|n|minoria
-straight|adj|reto, direto
-connect|v|conectar
-works|n|obras
-teaching|n|ensino
-belong|v|pertencer
-aid|n|ajuda
-advice|n|conselho
-okay|adv|tudo bem, ok
-photograph|n|fotografia
-empty|adj|vazio
-regional|adj|regional
-trail|n|trilha
-novel|n|romance (livro)
-code|n|código
-somehow|adv|de alguma forma
-organize|v|organizar
-acknowledge|v|reconhecer
-theme|n|tema
-storm|n|tempestade
-union|n|sindicato, união
-desk|n|mesa (de trabalho)
-thanks|n|obrigado
-fruit|n|fruta
-expensive|adj|caro
-yellow|adj|amarelo
-conservative|adj|conservador
-wake|v|acordar
-mirror|n|espelho
-English|n|inglês
-reply|v|responder
-ourselves|pron|nós mesmos
-fix|v|consertar
-shirt|n|camisa
-tea|n|chá
-milk|n|leite
-bread|n|pão
-cheap|adj|barato
-hungry|adj|com fome
-tired|adj|cansado
-sick|adj|doente
-angry|adj|bravo, irritado
-sad|adj|triste
-funny|adj|engraçado
-clever|adj|esperto
-beach|n|praia
-holiday|n|feriado, férias
-kiss|v|beijar
-hello|int|olá
-goodbye|int|tchau, adeus
-cat|n|gato
-rice|n|arroz
-meat|n|carne
-apple|n|maçã
-nose|n|nariz
-tooth|n|dente
-uncle|n|tio
-aunt|n|tia
-cousin|n|primo
-grandmother|n|avó
+the|det|o, a, os, as|The sun is very hot today.|O sol está muito quente hoje.
+be|v|ser, estar|I want to be a doctor.|Eu quero ser médico.
+and|conj|e|I like tea and coffee.|Eu gosto de chá e café.
+of|prep|de|She drank a cup of water.|Ela bebeu um copo de água.
+a|det|um, uma|I have a small dog.|Eu tenho um cachorro pequeno.
+to|prep|para, a|We are going to the beach.|Nós estamos indo para a praia.
+in|prep|em, dentro de|The keys are in my bag.|As chaves estão na minha bolsa.
+have|v|ter|I have two brothers.|Eu tenho dois irmãos.
+it|pron|isso, ele, ela (coisa)|I lost my phone, but I found it.|Perdi meu celular, mas o encontrei.
+I|pron|eu|I live in Brazil.|Eu moro no Brasil.
+that|pron|que, aquilo, aquele|I know that you are tired.|Eu sei que você está cansado.
+for|prep|para, por|This gift is for you.|Este presente é para você.
+you|pron|você, vocês|Can you help me?|Você pode me ajudar?
+he|pron|ele|He works at a bank.|Ele trabalha em um banco.
+with|prep|com|I went to the park with my friends.|Fui ao parque com meus amigos.
+on|prep|em, sobre|The book is on the table.|O livro está sobre a mesa.
+do|v|fazer|What do you do on weekends?|O que você faz nos fins de semana?
+say|v|dizer|What did she say?|O que ela disse?
+this|pron|isto, este, esta|This is my house.|Esta é a minha casa.
+they|pron|eles, elas|They are my neighbors.|Eles são meus vizinhos.
+at|prep|em, no, na|I will meet you at the station.|Vou te encontrar na estação.
+but|conj|mas|I am tired, but I am happy.|Estou cansado, mas estou feliz.
+we|pron|nós|We study English every day.|Nós estudamos inglês todos os dias.
+his|det|dele, seu|That is his car.|Aquele é o carro dele.
+from|prep|de, desde|I am from São Paulo.|Eu sou de São Paulo.
+not|adv|não|I do not like rain.|Eu não gosto de chuva.
+by|prep|por, perto de|This book was written by a famous author.|Este livro foi escrito por um autor famoso.
+she|pron|ela|She speaks three languages.|Ela fala três idiomas.
+or|conj|ou|Do you want coffee or tea?|Você quer café ou chá?
+as|conj|como, enquanto|She works as a teacher.|Ela trabalha como professora.
+what|pron|o que, qual|What is your name?|Qual é o seu nome?
+go|v|ir|Let's go to the movies tonight.|Vamos ao cinema hoje à noite.
+their|det|deles, delas|Their house is very big.|A casa deles é muito grande.
+can|v|poder, conseguir|I can swim very well.|Eu sei nadar muito bem.
+who|pron|quem|Who is that man?|Quem é aquele homem?
+get|v|conseguir, obter, pegar|I need to get some milk.|Preciso pegar um pouco de leite.
+if|conj|se|If it rains, we will stay home.|Se chover, vamos ficar em casa.
+would|v|(futuro do pretérito) -ria|I would love to visit Paris.|Eu adoraria visitar Paris.
+her|pron|ela, dela|I called her yesterday.|Eu liguei para ela ontem.
+all|det|todo, todos|All my friends came to the party.|Todos os meus amigos vieram à festa.
+my|det|meu, minha|My mother is a nurse.|Minha mãe é enfermeira.
+make|v|fazer, fabricar|Can you make dinner tonight?|Você pode fazer o jantar hoje?
+about|prep|sobre, a respeito de|This movie is about a family.|Este filme é sobre uma família.
+know|v|saber, conhecer|I know the answer.|Eu sei a resposta.
+will|v|(futuro) -rá; vontade|I will call you tomorrow.|Eu vou te ligar amanhã.
+up|adv|para cima|Please stand up.|Por favor, levante-se.
+one|num|um, uma|I have one sister.|Eu tenho uma irmã.
+time|n|tempo, vez, hora|What time is it?|Que horas são?
+there|adv|lá, ali; haver|There is a cat on the roof.|Há um gato no telhado.
+year|n|ano|I started this job last year.|Comecei este emprego no ano passado.
+so|adv|então, tão, assim|It was late, so I went home.|Estava tarde, então fui para casa.
+think|v|pensar, achar|I think you are right.|Eu acho que você está certo.
+when|adv|quando|Call me when you arrive.|Me ligue quando você chegar.
+which|pron|qual, que|Which color do you prefer?|Qual cor você prefere?
+them|pron|eles, elas (objeto)|I gave them a present.|Eu dei um presente a eles.
+some|det|algum, alguns, um pouco|Would you like some water?|Você gostaria de um pouco de água?
+me|pron|me, mim|Please call me later.|Por favor, me ligue mais tarde.
+people|n|pessoas, povo|Many people live in this city.|Muitas pessoas moram nesta cidade.
+take|v|pegar, levar, tomar|Take an umbrella with you.|Leve um guarda-chuva com você.
+out|adv|fora, para fora|Let's go out for dinner.|Vamos sair para jantar.
+into|prep|para dentro de|She walked into the room.|Ela entrou na sala.
+just|adv|apenas, só, acabou de|I just arrived home.|Eu acabei de chegar em casa.
+see|v|ver|I can see the mountains from here.|Consigo ver as montanhas daqui.
+him|pron|ele, o, lhe|I saw him at the supermarket.|Eu o vi no supermercado.
+your|det|seu, sua, de você|Is this your bag?|Esta é a sua bolsa?
+come|v|vir|Can you come to my party?|Você pode vir à minha festa?
+could|v|poderia, podia|Could you open the window?|Você poderia abrir a janela?
+now|adv|agora|I am busy now.|Estou ocupado agora.
+than|conj|do que|My brother is taller than me.|Meu irmão é mais alto do que eu.
+like|prep|como, igual a|She sings like a professional.|Ela canta como uma profissional.
+other|adj|outro|I have other plans tonight.|Tenho outros planos hoje à noite.
+how|adv|como|How are you today?|Como você está hoje?
+then|adv|então, depois|First we eat, then we watch a movie.|Primeiro comemos, depois assistimos a um filme.
+its|det|seu, sua (de coisa)|The dog wagged its tail.|O cachorro abanou o seu rabo.
+our|det|nosso, nossa|This is our new apartment.|Este é o nosso novo apartamento.
+two|num|dois|I have two cats.|Eu tenho dois gatos.
+more|adv|mais|I need more time.|Preciso de mais tempo.
+these|pron|estes, estas|These shoes are new.|Estes sapatos são novos.
+want|v|querer|I want a glass of water.|Eu quero um copo de água.
+way|n|caminho, maneira, jeito|This is the best way to learn.|Este é o melhor jeito de aprender.
+look|v|olhar, parecer|Look at the sky!|Olhe para o céu!
+first|adj|primeiro|This is my first trip abroad.|Esta é minha primeira viagem ao exterior.
+also|adv|também|I also speak Spanish.|Eu também falo espanhol.
+new|adj|novo|I bought a new phone.|Comprei um celular novo.
+because|conj|porque|I stayed home because I was sick.|Fiquei em casa porque estava doente.
+day|n|dia|Have a nice day!|Tenha um bom dia!
+use|v|usar|Can I use your computer?|Posso usar seu computador?
+no|det|nenhum; não|There is no milk in the fridge.|Não há leite na geladeira.
+man|n|homem|The man is reading a newspaper.|O homem está lendo um jornal.
+find|v|encontrar, achar|I can't find my keys.|Não consigo encontrar minhas chaves.
+here|adv|aqui|Come here, please.|Venha aqui, por favor.
+thing|n|coisa|That is a strange thing to say.|Essa é uma coisa estranha de se dizer.
+give|v|dar|Can you give me a pen?|Você pode me dar uma caneta?
+many|det|muitos|There are many books in the library.|Há muitos livros na biblioteca.
+well|adv|bem|She plays the piano well.|Ela toca piano bem.
+only|adv|somente, apenas|I only have five dollars.|Eu só tenho cinco dólares.
+those|pron|aqueles, aquelas|Those flowers are beautiful.|Aquelas flores são lindas.
+tell|v|contar, dizer|Tell me the truth.|Me conte a verdade.
+very|adv|muito|It is very cold today.|Está muito frio hoje.
+even|adv|até, mesmo|Even my grandmother uses the internet.|Até minha avó usa a internet.
+back|adv|de volta, para trás|I will be back in ten minutes.|Volto em dez minutos.
+any|det|qualquer, algum|Do you have any questions?|Você tem alguma pergunta?
+good|adj|bom|This is a good restaurant.|Este é um bom restaurante.
+woman|n|mulher|The woman is wearing a red dress.|A mulher está usando um vestido vermelho.
+through|prep|através de, por|We drove through the city.|Dirigimos pela cidade.
+us|pron|nos, nós|Can you help us?|Você pode nos ajudar?
+life|n|vida|Life is beautiful.|A vida é bela.
+child|n|criança, filho|The child is playing in the garden.|A criança está brincando no jardim.
+work|v|trabalhar, funcionar|I work from home on Fridays.|Eu trabalho de casa às sextas-feiras.
+down|adv|para baixo|Please sit down.|Por favor, sente-se.
+may|v|poder (possibilidade)|It may rain later.|Pode chover mais tarde.
+after|prep|depois de|We can talk after lunch.|Podemos conversar depois do almoço.
+should|v|deveria|You should drink more water.|Você deveria beber mais água.
+call|v|chamar, ligar|I will call you tonight.|Vou te ligar hoje à noite.
+world|n|mundo|I want to travel around the world.|Quero viajar pelo mundo.
+over|prep|sobre, acima de|The plane flew over the city.|O avião voou sobre a cidade.
+school|n|escola|My children go to school by bus.|Meus filhos vão à escola de ônibus.
+still|adv|ainda|I am still hungry.|Eu ainda estou com fome.
+try|v|tentar|Try this cake, it's delicious.|Experimente este bolo, está delicioso.
+last|adj|último, passado|I saw her last week.|Eu a vi na semana passada.
+ask|v|perguntar, pedir|Can I ask you a question?|Posso te fazer uma pergunta?
+need|v|precisar|I need your help.|Eu preciso da sua ajuda.
+too|adv|também, demais|This coffee is too hot.|Este café está quente demais.
+feel|v|sentir|I feel tired today.|Eu me sinto cansado hoje.
+three|num|três|I have three children.|Eu tenho três filhos.
+state|n|estado|California is a big state.|A Califórnia é um estado grande.
+never|adv|nunca|I never eat meat.|Eu nunca como carne.
+become|v|tornar-se|She wants to become a pilot.|Ela quer se tornar piloto.
+between|prep|entre|The bank is between the school and the park.|O banco fica entre a escola e o parque.
+high|adj|alto|The mountain is very high.|A montanha é muito alta.
+really|adv|realmente, de verdade|I really like this song.|Eu realmente gosto desta música.
+something|pron|algo, alguma coisa|I want to eat something sweet.|Quero comer algo doce.
+most|adv|mais, a maioria|Most people like music.|A maioria das pessoas gosta de música.
+another|det|outro, mais um|Can I have another cup of coffee?|Posso tomar mais uma xícara de café?
+family|n|família|My family is very big.|Minha família é muito grande.
+own|adj|próprio|I want my own room.|Quero meu próprio quarto.
+leave|v|sair, deixar|What time do you leave work?|Que horas você sai do trabalho?
+put|v|pôr, colocar|Put your bag on the chair.|Coloque sua bolsa na cadeira.
+old|adj|velho, antigo|This house is very old.|Esta casa é muito velha.
+while|conj|enquanto|I listen to music while I cook.|Eu ouço música enquanto cozinho.
+mean|v|significar, querer dizer|What does this word mean?|O que esta palavra significa?
+keep|v|manter, guardar|Keep the change.|Fique com o troco.
+student|n|estudante, aluno|He is a student at the university.|Ele é estudante na universidade.
+why|adv|por que|Why are you sad?|Por que você está triste?
+let|v|deixar, permitir|Let me help you.|Deixe-me te ajudar.
+great|adj|ótimo, grande|We had a great time.|Nós nos divertimos muito.
+same|adj|mesmo, igual|We have the same shoes.|Nós temos os mesmos sapatos.
+big|adj|grande|They live in a big house.|Eles moram em uma casa grande.
+group|n|grupo|We work in a group of five.|Trabalhamos em um grupo de cinco.
+begin|v|começar|The class will begin at nine.|A aula vai começar às nove.
+seem|v|parecer|You seem happy today.|Você parece feliz hoje.
+country|n|país|Brazil is a beautiful country.|O Brasil é um país lindo.
+help|v|ajudar|Can you help me with this box?|Você pode me ajudar com esta caixa?
+talk|v|conversar, falar|We need to talk.|Nós precisamos conversar.
+where|adv|onde|Where do you live?|Onde você mora?
+turn|v|virar, girar|Turn left at the corner.|Vire à esquerda na esquina.
+problem|n|problema|There is a problem with my car.|Há um problema com meu carro.
+every|det|cada, todo|I run every morning.|Eu corro todas as manhãs.
+start|v|começar|The movie starts at eight.|O filme começa às oito.
+hand|n|mão|Raise your hand if you know the answer.|Levante a mão se souber a resposta.
+might|v|poderia, talvez|I might go to the party.|Talvez eu vá à festa.
+show|v|mostrar|Can you show me the way?|Você pode me mostrar o caminho?
+part|n|parte|This is the best part of the movie.|Esta é a melhor parte do filme.
+against|prep|contra|I am against this idea.|Eu sou contra essa ideia.
+place|n|lugar|This is a nice place to live.|Este é um bom lugar para morar.
+such|det|tal, tão|She is such a kind person.|Ela é uma pessoa tão gentil.
+again|adv|de novo, novamente|Can you say that again?|Você pode dizer isso de novo?
+few|det|poucos|I have a few friends in London.|Tenho alguns amigos em Londres.
+case|n|caso|In that case, I will stay.|Nesse caso, eu vou ficar.
+week|n|semana|I go to the gym three times a week.|Vou à academia três vezes por semana.
+company|n|empresa, companhia|She works for a big company.|Ela trabalha para uma grande empresa.
+system|n|sistema|The computer system is down.|O sistema do computador está fora do ar.
+each|det|cada|Each student has a book.|Cada aluno tem um livro.
+right|adj|certo, direito|You are right.|Você está certo.
+program|n|programa|This is my favorite TV program.|Este é meu programa de TV favorito.
+hear|v|ouvir|Can you hear me?|Você consegue me ouvir?
+question|n|pergunta, questão|I have a question.|Eu tenho uma pergunta.
+during|prep|durante|I slept during the movie.|Eu dormi durante o filme.
+play|v|jogar, brincar, tocar|The kids play in the park.|As crianças brincam no parque.
+government|n|governo|The government announced new rules.|O governo anunciou novas regras.
+run|v|correr, administrar|I run in the park every day.|Eu corro no parque todos os dias.
+small|adj|pequeno|I live in a small town.|Eu moro em uma cidade pequena.
+number|n|número|What is your phone number?|Qual é o seu número de telefone?
+always|adv|sempre|I always drink coffee in the morning.|Eu sempre bebo café de manhã.
+move|v|mover, mudar-se|We will move to a new house.|Vamos nos mudar para uma casa nova.
+night|n|noite|I work at night.|Eu trabalho à noite.
+live|v|viver, morar|I live with my parents.|Eu moro com meus pais.
+point|n|ponto|That is a good point.|Esse é um bom ponto.
+believe|v|acreditar|I believe you.|Eu acredito em você.
+hold|v|segurar|Hold my hand.|Segure minha mão.
+today|adv|hoje|Today is my birthday.|Hoje é meu aniversário.
+bring|v|trazer|Bring a jacket, it's cold.|Traga uma jaqueta, está frio.
+happen|v|acontecer|What happened here?|O que aconteceu aqui?
+next|adj|próximo|See you next week.|Até a próxima semana.
+without|prep|sem|I can't live without music.|Não consigo viver sem música.
+before|prep|antes de|Wash your hands before dinner.|Lave as mãos antes do jantar.
+large|adj|grande|I would like a large pizza.|Eu gostaria de uma pizza grande.
+million|num|milhão|The city has two million people.|A cidade tem dois milhões de pessoas.
+must|v|dever, ter que|You must wear a seatbelt.|Você deve usar o cinto de segurança.
+home|n|casa, lar|I am going home now.|Estou indo para casa agora.
+under|prep|embaixo de, sob|The cat is under the bed.|O gato está embaixo da cama.
+water|n|água|Drink a lot of water.|Beba bastante água.
+room|n|quarto, sala, espaço|My room is on the second floor.|Meu quarto fica no segundo andar.
+write|v|escrever|Please write your name here.|Por favor, escreva seu nome aqui.
+mother|n|mãe|My mother makes great cakes.|Minha mãe faz bolos ótimos.
+area|n|área|This area is very quiet.|Esta área é muito tranquila.
+national|adj|nacional|Today is a national holiday.|Hoje é feriado nacional.
+money|n|dinheiro|I don't have much money.|Eu não tenho muito dinheiro.
+story|n|história|Tell me a story.|Me conte uma história.
+young|adj|jovem|She is young and smart.|Ela é jovem e inteligente.
+fact|n|fato|It is a fact that smoking is bad.|É um fato que fumar faz mal.
+month|n|mês|I visit my grandmother every month.|Eu visito minha avó todo mês.
+different|adj|diferente|We have different opinions.|Nós temos opiniões diferentes.
+lot|n|monte, muito|I have a lot of work today.|Tenho muito trabalho hoje.
+study|v|estudar|I study English at night.|Eu estudo inglês à noite.
+book|n|livro|I am reading a good book.|Estou lendo um bom livro.
+eye|n|olho|She has blue eyes.|Ela tem olhos azuis.
+job|n|emprego, trabalho|I love my new job.|Eu amo meu novo emprego.
+word|n|palavra|I don't know this word.|Eu não conheço esta palavra.
+though|conj|embora|It was cold, though it was sunny.|Estava frio, embora estivesse ensolarado.
+business|n|negócio, empresa|He has his own business.|Ele tem o próprio negócio.
+issue|n|questão, assunto|This is an important issue.|Esta é uma questão importante.
+side|n|lado|Walk on the right side.|Ande do lado direito.
+kind|n|tipo, espécie|What kind of music do you like?|Que tipo de música você gosta?
+four|num|quatro|The table has four legs.|A mesa tem quatro pernas.
+head|n|cabeça|My head hurts.|Minha cabeça dói.
+far|adv|longe|Is the airport far from here?|O aeroporto fica longe daqui?
+black|adj|preto, negro|I have a black cat.|Eu tenho um gato preto.
+long|adj|longo, comprido|It was a long day.|Foi um dia longo.
+both|det|ambos|Both of my sisters are doctors.|Ambas as minhas irmãs são médicas.
+little|adj|pequeno, pouco|I speak a little English.|Eu falo um pouco de inglês.
+house|n|casa|Welcome to my house.|Bem-vindo à minha casa.
+yes|adv|sim|Yes, I agree with you.|Sim, eu concordo com você.
+since|prep|desde|I have lived here since 2015.|Eu moro aqui desde 2015.
+provide|v|fornecer|The hotel provides free breakfast.|O hotel oferece café da manhã grátis.
+service|n|serviço|The service here is excellent.|O serviço aqui é excelente.
+around|prep|ao redor de, por volta de|We walked around the lake.|Caminhamos ao redor do lago.
+friend|n|amigo|She is my best friend.|Ela é minha melhor amiga.
+important|adj|importante|Health is very important.|A saúde é muito importante.
+father|n|pai|My father is a teacher.|Meu pai é professor.
+sit|v|sentar|Can I sit here?|Posso sentar aqui?
+away|adv|longe, embora|Go away!|Vá embora!
+until|prep|até|Wait until I come back.|Espere até eu voltar.
+power|n|poder, energia|The power went out last night.|A energia acabou ontem à noite.
+hour|n|hora|The trip takes one hour.|A viagem leva uma hora.
+game|n|jogo|Let's play a game.|Vamos jogar um jogo.
+often|adv|frequentemente|I often go to the cinema.|Eu vou ao cinema com frequência.
+yet|adv|ainda, já|I haven't finished yet.|Eu ainda não terminei.
+line|n|linha, fila|There is a long line at the bank.|Há uma fila longa no banco.
+political|adj|político|They talked about political problems.|Eles falaram sobre problemas políticos.
+end|n|fim|The end of the movie was sad.|O fim do filme foi triste.
+among|prep|entre (vários)|She is popular among her friends.|Ela é popular entre os amigos.
+ever|adv|já, alguma vez, sempre|Have you ever been to London?|Você já esteve em Londres?
+stand|v|ficar em pé|Please stand in line.|Por favor, fique na fila.
+bad|adj|ruim, mau|I had a bad day.|Eu tive um dia ruim.
+lose|v|perder|Don't lose your ticket.|Não perca seu ingresso.
+however|adv|no entanto|I like the house. However, it is too expensive.|Gosto da casa. No entanto, ela é cara demais.
+member|n|membro|He is a member of the club.|Ele é membro do clube.
+pay|v|pagar|Can I pay by card?|Posso pagar com cartão?
+law|n|lei|Everyone must follow the law.|Todos devem seguir a lei.
+meet|v|encontrar, conhecer|Nice to meet you.|Prazer em conhecer você.
+car|n|carro|My car is in the garage.|Meu carro está na garagem.
+city|n|cidade|New York is a big city.|Nova York é uma cidade grande.
+almost|adv|quase|It is almost midnight.|É quase meia-noite.
+include|v|incluir|The price includes breakfast.|O preço inclui o café da manhã.
+continue|v|continuar|Please continue reading.|Por favor, continue lendo.
+set|v|definir, pôr, ajustar|Set the alarm for six o'clock.|Coloque o alarme para as seis horas.
+later|adv|mais tarde, depois|I will call you later.|Eu te ligo mais tarde.
+community|n|comunidade|Our community is very friendly.|Nossa comunidade é muito amigável.
+much|adv|muito|How much is this shirt?|Quanto custa esta camisa?
+name|n|nome|My name is Ana.|Meu nome é Ana.
+five|num|cinco|I wake up at five every day.|Eu acordo às cinco todos os dias.
+once|adv|uma vez|I go to the dentist once a year.|Vou ao dentista uma vez por ano.
+white|adj|branco|She wore a white dress.|Ela usou um vestido branco.
+least|adv|menos, mínimo|At least we tried.|Pelo menos nós tentamos.
+president|n|presidente|The president gave a speech.|O presidente fez um discurso.
+learn|v|aprender|I want to learn English.|Eu quero aprender inglês.
+real|adj|real, verdadeiro|Is this a real diamond?|Isto é um diamante de verdade?
+change|v|mudar, trocar|I need to change my clothes.|Preciso trocar de roupa.
+team|n|time, equipe|Our team won the game.|Nosso time ganhou o jogo.
+minute|n|minuto|Wait a minute, please.|Espere um minuto, por favor.
+best|adj|melhor|You are my best friend.|Você é meu melhor amigo.
+several|det|vários|I have read this book several times.|Eu li este livro várias vezes.
+idea|n|ideia|That's a great idea!|Que ótima ideia!
+kid|n|criança, garoto|The kids are at school.|As crianças estão na escola.
+body|n|corpo|Exercise is good for your body.|Exercício faz bem para o corpo.
+information|n|informação|I need more information.|Preciso de mais informações.
+nothing|pron|nada|There is nothing in the box.|Não há nada na caixa.
+ago|adv|atrás (tempo)|I moved here two years ago.|Eu me mudei para cá há dois anos.
+lead|v|liderar, conduzir|She will lead the meeting.|Ela vai liderar a reunião.
+social|adj|social|Humans are social animals.|Os humanos são animais sociais.
+understand|v|entender|I don't understand the question.|Eu não entendo a pergunta.
+whether|conj|se (ou não)|I don't know whether he will come.|Não sei se ele vai vir.
+watch|v|assistir, observar|We watch TV after dinner.|Nós assistimos TV depois do jantar.
+together|adv|juntos|Let's work together.|Vamos trabalhar juntos.
+follow|v|seguir|Follow me, please.|Siga-me, por favor.
+parent|n|pai ou mãe|Every parent wants the best for their child.|Todo pai ou mãe quer o melhor para o filho.
+stop|v|parar|Stop the car here.|Pare o carro aqui.
+face|n|rosto, cara|Wash your face.|Lave o rosto.
+anything|pron|qualquer coisa, algo|Do you need anything?|Você precisa de alguma coisa?
+create|v|criar|She wants to create her own company.|Ela quer criar a própria empresa.
+public|adj|público|This is a public park.|Este é um parque público.
+already|adv|já|I have already eaten.|Eu já comi.
+speak|v|falar|Do you speak English?|Você fala inglês?
+others|pron|outros|Some people like cats, others like dogs.|Algumas pessoas gostam de gatos, outras de cachorros.
+read|v|ler|I read before I sleep.|Eu leio antes de dormir.
+level|n|nível|What is your English level?|Qual é o seu nível de inglês?
+allow|v|permitir|My parents don't allow me to stay out late.|Meus pais não me permitem ficar fora até tarde.
+add|v|adicionar, somar|Add some salt to the soup.|Adicione um pouco de sal à sopa.
+office|n|escritório|I work in an office downtown.|Trabalho em um escritório no centro.
+spend|v|gastar, passar (tempo)|I spend too much money on clothes.|Eu gasto dinheiro demais com roupas.
+door|n|porta|Please close the door.|Por favor, feche a porta.
+health|n|saúde|Sleep is important for your health.|Dormir é importante para a saúde.
+person|n|pessoa|She is a very nice person.|Ela é uma pessoa muito legal.
+art|n|arte|I love modern art.|Eu amo arte moderna.
+sure|adj|certo, seguro|Are you sure?|Você tem certeza?
+war|n|guerra|The war lasted five years.|A guerra durou cinco anos.
+history|n|história|I like to study history.|Eu gosto de estudar história.
+party|n|festa, partido|We are having a party on Saturday.|Vamos fazer uma festa no sábado.
+within|prep|dentro de|I will answer within an hour.|Vou responder dentro de uma hora.
+grow|v|crescer|Plants need light to grow.|As plantas precisam de luz para crescer.
+result|n|resultado|The test results are good.|Os resultados do exame são bons.
+open|v|abrir|Can you open the window?|Você pode abrir a janela?
+morning|n|manhã|I drink coffee every morning.|Eu tomo café toda manhã.
+walk|v|andar, caminhar|I walk to work.|Eu vou a pé para o trabalho.
+reason|n|razão, motivo|There is no reason to worry.|Não há motivo para se preocupar.
+low|adj|baixo|The prices are very low.|Os preços estão muito baixos.
+win|v|ganhar, vencer|I hope we win the game.|Espero que a gente ganhe o jogo.
+research|n|pesquisa|She does research on climate change.|Ela faz pesquisa sobre mudança climática.
+girl|n|menina, garota|The girl is reading a book.|A menina está lendo um livro.
+guy|n|cara, sujeito|He is a nice guy.|Ele é um cara legal.
+early|adv|cedo|I wake up early.|Eu acordo cedo.
+food|n|comida|I love Italian food.|Eu amo comida italiana.
+moment|n|momento|Please wait a moment.|Por favor, espere um momento.
+himself|pron|ele mesmo, se|He made the cake himself.|Ele mesmo fez o bolo.
+air|n|ar|Open the window to get some fresh air.|Abra a janela para entrar ar fresco.
+teacher|n|professor|My teacher is very patient.|Minha professora é muito paciente.
+force|n|força|Don't force the door.|Não force a porta.
+offer|v|oferecer|Can I offer you a drink?|Posso te oferecer uma bebida?
+enough|adv|suficiente, bastante|I don't have enough time.|Eu não tenho tempo suficiente.
+education|n|educação|Education is the key to success.|A educação é a chave do sucesso.
+across|prep|através de, do outro lado|The bank is across the street.|O banco fica do outro lado da rua.
+although|conj|embora|Although it was raining, we went out.|Embora estivesse chovendo, nós saímos.
+remember|v|lembrar|Do you remember me?|Você se lembra de mim?
+foot|n|pé|I hurt my foot.|Machuquei meu pé.
+second|adj|segundo|This is my second time here.|Esta é a minha segunda vez aqui.
+boy|n|menino, garoto|The boy is playing soccer.|O menino está jogando futebol.
+maybe|adv|talvez|Maybe it will rain tomorrow.|Talvez chova amanhã.
+toward|prep|em direção a|She walked toward the door.|Ela caminhou em direção à porta.
+able|adj|capaz|I was able to finish the work.|Eu fui capaz de terminar o trabalho.
+age|n|idade|What is your age?|Qual é a sua idade?
+policy|n|política (diretriz)|The company has a new policy.|A empresa tem uma nova política.
+everything|pron|tudo|Everything is fine.|Está tudo bem.
+love|v|amar|I love my family.|Eu amo minha família.
+process|n|processo|Learning a language is a long process.|Aprender um idioma é um processo longo.
+music|n|música|What kind of music do you listen to?|Que tipo de música você ouve?
+including|prep|incluindo|Everyone came, including my uncle.|Todos vieram, incluindo meu tio.
+consider|v|considerar|Please consider my offer.|Por favor, considere minha oferta.
+appear|v|aparecer|A rainbow appeared in the sky.|Um arco-íris apareceu no céu.
+actually|adv|na verdade|Actually, I don't like coffee.|Na verdade, eu não gosto de café.
+buy|v|comprar|I want to buy a new car.|Quero comprar um carro novo.
+probably|adv|provavelmente|It will probably rain today.|Provavelmente vai chover hoje.
+human|adj|humano|Making mistakes is human.|Errar é humano.
+wait|v|esperar|Wait for me!|Espere por mim!
+serve|v|servir|They serve breakfast until ten.|Eles servem café da manhã até as dez.
+market|n|mercado|I buy fruit at the market.|Eu compro frutas no mercado.
+die|v|morrer|Plants die without water.|As plantas morrem sem água.
+send|v|enviar, mandar|Send me a message.|Me mande uma mensagem.
+expect|v|esperar (expectativa)|I expect to finish today.|Espero terminar hoje.
+sense|n|sentido|That doesn't make sense.|Isso não faz sentido.
+build|v|construir|They want to build a new school.|Eles querem construir uma nova escola.
+stay|v|ficar, permanecer|Stay here, I'll be right back.|Fique aqui, já volto.
+fall|v|cair|Be careful, don't fall.|Cuidado, não caia.
+oh|int|oh, ah|Oh, I forgot my keys!|Ah, esqueci minhas chaves!
+nation|n|nação|The whole nation celebrated.|A nação inteira comemorou.
+plan|n|plano|What is your plan for the weekend?|Qual é o seu plano para o fim de semana?
+cut|v|cortar|Cut the bread, please.|Corte o pão, por favor.
+college|n|faculdade|My sister is in college.|Minha irmã está na faculdade.
+interest|n|interesse|I have a great interest in science.|Tenho grande interesse por ciência.
+death|n|morte|His death was a shock.|A morte dele foi um choque.
+course|n|curso; rumo|I am taking an English course.|Estou fazendo um curso de inglês.
+someone|pron|alguém|Someone is at the door.|Tem alguém na porta.
+experience|n|experiência|Do you have work experience?|Você tem experiência de trabalho?
+behind|prep|atrás de|The garden is behind the house.|O jardim fica atrás da casa.
+reach|v|alcançar, chegar a|I can't reach the top shelf.|Não alcanço a prateleira de cima.
+local|adj|local|We eat at a local restaurant.|Comemos em um restaurante local.
+six|num|seis|I work six hours a day.|Eu trabalho seis horas por dia.
+remain|v|permanecer|Please remain seated.|Por favor, permaneçam sentados.
+effect|n|efeito|The medicine had a good effect.|O remédio teve um bom efeito.
+yeah|int|é, sim|Yeah, I like it.|É, eu gosto.
+suggest|v|sugerir|I suggest we leave early.|Sugiro que saiamos cedo.
+class|n|aula, turma, classe|My English class starts at seven.|Minha aula de inglês começa às sete.
+control|n|controle|The situation is under control.|A situação está sob controle.
+raise|v|levantar, criar, aumentar|Raise your hand.|Levante a mão.
+care|n|cuidado|Take care of yourself.|Cuide-se.
+perhaps|adv|talvez|Perhaps we can meet tomorrow.|Talvez possamos nos encontrar amanhã.
+late|adj|atrasado, tarde|Sorry, I'm late.|Desculpe, estou atrasado.
+hard|adj|difícil, duro|This exercise is hard.|Este exercício é difícil.
+field|n|campo|The cows are in the field.|As vacas estão no campo.
+else|adv|mais, outro|Do you want anything else?|Você quer mais alguma coisa?
+pass|v|passar|Can you pass me the salt?|Você pode me passar o sal?
+former|adj|antigo, ex-|He is my former boss.|Ele é meu ex-chefe.
+sell|v|vender|They sell fresh bread.|Eles vendem pão fresco.
+major|adj|principal, importante|This is a major problem.|Este é um problema sério.
+sometimes|adv|às vezes|Sometimes I walk to work.|Às vezes eu vou a pé para o trabalho.
+require|v|exigir, precisar|This job requires experience.|Este emprego exige experiência.
+along|prep|ao longo de|We walked along the beach.|Caminhamos ao longo da praia.
+development|n|desenvolvimento|The development of the city was fast.|O desenvolvimento da cidade foi rápido.
+themselves|pron|eles mesmos, se|They did it themselves.|Eles mesmos fizeram isso.
+report|n|relatório|I need to write a report.|Preciso escrever um relatório.
+role|n|papel, função|She plays the main role in the film.|Ela faz o papel principal no filme.
+better|adj|melhor|This one is better.|Este é melhor.
+economic|adj|econômico|The country has economic problems.|O país tem problemas econômicos.
+effort|n|esforço|Learning English takes effort.|Aprender inglês exige esforço.
+decide|v|decidir|I can't decide what to wear.|Não consigo decidir o que vestir.
+rate|n|taxa, índice|The interest rate is high.|A taxa de juros está alta.
+strong|adj|forte|He is very strong.|Ele é muito forte.
+possible|adj|possível|Is it possible to change the date?|É possível mudar a data?
+heart|n|coração|My heart is beating fast.|Meu coração está batendo rápido.
+leader|n|líder|She is a natural leader.|Ela é uma líder nata.
+light|n|luz|Turn on the light, please.|Acenda a luz, por favor.
+voice|n|voz|She has a beautiful voice.|Ela tem uma voz linda.
+wife|n|esposa|His wife is a lawyer.|A esposa dele é advogada.
+whole|adj|inteiro, todo|I ate the whole pizza.|Eu comi a pizza inteira.
+police|n|polícia|Call the police!|Chame a polícia!
+mind|n|mente|I changed my mind.|Eu mudei de ideia.
+finally|adv|finalmente|We finally arrived.|Finalmente chegamos.
+pull|v|puxar|Pull the door to open it.|Puxe a porta para abri-la.
+return|v|voltar, devolver|I will return the book tomorrow.|Vou devolver o livro amanhã.
+free|adj|livre, grátis|The museum is free on Sundays.|O museu é grátis aos domingos.
+military|adj|militar|He served in the military.|Ele serviu nas forças armadas.
+price|n|preço|The price is too high.|O preço está alto demais.
+less|adv|menos|I want to eat less sugar.|Quero comer menos açúcar.
+according|adv|de acordo (com)|According to the news, it will rain.|De acordo com o noticiário, vai chover.
+decision|n|decisão|It was a difficult decision.|Foi uma decisão difícil.
+explain|v|explicar|Can you explain this to me?|Você pode me explicar isso?
+son|n|filho|Their son is ten years old.|O filho deles tem dez anos.
+hope|v|esperar (ter esperança)|I hope you feel better.|Espero que você se sinta melhor.
+develop|v|desenvolver|The company develops software.|A empresa desenvolve software.
+view|n|vista, opinião|The view from here is amazing.|A vista daqui é incrível.
+relationship|n|relacionamento|They have a good relationship.|Eles têm um bom relacionamento.
+carry|v|carregar, levar|Can you carry this bag?|Você pode carregar esta bolsa?
+town|n|cidade pequena|I grew up in a small town.|Eu cresci em uma cidade pequena.
+road|n|estrada, rua|The road is closed.|A estrada está fechada.
+drive|v|dirigir|Can you drive?|Você sabe dirigir?
+arm|n|braço|I broke my arm.|Eu quebrei o braço.
+true|adj|verdadeiro|Is it true?|É verdade?
+break|v|quebrar|Be careful not to break the glass.|Cuidado para não quebrar o copo.
+difference|n|diferença|What is the difference?|Qual é a diferença?
+thank|v|agradecer|I want to thank you for your help.|Quero te agradecer pela ajuda.
+receive|v|receber|Did you receive my email?|Você recebeu meu e-mail?
+value|n|valor|Family is a strong value for me.|A família é um valor forte para mim.
+international|adj|internacional|This is an international airport.|Este é um aeroporto internacional.
+building|n|prédio, edifício|That building is very tall.|Aquele prédio é muito alto.
+action|n|ação|We need to take action now.|Precisamos agir agora.
+full|adj|cheio, completo|The bus is full.|O ônibus está cheio.
+model|n|modelo|She works as a model.|Ela trabalha como modelo.
+join|v|juntar-se, entrar em|Do you want to join us?|Você quer se juntar a nós?
+season|n|estação, temporada|Summer is my favorite season.|O verão é minha estação favorita.
+society|n|sociedade|We live in a modern society.|Vivemos em uma sociedade moderna.
+tax|n|imposto|Everyone has to pay tax.|Todo mundo tem que pagar imposto.
+director|n|diretor|The director of the film is French.|O diretor do filme é francês.
+position|n|posição|What position do you play?|Em que posição você joga?
+player|n|jogador|He is the best player on the team.|Ele é o melhor jogador do time.
+agree|v|concordar|I agree with you.|Eu concordo com você.
+especially|adv|especialmente|I love fruit, especially mangoes.|Adoro frutas, especialmente manga.
+record|n|registro, recorde|He broke the world record.|Ele quebrou o recorde mundial.
+pick|v|escolher, pegar|Pick a card.|Escolha uma carta.
+wear|v|vestir, usar (roupa)|I wear glasses.|Eu uso óculos.
+paper|n|papel|I need a piece of paper.|Preciso de uma folha de papel.
+special|adj|especial|Today is a special day.|Hoje é um dia especial.
+space|n|espaço|There is no space in the car.|Não há espaço no carro.
+ground|n|chão, solo|The ground is wet.|O chão está molhado.
+form|n|forma, formulário|Please fill out this form.|Por favor, preencha este formulário.
+support|v|apoiar|My family always supports me.|Minha família sempre me apoia.
+event|n|evento|The event starts at seven.|O evento começa às sete.
+official|n|funcionário, oficial|A government official visited the school.|Um funcionário do governo visitou a escola.
+whose|pron|cujo, de quem|Whose bag is this?|De quem é esta bolsa?
+matter|n|assunto, questão|It doesn't matter.|Não importa.
+everyone|pron|todos, todo mundo|Everyone is here.|Todos estão aqui.
+center|n|centro|The hotel is in the city center.|O hotel fica no centro da cidade.
+couple|n|casal, par|They are a lovely couple.|Eles são um casal lindo.
+site|n|local, site|This is a construction site.|Este é um canteiro de obras.
+project|n|projeto|We are working on a new project.|Estamos trabalhando em um novo projeto.
+hit|v|bater, atingir|He hit the ball very hard.|Ele bateu na bola com muita força.
+base|n|base|The lamp has a heavy base.|A luminária tem uma base pesada.
+activity|n|atividade|Swimming is my favorite activity.|Nadar é minha atividade favorita.
+star|n|estrela|Look at that bright star.|Olhe aquela estrela brilhante.
+table|n|mesa, tabela|Dinner is on the table.|O jantar está na mesa.
+court|n|tribunal, quadra|The case went to court.|O caso foi para o tribunal.
+produce|v|produzir|This factory produces cars.|Esta fábrica produz carros.
+eat|v|comer|Let's eat something.|Vamos comer alguma coisa.
+American|adj|americano|She is American.|Ela é americana.
+teach|v|ensinar|She teaches math.|Ela ensina matemática.
+oil|n|óleo, petróleo|Cook the onions in a little oil.|Cozinhe as cebolas em um pouco de óleo.
+half|n|metade|I ate half of the cake.|Eu comi metade do bolo.
+situation|n|situação|This is a difficult situation.|Esta é uma situação difícil.
+easy|adj|fácil|This test is easy.|Esta prova é fácil.
+cost|n|custo|The cost of living is high.|O custo de vida é alto.
+industry|n|indústria|He works in the music industry.|Ele trabalha na indústria da música.
+figure|n|figura, número|The figure shows the results.|A figura mostra os resultados.
+street|n|rua|I live on this street.|Eu moro nesta rua.
+image|n|imagem|The image on the screen is clear.|A imagem na tela está nítida.
+itself|pron|ele mesmo, se (coisa)|The door closed by itself.|A porta fechou sozinha.
+phone|n|telefone|My phone is out of battery.|Meu celular está sem bateria.
+either|det|qualquer um (de dois)|You can choose either color.|Você pode escolher qualquer uma das cores.
+data|n|dados|We need more data.|Precisamos de mais dados.
+cover|v|cobrir|Cover the pot with a lid.|Cubra a panela com uma tampa.
+quite|adv|bastante, bem|The test was quite easy.|A prova foi bem fácil.
+picture|n|imagem, foto|Can I take a picture of you?|Posso tirar uma foto sua?
+clear|adj|claro|The water is very clear.|A água está muito limpa.
+practice|n|prática|Practice makes perfect.|A prática leva à perfeição.
+piece|n|pedaço, peça|Can I have a piece of cake?|Posso pegar um pedaço de bolo?
+land|n|terra, terreno|They bought land in the country.|Eles compraram um terreno no interior.
+recent|adj|recente|This is a recent photo.|Esta é uma foto recente.
+describe|v|descrever|Can you describe the man?|Você pode descrever o homem?
+product|n|produto|This product is very good.|Este produto é muito bom.
+doctor|n|médico|I need to see a doctor.|Preciso ir ao médico.
+wall|n|parede, muro|There is a clock on the wall.|Há um relógio na parede.
+patient|n|paciente|The patient is feeling better.|O paciente está se sentindo melhor.
+worker|n|trabalhador|He is a hard worker.|Ele é um trabalhador esforçado.
+news|n|notícias|I have good news!|Eu tenho boas notícias!
+test|n|teste, prova|I have a math test tomorrow.|Tenho prova de matemática amanhã.
+movie|n|filme|Let's watch a movie tonight.|Vamos assistir a um filme hoje à noite.
+certain|adj|certo, determinado|I am certain that he is right.|Tenho certeza de que ele está certo.
+north|n|norte|Canada is north of the United States.|O Canadá fica ao norte dos Estados Unidos.
+personal|adj|pessoal|This is a personal question.|Esta é uma pergunta pessoal.
+simply|adv|simplesmente|I simply forgot.|Eu simplesmente esqueci.
+third|adj|terceiro|We live on the third floor.|Nós moramos no terceiro andar.
+technology|n|tecnologia|Technology changes very fast.|A tecnologia muda muito rápido.
+catch|v|pegar, apanhar|Catch the ball!|Pegue a bola!
+step|n|passo, degrau|Watch your step.|Cuidado com o degrau.
+baby|n|bebê|The baby is sleeping.|O bebê está dormindo.
+computer|n|computador|My computer is very slow.|Meu computador está muito lento.
+type|n|tipo|What type of food do you like?|Que tipo de comida você gosta?
+attention|n|atenção|Pay attention to the teacher.|Preste atenção na professora.
+draw|v|desenhar|My son loves to draw animals.|Meu filho adora desenhar animais.
+film|n|filme|This film won an award.|Este filme ganhou um prêmio.
+tree|n|árvore|There is a big tree in the garden.|Há uma árvore grande no jardim.
+source|n|fonte, origem|The sun is a source of energy.|O sol é uma fonte de energia.
+red|adj|vermelho|She has a red car.|Ela tem um carro vermelho.
+nearly|adv|quase|I nearly missed the bus.|Eu quase perdi o ônibus.
+organization|n|organização|She works for a health organization.|Ela trabalha para uma organização de saúde.
+choose|v|escolher|You can choose any seat.|Você pode escolher qualquer assento.
+cause|v|causar|The rain caused a lot of traffic.|A chuva causou muito trânsito.
+hair|n|cabelo|She has long black hair.|Ela tem cabelo preto e comprido.
+century|n|século|We live in the twenty-first century.|Vivemos no século vinte e um.
+evidence|n|evidência, prova|There is no evidence against him.|Não há provas contra ele.
+window|n|janela|Can you close the window?|Você pode fechar a janela?
+difficult|adj|difícil|English is not so difficult.|Inglês não é tão difícil.
+listen|v|ouvir, escutar|Listen to me, please.|Me escute, por favor.
+soon|adv|logo, em breve|See you soon!|Até logo!
+culture|n|cultura|I love Japanese culture.|Eu amo a cultura japonesa.
+billion|num|bilhão|The world has about eight billion people.|O mundo tem cerca de oito bilhões de pessoas.
+chance|n|chance, oportunidade|Give me another chance.|Me dê outra chance.
+brother|n|irmão|My brother lives in Canada.|Meu irmão mora no Canadá.
+energy|n|energia|I don't have energy today.|Não tenho energia hoje.
+period|n|período|It was a difficult period in my life.|Foi um período difícil da minha vida.
+summer|n|verão|We go to the beach every summer.|Vamos à praia todo verão.
+realize|v|perceber, dar-se conta|I didn't realize it was so late.|Não percebi que era tão tarde.
+hundred|num|cem|There are a hundred people here.|Há cem pessoas aqui.
+available|adj|disponível|Is this room available?|Este quarto está disponível?
+plant|n|planta, fábrica|I water my plants every day.|Eu rego minhas plantas todos os dias.
+likely|adj|provável|It is likely to rain tomorrow.|É provável que chova amanhã.
+opportunity|n|oportunidade|This is a great opportunity.|Esta é uma ótima oportunidade.
+term|n|termo, prazo|What does this term mean?|O que este termo significa?
+short|adj|curto, baixo|She has short hair.|Ela tem cabelo curto.
+letter|n|carta, letra|I wrote a letter to my grandmother.|Escrevi uma carta para minha avó.
+condition|n|condição|The car is in good condition.|O carro está em boas condições.
+choice|n|escolha|You made a good choice.|Você fez uma boa escolha.
+single|adj|único, solteiro|Is he single or married?|Ele é solteiro ou casado?
+rule|n|regra|You must follow the rules.|Você deve seguir as regras.
+daughter|n|filha|My daughter is five years old.|Minha filha tem cinco anos.
+south|n|sul|Brazil is in South America.|O Brasil fica na América do Sul.
+husband|n|marido|Her husband is a chef.|O marido dela é chef.
+floor|n|chão, andar|The keys fell on the floor.|As chaves caíram no chão.
+campaign|n|campanha|The campaign was a success.|A campanha foi um sucesso.
+material|n|material|This material is very soft.|Este material é muito macio.
+population|n|população|The population of the city is growing.|A população da cidade está crescendo.
+economy|n|economia|The economy is getting better.|A economia está melhorando.
+medical|adj|médico|He is a medical student.|Ele é estudante de medicina.
+hospital|n|hospital|My aunt is in the hospital.|Minha tia está no hospital.
+church|n|igreja|There is an old church in the square.|Há uma igreja antiga na praça.
+close|v|fechar|Please close the door.|Por favor, feche a porta.
+thousand|num|mil|The ticket costs a thousand dollars.|A passagem custa mil dólares.
+risk|n|risco|It is not worth the risk.|Não vale o risco.
+current|adj|atual|What is your current address?|Qual é o seu endereço atual?
+fire|n|fogo, incêndio|The firefighters put out the fire.|Os bombeiros apagaram o incêndio.
+future|n|futuro|I want a better future.|Eu quero um futuro melhor.
+wrong|adj|errado|Sorry, I called the wrong number.|Desculpe, liguei para o número errado.
+involve|v|envolver|The job involves a lot of travel.|O trabalho envolve muitas viagens.
+defense|n|defesa|Our team has a strong defense.|Nosso time tem uma defesa forte.
+anyone|pron|qualquer pessoa, alguém|Does anyone speak English?|Alguém fala inglês?
+increase|v|aumentar|Prices increase every year.|Os preços aumentam todo ano.
+security|n|segurança|Airport security is very strict.|A segurança do aeroporto é muito rígida.
+bank|n|banco|I need to go to the bank.|Preciso ir ao banco.
+myself|pron|eu mesmo, me|I made this dress myself.|Eu mesma fiz este vestido.
+certainly|adv|certamente|I will certainly help you.|Certamente vou te ajudar.
+west|n|oeste|The sun sets in the west.|O sol se põe no oeste.
+sport|n|esporte|Soccer is my favorite sport.|Futebol é meu esporte favorito.
+board|n|quadro, conselho|The teacher wrote on the board.|A professora escreveu no quadro.
+seek|v|procurar, buscar|Many people seek a better life.|Muitas pessoas buscam uma vida melhor.
+per|prep|por (cada)|The speed limit is 60 kilometers per hour.|O limite de velocidade é de 60 quilômetros por hora.
+subject|n|assunto, matéria|Math is my favorite subject.|Matemática é minha matéria favorita.
+officer|n|oficial, policial|The police officer helped us.|O policial nos ajudou.
+private|adj|privado, particular|This is a private beach.|Esta é uma praia particular.
+rest|n|descanso, resto|You need to rest.|Você precisa descansar.
+behavior|n|comportamento|His behavior was strange.|O comportamento dele foi estranho.
+deal|n|acordo, negócio|It's a deal!|Fechado!
+performance|n|desempenho|Her performance was amazing.|A apresentação dela foi incrível.
+fight|v|lutar, brigar|My brothers always fight.|Meus irmãos sempre brigam.
+throw|v|jogar, lançar|Throw the ball to me.|Jogue a bola para mim.
+top|n|topo|The cat is on top of the car.|O gato está em cima do carro.
+quickly|adv|rapidamente|She finished the work quickly.|Ela terminou o trabalho rapidamente.
+past|n|passado|Don't think about the past.|Não pense no passado.
+goal|n|objetivo, meta, gol|My goal is to speak English fluently.|Meu objetivo é falar inglês fluentemente.
+bed|n|cama|I go to bed at eleven.|Eu vou para a cama às onze.
+order|n|ordem, pedido|Are you ready to order?|Vocês estão prontos para pedir?
+author|n|autor|Who is the author of this book?|Quem é o autor deste livro?
+fill|v|encher, preencher|Fill the glass with water.|Encha o copo com água.
+represent|v|representar|The red color represents love.|A cor vermelha representa o amor.
+focus|v|focar|I can't focus on my work.|Não consigo me concentrar no trabalho.
+foreign|adj|estrangeiro|Do you speak any foreign languages?|Você fala algum idioma estrangeiro?
+drop|v|deixar cair, largar|Don't drop the plate!|Não deixe o prato cair!
+blood|n|sangue|I gave blood today.|Eu doei sangue hoje.
+upon|prep|sobre, em cima de|Once upon a time, there was a princess.|Era uma vez uma princesa.
+agency|n|agência|I booked the trip through a travel agency.|Reservei a viagem por uma agência de turismo.
+push|v|empurrar|Push the button to start.|Aperte o botão para começar.
+nature|n|natureza|I love being in nature.|Eu amo estar na natureza.
+color|n|cor|What is your favorite color?|Qual é sua cor favorita?
+recently|adv|recentemente|I recently moved to a new city.|Eu me mudei recentemente para uma nova cidade.
+store|n|loja|The store opens at nine.|A loja abre às nove.
+reduce|v|reduzir|We need to reduce our expenses.|Precisamos reduzir nossos gastos.
+sound|n|som|I love the sound of rain.|Eu amo o som da chuva.
+note|n|nota, anotação|I left a note on the table.|Deixei um bilhete na mesa.
+fine|adj|bem, bom, fino|I'm fine, thank you.|Estou bem, obrigado.
+near|prep|perto de|Is there a pharmacy near here?|Tem uma farmácia perto daqui?
+movement|n|movimento|The movement of the boat made me sick.|O movimento do barco me deixou enjoado.
+page|n|página|Open your books to page ten.|Abram os livros na página dez.
+enter|v|entrar|Please knock before you enter.|Por favor, bata antes de entrar.
+share|v|compartilhar, dividir|Let's share the pizza.|Vamos dividir a pizza.
+common|adj|comum|Smith is a common name.|Smith é um nome comum.
+poor|adj|pobre|The family was very poor.|A família era muito pobre.
+natural|adj|natural|This juice is completely natural.|Este suco é totalmente natural.
+race|n|corrida, raça|He won the race.|Ele venceu a corrida.
+concern|n|preocupação|My main concern is safety.|Minha principal preocupação é a segurança.
+series|n|série|I am watching a new TV series.|Estou assistindo a uma nova série de TV.
+significant|adj|significativo|There was a significant change.|Houve uma mudança significativa.
+similar|adj|semelhante|Our houses are similar.|Nossas casas são parecidas.
+hot|adj|quente|The soup is very hot.|A sopa está muito quente.
+language|n|idioma, língua|English is an international language.|O inglês é uma língua internacional.
+usually|adv|normalmente|I usually eat lunch at noon.|Eu geralmente almoço ao meio-dia.
+response|n|resposta|I am waiting for a response.|Estou esperando uma resposta.
+dead|adj|morto|The battery is dead.|A bateria acabou.
+rise|v|subir, levantar-se|The sun rises in the east.|O sol nasce no leste.
+animal|n|animal|What is your favorite animal?|Qual é o seu animal favorito?
+factor|n|fator|Price is an important factor.|O preço é um fator importante.
+decade|n|década|They have been married for a decade.|Eles estão casados há uma década.
+article|n|artigo|I read an interesting article.|Eu li um artigo interessante.
+shoot|v|atirar, filmar|They will shoot the film in Rio.|Eles vão filmar no Rio.
+east|n|leste|Japan is in the east of Asia.|O Japão fica no leste da Ásia.
+save|v|salvar, economizar|I want to save money for a trip.|Quero economizar dinheiro para uma viagem.
+seven|num|sete|There are seven days in a week.|Uma semana tem sete dias.
+artist|n|artista|She is a talented artist.|Ela é uma artista talentosa.
+scene|n|cena|This is my favorite scene in the movie.|Esta é minha cena favorita do filme.
+stock|n|estoque, ação (bolsa)|This item is out of stock.|Este item está fora de estoque.
+career|n|carreira|She has a successful career.|Ela tem uma carreira de sucesso.
+despite|prep|apesar de|We went out despite the rain.|Saímos apesar da chuva.
+central|adj|central|The hotel has a central location.|O hotel tem uma localização central.
+eight|num|oito|I sleep eight hours a night.|Eu durmo oito horas por noite.
+thus|adv|assim, portanto|He was sick and thus stayed home.|Ele estava doente e, portanto, ficou em casa.
+treatment|n|tratamento|The treatment worked very well.|O tratamento funcionou muito bem.
+beyond|prep|além de|The village is beyond the mountains.|A vila fica além das montanhas.
+happy|adj|feliz|I am very happy today.|Estou muito feliz hoje.
+exactly|adv|exatamente|That's exactly what I wanted.|É exatamente o que eu queria.
+protect|v|proteger|Sunscreen protects your skin.|O protetor solar protege sua pele.
+approach|n|abordagem|We need a new approach.|Precisamos de uma nova abordagem.
+lie|v|mentir; deitar|Don't lie to me.|Não minta para mim.
+size|n|tamanho|What size are your shoes?|Qual é o tamanho do seu sapato?
+dog|n|cachorro|My dog loves to play.|Meu cachorro adora brincar.
+fund|n|fundo (dinheiro)|They created a fund to help children.|Eles criaram um fundo para ajudar crianças.
+serious|adj|sério|This is a serious problem.|Este é um problema sério.
+occur|v|ocorrer|The accident occurred at night.|O acidente ocorreu à noite.
+media|n|mídia|The media is talking about the event.|A mídia está falando sobre o evento.
+ready|adj|pronto|Are you ready?|Você está pronto?
+sign|n|sinal, placa|Read the sign on the door.|Leia a placa na porta.
+thought|n|pensamento|That's an interesting thought.|Esse é um pensamento interessante.
+list|n|lista|Make a shopping list.|Faça uma lista de compras.
+individual|n|indivíduo|Every individual is different.|Cada indivíduo é diferente.
+simple|adj|simples|The recipe is very simple.|A receita é muito simples.
+quality|n|qualidade|The quality of this product is excellent.|A qualidade deste produto é excelente.
+pressure|n|pressão|I work well under pressure.|Eu trabalho bem sob pressão.
+accept|v|aceitar|Do you accept credit cards?|Vocês aceitam cartão de crédito?
+answer|n|resposta|I don't know the answer.|Eu não sei a resposta.
+resource|n|recurso|Water is a precious resource.|A água é um recurso precioso.
+identify|v|identificar|Can you identify the man in the photo?|Você consegue identificar o homem na foto?
+left|adj|esquerdo|Turn left at the next street.|Vire à esquerda na próxima rua.
+meeting|n|reunião|I have a meeting at ten.|Tenho uma reunião às dez.
+determine|v|determinar|The test will determine your level.|O teste vai determinar seu nível.
+prepare|v|preparar|I need to prepare for the exam.|Preciso me preparar para a prova.
+disease|n|doença|Heart disease is very common.|Doenças do coração são muito comuns.
+whatever|pron|o que quer que, tanto faz|Do whatever you want.|Faça o que quiser.
+success|n|sucesso|Congratulations on your success!|Parabéns pelo seu sucesso!
+argue|v|discutir, argumentar|My parents never argue.|Meus pais nunca discutem.
+cup|n|xícara, copo|Would you like a cup of tea?|Você gostaria de uma xícara de chá?
+particularly|adv|particularmente|I particularly like this song.|Eu gosto particularmente desta música.
+amount|n|quantidade|He paid a large amount of money.|Ele pagou uma grande quantia de dinheiro.
+ability|n|habilidade, capacidade|She has the ability to learn fast.|Ela tem a habilidade de aprender rápido.
+staff|n|equipe, funcionários|The hotel staff was very friendly.|A equipe do hotel foi muito simpática.
+recognize|v|reconhecer|I didn't recognize you!|Eu não te reconheci!
+indicate|v|indicar|The arrow indicates the exit.|A seta indica a saída.
+character|n|personagem, caráter|Who is your favorite character?|Quem é o seu personagem favorito?
+growth|n|crescimento|The company had strong growth this year.|A empresa teve um forte crescimento este ano.
+loss|n|perda|The team suffered a big loss.|O time sofreu uma grande derrota.
+degree|n|grau, diploma|She has a degree in law.|Ela é formada em direito.
+wonder|v|perguntar-se, imaginar|I wonder what time it is.|Eu me pergunto que horas são.
+attack|n|ataque|The attack happened at night.|O ataque aconteceu à noite.
+herself|pron|ela mesma, se|She cut herself with a knife.|Ela se cortou com uma faca.
+region|n|região|This region is famous for its wine.|Esta região é famosa pelo vinho.
+television|n|televisão|There is nothing good on television.|Não tem nada de bom na televisão.
+box|n|caixa|What is in the box?|O que tem na caixa?
+training|n|treinamento|The training starts on Monday.|O treinamento começa na segunda-feira.
+pretty|adv|bastante, bem|The test was pretty easy.|A prova foi bem fácil.
+trade|n|comércio|Trade between the two countries is growing.|O comércio entre os dois países está crescendo.
+election|n|eleição|Who won the election?|Quem ganhou a eleição?
+everybody|pron|todo mundo|Everybody loves pizza.|Todo mundo ama pizza.
+physical|adj|físico|Physical exercise is good for you.|Exercício físico faz bem para você.
+lay|v|colocar, deitar (algo)|Lay the baby on the bed.|Deite o bebê na cama.
+general|adj|geral|I have a general idea.|Eu tenho uma ideia geral.
+feeling|n|sentimento|I have a good feeling about this.|Tenho um bom pressentimento sobre isso.
+standard|n|padrão|This is the standard size.|Este é o tamanho padrão.
+bill|n|conta, projeto de lei|Can we have the bill, please?|A conta, por favor.
+message|n|mensagem|I sent you a message.|Te mandei uma mensagem.
+fail|v|falhar, fracassar|Don't be afraid to fail.|Não tenha medo de falhar.
+outside|adv|fora, lá fora|Let's eat outside.|Vamos comer lá fora.
+arrive|v|chegar|What time does the train arrive?|Que horas o trem chega?
+analysis|n|análise|The analysis took two weeks.|A análise levou duas semanas.
+benefit|n|benefício|Exercise has many benefits.|O exercício tem muitos benefícios.
+forward|adv|para frente|Move forward, please.|Ande para a frente, por favor.
+lawyer|n|advogado|I need to talk to a lawyer.|Preciso falar com um advogado.
+present|adj|presente, atual|All the students were present.|Todos os alunos estavam presentes.
+section|n|seção|Read the first section of the text.|Leia a primeira seção do texto.
+environmental|adj|ambiental|Pollution is an environmental problem.|A poluição é um problema ambiental.
+glass|n|vidro, copo|Can I have a glass of water?|Pode me dar um copo de água?
+skill|n|habilidade|Communication is an important skill.|Comunicação é uma habilidade importante.
+sister|n|irmã|My sister is older than me.|Minha irmã é mais velha que eu.
+professor|n|professor (universitário)|My professor is very smart.|Meu professor é muito inteligente.
+operation|n|operação|The operation was a success.|A operação foi um sucesso.
+financial|adj|financeiro|They have financial problems.|Eles têm problemas financeiros.
+crime|n|crime|Crime is a problem in big cities.|O crime é um problema nas cidades grandes.
+stage|n|palco, fase|The band is on the stage.|A banda está no palco.
+ok|adj|ok, tudo bem|Is it ok if I sit here?|Tudo bem se eu sentar aqui?
+compare|v|comparar|Don't compare yourself to others.|Não se compare com os outros.
+authority|n|autoridade|The police have the authority to stop cars.|A polícia tem autoridade para parar carros.
+miss|v|perder, sentir falta|I miss my family.|Sinto falta da minha família.
+design|n|design, projeto|I love the design of this house.|Eu amo o design desta casa.
+sort|n|tipo, espécie|What sort of music do you like?|Que tipo de música você gosta?
+act|v|agir, atuar|We need to act fast.|Precisamos agir rápido.
+ten|num|dez|I have ten minutes.|Eu tenho dez minutos.
+knowledge|n|conhecimento|Knowledge is power.|Conhecimento é poder.
+station|n|estação|Where is the train station?|Onde fica a estação de trem?
+blue|adj|azul|The sky is blue.|O céu é azul.
+strategy|n|estratégia|We need a new strategy.|Precisamos de uma nova estratégia.
+clearly|adv|claramente|Please speak clearly.|Por favor, fale com clareza.
+discuss|v|discutir, debater|Let's discuss this tomorrow.|Vamos discutir isso amanhã.
+indeed|adv|de fato|It was indeed a great day.|Foi de fato um ótimo dia.
+truth|n|verdade|Tell me the truth.|Me diga a verdade.
+song|n|música, canção|This song is beautiful.|Esta música é linda.
+example|n|exemplo|Can you give me an example?|Você pode me dar um exemplo?
+check|v|verificar, conferir|Check your answers.|Confira suas respostas.
+environment|n|meio ambiente, ambiente|We must protect the environment.|Devemos proteger o meio ambiente.
+leg|n|perna|My leg hurts.|Minha perna dói.
+dark|adj|escuro|It is dark outside.|Está escuro lá fora.
+various|adj|vários|We visited various countries.|Visitamos vários países.
+rather|adv|em vez de, bastante|I would rather stay home.|Eu prefiro ficar em casa.
+laugh|v|rir|His jokes make me laugh.|As piadas dele me fazem rir.
+guess|v|adivinhar, achar|Guess who called me!|Adivinha quem me ligou!
+executive|n|executivo|She is a top executive.|Ela é uma alta executiva.
+prove|v|provar|Can you prove it?|Você pode provar isso?
+hang|v|pendurar|Hang your coat here.|Pendure seu casaco aqui.
+entire|adj|inteiro|I read the entire book in one day.|Li o livro inteiro em um dia.
+rock|n|pedra, rocha|He sat on a big rock.|Ele sentou em uma pedra grande.
+forget|v|esquecer|Don't forget your keys.|Não esqueça suas chaves.
+claim|v|alegar, reivindicar|He claims he is innocent.|Ele alega que é inocente.
+remove|v|remover|Please remove your shoes.|Por favor, tire os sapatos.
+manager|n|gerente|I want to speak to the manager.|Quero falar com o gerente.
+enjoy|v|curtir, aproveitar|Enjoy your meal!|Aproveite a refeição!
+network|n|rede|The network is down.|A rede está fora do ar.
+legal|adj|legal, jurídico|Is it legal to park here?|É permitido estacionar aqui?
+religious|adj|religioso|She is very religious.|Ela é muito religiosa.
+cold|adj|frio|It's cold today.|Está frio hoje.
+final|adj|final|This is the final question.|Esta é a última pergunta.
+main|adj|principal|This is the main street.|Esta é a rua principal.
+science|n|ciência|I love science.|Eu amo ciência.
+green|adj|verde|The grass is green.|A grama é verde.
+memory|n|memória|I have a good memory.|Eu tenho uma boa memória.
+card|n|cartão, carta|I sent her a birthday card.|Mandei um cartão de aniversário para ela.
+above|prep|acima de|The picture is above the sofa.|O quadro está acima do sofá.
+seat|n|assento|Is this seat free?|Este lugar está livre?
+cell|n|célula, celular|The body has millions of cells.|O corpo tem milhões de células.
+establish|v|estabelecer|They established the company in 1990.|Eles fundaram a empresa em 1990.
+nice|adj|legal, agradável|What a nice day!|Que dia bonito!
+trial|n|julgamento, teste|The trial lasted three weeks.|O julgamento durou três semanas.
+expert|n|especialista|She is an expert in computers.|Ela é especialista em computadores.
+spring|n|primavera, mola|Flowers bloom in spring.|As flores desabrocham na primavera.
+firm|n|firma, empresa|He works for a law firm.|Ele trabalha em um escritório de advocacia.
+radio|n|rádio|I listen to the radio in the car.|Eu escuto rádio no carro.
+visit|v|visitar|I want to visit my grandparents.|Quero visitar meus avós.
+management|n|gestão, gerência|The management made a decision.|A gerência tomou uma decisão.
+avoid|v|evitar|Avoid eating too much sugar.|Evite comer açúcar demais.
+imagine|v|imaginar|Imagine a world without war.|Imagine um mundo sem guerra.
+tonight|adv|hoje à noite|What are you doing tonight?|O que você vai fazer hoje à noite?
+huge|adj|enorme|They live in a huge house.|Eles moram em uma casa enorme.
+ball|n|bola|Kick the ball!|Chute a bola!
+finish|v|terminar|I need to finish this today.|Preciso terminar isto hoje.
+yourself|pron|você mesmo|Help yourself to some food.|Sirva-se de comida.
+theory|n|teoria|I have a theory about it.|Tenho uma teoria sobre isso.
+impact|n|impacto|Social media has a big impact on our lives.|As redes sociais têm um grande impacto na nossa vida.
+respond|v|responder|Please respond to my email.|Por favor, responda ao meu e-mail.
+statement|n|declaração|The police made a statement.|A polícia fez uma declaração.
+maintain|v|manter|It is hard to maintain a big house.|É difícil manter uma casa grande.
+charge|n|cobrança, acusação|There is no charge for children.|Não há cobrança para crianças.
+popular|adj|popular|This restaurant is very popular.|Este restaurante é muito popular.
+traditional|adj|tradicional|This is a traditional dish.|Este é um prato tradicional.
+onto|prep|sobre, para cima de|The cat jumped onto the table.|O gato pulou em cima da mesa.
+reveal|v|revelar|She revealed her secret.|Ela revelou o segredo dela.
+direction|n|direção|Which direction is the beach?|Em que direção fica a praia?
+employee|n|funcionário|The company has fifty employees.|A empresa tem cinquenta funcionários.
+cultural|adj|cultural|The city has many cultural events.|A cidade tem muitos eventos culturais.
+contain|v|conter|This drink contains sugar.|Esta bebida contém açúcar.
+peace|n|paz|We want peace.|Nós queremos paz.
+pain|n|dor|I have a pain in my back.|Estou com dor nas costas.
+apply|v|aplicar, candidatar-se|I want to apply for this job.|Quero me candidatar a este emprego.
+measure|v|medir|Measure the table before you buy it.|Meça a mesa antes de comprá-la.
+wide|adj|largo, amplo|The river is very wide.|O rio é muito largo.
+shake|v|sacudir, tremer|Shake the bottle before using.|Agite o frasco antes de usar.
+fly|v|voar|Birds can fly.|Os pássaros sabem voar.
+interview|n|entrevista|I have a job interview tomorrow.|Tenho uma entrevista de emprego amanhã.
+manage|v|gerenciar, conseguir|She manages a small team.|Ela gerencia uma equipe pequena.
+chair|n|cadeira|Please take a chair.|Por favor, pegue uma cadeira.
+fish|n|peixe|We had fish for dinner.|Comemos peixe no jantar.
+particular|adj|particular, específico|Are you looking for anything in particular?|Você está procurando algo em particular?
+camera|n|câmera|I bought a new camera.|Comprei uma câmera nova.
+structure|n|estrutura|The structure of the building is strong.|A estrutura do prédio é forte.
+politics|n|política|I don't like to talk about politics.|Não gosto de falar sobre política.
+perform|v|realizar, apresentar|The band will perform tonight.|A banda vai se apresentar hoje à noite.
+bit|n|pouco, pedaço|I'm a bit tired.|Estou um pouco cansado.
+weight|n|peso|I want to lose weight.|Quero perder peso.
+suddenly|adv|de repente|Suddenly, the lights went out.|De repente, as luzes se apagaram.
+discover|v|descobrir|They discovered a new planet.|Eles descobriram um novo planeta.
+candidate|n|candidato|She is the best candidate for the job.|Ela é a melhor candidata para a vaga.
+production|n|produção|The production of the film took two years.|A produção do filme levou dois anos.
+treat|v|tratar|Treat others with respect.|Trate os outros com respeito.
+trip|n|viagem|How was your trip?|Como foi sua viagem?
+evening|n|noite, fim de tarde|Good evening!|Boa noite!
+affect|v|afetar|The weather affects my mood.|O tempo afeta meu humor.
+inside|adv|dentro|Let's go inside, it's raining.|Vamos entrar, está chovendo.
+conference|n|conferência|She is at a conference in Lisbon.|Ela está em uma conferência em Lisboa.
+unit|n|unidade|We are studying unit five.|Estamos estudando a unidade cinco.
+style|n|estilo|I like your style.|Gosto do seu estilo.
+adult|n|adulto|Tickets for adults cost ten dollars.|Ingressos para adultos custam dez dólares.
+worry|v|preocupar-se|Don't worry, be happy.|Não se preocupe, seja feliz.
+range|n|variedade, alcance|The store has a wide range of products.|A loja tem uma grande variedade de produtos.
+mention|v|mencionar|He didn't mention the problem.|Ele não mencionou o problema.
+deep|adj|profundo|The lake is very deep.|O lago é muito fundo.
+edge|n|borda, beira|Don't stand near the edge.|Não fique perto da beirada.
+specific|adj|específico|Can you be more specific?|Você pode ser mais específico?
+writer|n|escritor|She is a famous writer.|Ela é uma escritora famosa.
+trouble|n|problema, encrenca|I'm having trouble with my car.|Estou tendo problemas com meu carro.
+necessary|adj|necessário|Is it necessary to bring a passport?|É necessário levar passaporte?
+throughout|prep|durante todo, por todo|It rained throughout the night.|Choveu durante toda a noite.
+challenge|n|desafio|Learning a language is a big challenge.|Aprender um idioma é um grande desafio.
+fear|n|medo|She has a fear of spiders.|Ela tem medo de aranhas.
+shoulder|n|ombro|My shoulder hurts.|Meu ombro dói.
+institution|n|instituição|The bank is a financial institution.|O banco é uma instituição financeira.
+middle|n|meio|There is a table in the middle of the room.|Há uma mesa no meio da sala.
+sea|n|mar|I love swimming in the sea.|Eu amo nadar no mar.
+dream|n|sonho|I had a strange dream last night.|Tive um sonho estranho ontem à noite.
+bar|n|bar, barra|Let's meet at the bar.|Vamos nos encontrar no bar.
+beautiful|adj|bonito, lindo|What a beautiful view!|Que vista linda!
+property|n|propriedade|This property belongs to my family.|Esta propriedade pertence à minha família.
+instead|adv|em vez disso|Let's walk instead of taking a taxi.|Vamos caminhar em vez de pegar um táxi.
+improve|v|melhorar|I want to improve my English.|Quero melhorar meu inglês.
+stuff|n|coisas|I have a lot of stuff to do.|Tenho muitas coisas para fazer.
+detail|n|detalhe|Tell me every detail.|Me conte cada detalhe.
+method|n|método|This is a good method to learn.|Este é um bom método para aprender.
+somebody|pron|alguém|Somebody left the door open.|Alguém deixou a porta aberta.
+magazine|n|revista|I read a magazine on the plane.|Li uma revista no avião.
+hotel|n|hotel|We stayed at a nice hotel.|Ficamos em um hotel legal.
+soldier|n|soldado|The soldier came back home.|O soldado voltou para casa.
+reflect|v|refletir|The lake reflects the mountains.|O lago reflete as montanhas.
+heavy|adj|pesado|This box is very heavy.|Esta caixa é muito pesada.
+bag|n|bolsa, sacola|My bag is on the chair.|Minha bolsa está na cadeira.
+heat|n|calor|I can't stand this heat.|Não aguento este calor.
+marriage|n|casamento|They have a happy marriage.|Eles têm um casamento feliz.
+tough|adj|duro, difícil|It was a tough week.|Foi uma semana difícil.
+sing|v|cantar|She loves to sing.|Ela adora cantar.
+surface|n|superfície|The surface of the table is smooth.|A superfície da mesa é lisa.
+purpose|n|propósito|What is the purpose of your visit?|Qual é o propósito da sua visita?
+exist|v|existir|Do you think aliens exist?|Você acha que alienígenas existem?
+pattern|n|padrão|I like the pattern on your shirt.|Gosto da estampa da sua camisa.
+whom|pron|quem (objeto)|To whom should I send the letter?|Para quem devo enviar a carta?
+skin|n|pele|She has very soft skin.|Ela tem a pele muito macia.
+agent|n|agente|I spoke to a travel agent.|Falei com um agente de viagens.
+owner|n|dono|Who is the owner of this car?|Quem é o dono deste carro?
+machine|n|máquina|The coffee machine is broken.|A máquina de café está quebrada.
+gas|n|gás, gasolina|We need to buy gas for the car.|Precisamos comprar gasolina para o carro.
+ahead|adv|à frente|The road ahead is closed.|A estrada à frente está fechada.
+generation|n|geração|My generation grew up with the internet.|Minha geração cresceu com a internet.
+commercial|adj|comercial|This is a commercial area.|Esta é uma área comercial.
+address|n|endereço|What is your address?|Qual é o seu endereço?
+cancer|n|câncer|Smoking can cause cancer.|Fumar pode causar câncer.
+item|n|item|This item is on sale.|Este item está em promoção.
+reality|n|realidade|Dreams can become reality.|Sonhos podem virar realidade.
+coach|n|treinador|The coach talked to the players.|O treinador conversou com os jogadores.
+yard|n|quintal, jarda|The kids are playing in the yard.|As crianças estão brincando no quintal.
+beat|v|bater, vencer|Our team beat them easily.|Nosso time os venceu facilmente.
+violence|n|violência|We are against violence.|Somos contra a violência.
+total|adj|total|The total is fifty dollars.|O total é cinquenta dólares.
+tend|v|tender|I tend to sleep late on weekends.|Eu costumo dormir tarde nos fins de semana.
+investment|n|investimento|Buying a house is a good investment.|Comprar uma casa é um bom investimento.
+discussion|n|discussão|We had a long discussion.|Tivemos uma longa discussão.
+finger|n|dedo|I cut my finger.|Eu cortei meu dedo.
+garden|n|jardim|My grandmother has a beautiful garden.|Minha avó tem um jardim lindo.
+notice|v|notar, perceber|Did you notice anything strange?|Você notou algo estranho?
+collection|n|coleção|He has a big collection of stamps.|Ele tem uma grande coleção de selos.
+modern|adj|moderno|They live in a modern apartment.|Eles moram em um apartamento moderno.
+task|n|tarefa|This task is very easy.|Esta tarefa é muito fácil.
+partner|n|parceiro, sócio|She is my business partner.|Ela é minha sócia.
+positive|adj|positivo|Try to stay positive.|Tente se manter positivo.
+civil|adj|civil|He is a civil engineer.|Ele é engenheiro civil.
+kitchen|n|cozinha|Mom is in the kitchen.|A mamãe está na cozinha.
+consumer|n|consumidor|The consumer has rights.|O consumidor tem direitos.
+shot|n|tiro, foto, dose|That was a great shot!|Esse foi um ótimo chute!
+budget|n|orçamento|We are on a tight budget.|Estamos com o orçamento apertado.
+wish|v|desejar|I wish you a happy birthday.|Desejo a você um feliz aniversário.
+painting|n|pintura|This painting is very old.|Esta pintura é muito antiga.
+scientist|n|cientista|She wants to be a scientist.|Ela quer ser cientista.
+safe|adj|seguro|Is this area safe?|Esta área é segura?
+agreement|n|acordo|We reached an agreement.|Chegamos a um acordo.
+capital|n|capital|Brasília is the capital of Brazil.|Brasília é a capital do Brasil.
+mouth|n|boca|Don't talk with your mouth full.|Não fale de boca cheia.
+nor|conj|nem|I like neither tea nor coffee.|Não gosto nem de chá nem de café.
+victim|n|vítima|The victim was taken to the hospital.|A vítima foi levada ao hospital.
+newspaper|n|jornal|My father reads the newspaper every morning.|Meu pai lê o jornal toda manhã.
+threat|n|ameaça|Pollution is a threat to our health.|A poluição é uma ameaça à nossa saúde.
+responsibility|n|responsabilidade|It's your responsibility.|É sua responsabilidade.
+smile|v|sorrir|Smile for the photo!|Sorria para a foto!
+score|n|placar, pontuação|What's the score?|Qual é o placar?
+account|n|conta|I opened a bank account.|Abri uma conta no banco.
+interesting|adj|interessante|This book is very interesting.|Este livro é muito interessante.
+audience|n|público, plateia|The audience loved the show.|O público adorou o show.
+rich|adj|rico|He wants to be rich.|Ele quer ser rico.
+dinner|n|jantar|What's for dinner?|O que tem para o jantar?
+vote|v|votar|Did you vote in the election?|Você votou na eleição?
+western|adj|ocidental|Western music is popular here.|A música ocidental é popular aqui.
+relate|v|relacionar|I can relate to your story.|Eu me identifico com a sua história.
+travel|v|viajar|I love to travel.|Eu amo viajar.
+debate|n|debate|There was a debate on TV last night.|Teve um debate na TV ontem à noite.
+prevent|v|prevenir, impedir|Washing your hands prevents disease.|Lavar as mãos previne doenças.
+citizen|n|cidadão|She is a Brazilian citizen.|Ela é cidadã brasileira.
+majority|n|maioria|The majority of students passed the test.|A maioria dos alunos passou na prova.
+none|pron|nenhum|None of my friends came.|Nenhum dos meus amigos veio.
+front|n|frente|Let's meet in front of the cinema.|Vamos nos encontrar em frente ao cinema.
+born|adj|nascido|I was born in 1995.|Eu nasci em 1995.
+admit|v|admitir|He admitted his mistake.|Ele admitiu o erro.
+senior|adj|sênior, mais velho|She is a senior manager.|Ela é gerente sênior.
+assume|v|supor, assumir|I assume you are hungry.|Suponho que você esteja com fome.
+wind|n|vento|The wind is very strong today.|O vento está muito forte hoje.
+key|n|chave|I lost my car key.|Perdi a chave do carro.
+professional|adj|profissional|She is a professional photographer.|Ela é fotógrafa profissional.
+mission|n|missão|The mission was a success.|A missão foi um sucesso.
+fast|adj|rápido|He drives too fast.|Ele dirige rápido demais.
+alone|adj|sozinho|I live alone.|Eu moro sozinho.
+customer|n|cliente|The customer is always right.|O cliente sempre tem razão.
+suffer|v|sofrer|Many people suffer from stress.|Muitas pessoas sofrem de estresse.
+speech|n|discurso, fala|He gave a great speech.|Ele fez um ótimo discurso.
+successful|adj|bem-sucedido|The event was very successful.|O evento foi muito bem-sucedido.
+option|n|opção|We have two options.|Temos duas opções.
+participant|n|participante|Each participant received a gift.|Cada participante recebeu um presente.
+southern|adj|do sul|They live in southern Brazil.|Eles moram no sul do Brasil.
+fresh|adj|fresco|I bought fresh bread.|Comprei pão fresco.
+eventually|adv|finalmente, com o tempo|Eventually, he found a job.|Com o tempo, ele encontrou um emprego.
+forest|n|floresta|The Amazon is a huge forest.|A Amazônia é uma floresta enorme.
+video|n|vídeo|I watched a funny video.|Assisti a um vídeo engraçado.
+global|adj|global|Climate change is a global problem.|A mudança climática é um problema global.
+reform|n|reforma|The school needs a reform.|A escola precisa de uma reforma.
+access|n|acesso|Do you have access to the internet?|Você tem acesso à internet?
+restaurant|n|restaurante|Let's go to a restaurant.|Vamos a um restaurante.
+judge|n|juiz|The judge made a decision.|O juiz tomou uma decisão.
+publish|v|publicar|She wants to publish a book.|Ela quer publicar um livro.
+relation|n|relação|There is no relation between the two events.|Não há relação entre os dois eventos.
+release|v|lançar, liberar|The band will release a new album.|A banda vai lançar um novo álbum.
+bird|n|pássaro|A bird is singing outside.|Um pássaro está cantando lá fora.
+opinion|n|opinião|What is your opinion?|Qual é a sua opinião?
+credit|n|crédito|Can I pay with a credit card?|Posso pagar com cartão de crédito?
+critical|adj|crítico|This is a critical moment.|Este é um momento crítico.
+corner|n|canto, esquina|The bakery is on the corner.|A padaria fica na esquina.
+concerned|adj|preocupado|I am concerned about my health.|Estou preocupado com minha saúde.
+recall|v|lembrar, recordar|I can't recall his name.|Não consigo me lembrar do nome dele.
+version|n|versão|Download the latest version of the app.|Baixe a versão mais recente do aplicativo.
+stare|v|encarar, olhar fixamente|Don't stare at people.|Não fique encarando as pessoas.
+safety|n|segurança|Safety comes first.|A segurança vem em primeiro lugar.
+effective|adj|eficaz|This medicine is very effective.|Este remédio é muito eficaz.
+neighborhood|n|bairro, vizinhança|I live in a quiet neighborhood.|Eu moro em um bairro tranquilo.
+original|adj|original|This is the original painting.|Esta é a pintura original.
+income|n|renda|Their income is very low.|A renda deles é muito baixa.
+directly|adv|diretamente|Go directly to the airport.|Vá diretamente para o aeroporto.
+hurt|v|machucar, doer|Did you hurt yourself?|Você se machucou?
+species|n|espécie|This species of bird is rare.|Esta espécie de pássaro é rara.
+immediately|adv|imediatamente|Call me immediately.|Me ligue imediatamente.
+track|n|trilha, faixa|The train is on track two.|O trem está na plataforma dois.
+basic|adj|básico|I know some basic English.|Eu sei um pouco de inglês básico.
+strike|v|atingir, golpear|Lightning can strike twice.|Um raio pode cair duas vezes.
+sky|n|céu|The sky is full of stars.|O céu está cheio de estrelas.
+freedom|n|liberdade|Freedom is very important.|A liberdade é muito importante.
+absolutely|adv|absolutamente|You are absolutely right.|Você está absolutamente certo.
+plane|n|avião|The plane leaves at noon.|O avião sai ao meio-dia.
+nobody|pron|ninguém|Nobody knows the answer.|Ninguém sabe a resposta.
+achieve|v|alcançar, conquistar|You can achieve your dreams.|Você pode realizar seus sonhos.
+object|n|objeto|What is that strange object?|O que é aquele objeto estranho?
+attitude|n|atitude|She has a positive attitude.|Ela tem uma atitude positiva.
+labor|n|trabalho, mão de obra|Labor costs are high.|Os custos de mão de obra são altos.
+refer|v|referir-se|Please refer to page five.|Por favor, consulte a página cinco.
+concept|n|conceito|The concept is simple.|O conceito é simples.
+client|n|cliente|I have a meeting with a client.|Tenho uma reunião com um cliente.
+powerful|adj|poderoso|This is a powerful computer.|Este é um computador poderoso.
+perfect|adj|perfeito|Your English is perfect.|Seu inglês é perfeito.
+nine|num|nove|The store opens at nine.|A loja abre às nove.
+therefore|adv|portanto|I think, therefore I am.|Penso, logo existo.
+conduct|v|conduzir, realizar|They will conduct a survey.|Eles vão realizar uma pesquisa.
+announce|v|anunciar|They announced the winner.|Eles anunciaram o vencedor.
+conversation|n|conversa|We had a nice conversation.|Tivemos uma conversa agradável.
+examine|v|examinar|The doctor will examine you now.|O médico vai examinar você agora.
+touch|v|tocar|Don't touch the paint.|Não toque na tinta.
+please|adv|por favor|Please sit down.|Por favor, sente-se.
+attend|v|frequentar, comparecer|I attend English classes twice a week.|Frequento aulas de inglês duas vezes por semana.
+completely|adv|completamente|I completely forgot.|Eu esqueci completamente.
+variety|n|variedade|The menu has a great variety of dishes.|O cardápio tem uma grande variedade de pratos.
+sleep|v|dormir|I need to sleep.|Eu preciso dormir.
+involved|adj|envolvido|Are you involved in this project?|Você está envolvido neste projeto?
+investigation|n|investigação|The police started an investigation.|A polícia começou uma investigação.
+nuclear|adj|nuclear|This is a nuclear power plant.|Esta é uma usina nuclear.
+researcher|n|pesquisador|She is a researcher at the university.|Ela é pesquisadora na universidade.
+press|v|pressionar, apertar|Press the green button.|Aperte o botão verde.
+conflict|n|conflito|They want to avoid conflict.|Eles querem evitar conflito.
+spirit|n|espírito|She has a strong spirit.|Ela tem um espírito forte.
+replace|v|substituir|I need to replace my phone.|Preciso substituir meu celular.
+British|adj|britânico|He has a British accent.|Ele tem sotaque britânico.
+encourage|v|encorajar|My parents encourage me to study.|Meus pais me incentivam a estudar.
+argument|n|argumento, discussão|They had an argument about money.|Eles tiveram uma discussão sobre dinheiro.
+camp|n|acampamento|The kids went to summer camp.|As crianças foram para o acampamento de verão.
+brain|n|cérebro|The brain is a complex organ.|O cérebro é um órgão complexo.
+feature|n|característica, recurso|This phone has a new feature.|Este celular tem um novo recurso.
+afternoon|n|tarde|See you this afternoon.|Até hoje à tarde.
+weekend|n|fim de semana|What did you do last weekend?|O que você fez no fim de semana passado?
+dozen|n|dúzia|I bought a dozen eggs.|Comprei uma dúzia de ovos.
+possibility|n|possibilidade|There is a possibility of rain.|Há possibilidade de chuva.
+insurance|n|seguro|Do you have health insurance?|Você tem plano de saúde?
+department|n|departamento|She works in the sales department.|Ela trabalha no departamento de vendas.
+battle|n|batalha|It was a long battle.|Foi uma longa batalha.
+beginning|n|começo|Let's start from the beginning.|Vamos começar do começo.
+date|n|data, encontro|What is the date today?|Qual é a data de hoje?
+generally|adv|geralmente|I generally wake up at seven.|Eu geralmente acordo às sete.
+African|adj|africano|We listened to African music.|Ouvimos música africana.
+sorry|adj|desculpe, arrependido|I'm sorry for being late.|Desculpe pelo atraso.
+crisis|n|crise|The country is in a crisis.|O país está em crise.
+complete|v|completar|Complete the sentences.|Complete as frases.
+fan|n|fã, ventilador|I am a big fan of this band.|Sou muito fã desta banda.
+stick|v|grudar, colar|Stick the photo on the wall.|Cole a foto na parede.
+define|v|definir|How do you define success?|Como você define sucesso?
+easily|adv|facilmente|She learns languages easily.|Ela aprende idiomas facilmente.
+hole|n|buraco|There is a hole in my sock.|Tem um buraco na minha meia.
+element|n|elemento|Water is an essential element.|A água é um elemento essencial.
+vision|n|visão|I have good vision.|Eu tenho uma boa visão.
+status|n|status, situação|What is the status of my order?|Qual é a situação do meu pedido?
+normal|adj|normal|Everything is normal.|Está tudo normal.
+Chinese|adj|chinês|I love Chinese food.|Eu amo comida chinesa.
+ship|n|navio|The ship arrived at the port.|O navio chegou ao porto.
+solution|n|solução|We need to find a solution.|Precisamos encontrar uma solução.
+stone|n|pedra|The house is made of stone.|A casa é feita de pedra.
+slowly|adv|devagar|Please speak slowly.|Por favor, fale devagar.
+scale|n|escala, balança|Put the fruit on the scale.|Coloque a fruta na balança.
+university|n|universidade|She studies at the university.|Ela estuda na universidade.
+introduce|v|apresentar, introduzir|Let me introduce my wife.|Deixe-me apresentar minha esposa.
+driver|n|motorista|The bus driver was very kind.|O motorista do ônibus foi muito gentil.
+attempt|n|tentativa|He passed the test on the first attempt.|Ele passou na prova na primeira tentativa.
+park|n|parque|Let's go to the park.|Vamos ao parque.
+spot|n|lugar, mancha|This is a great spot for a picnic.|Este é um ótimo lugar para um piquenique.
+lack|n|falta|The plants died from lack of water.|As plantas morreram por falta de água.
+ice|n|gelo|Do you want ice in your drink?|Você quer gelo na bebida?
+boat|n|barco|We crossed the river by boat.|Atravessamos o rio de barco.
+drink|v|beber|What would you like to drink?|O que você gostaria de beber?
+sun|n|sol|The sun is shining.|O sol está brilhando.
+distance|n|distância|What is the distance to the city?|Qual é a distância até a cidade?
+wood|n|madeira|The table is made of wood.|A mesa é feita de madeira.
+handle|v|lidar com, manusear|Can you handle the pressure?|Você consegue lidar com a pressão?
+truck|n|caminhão|A big truck blocked the road.|Um caminhão grande bloqueou a estrada.
+mountain|n|montanha|We climbed the mountain.|Nós escalamos a montanha.
+survey|n|pesquisa, levantamento|Please answer this short survey.|Por favor, responda a esta pesquisa curta.
+supposed|adj|suposto|You are supposed to be here at eight.|Você deveria estar aqui às oito.
+tradition|n|tradição|It's a family tradition.|É uma tradição de família.
+winter|n|inverno|It snows in winter.|Neva no inverno.
+village|n|vila, aldeia|They live in a small village.|Eles moram em uma pequena vila.
+refuse|v|recusar|I refuse to give up.|Eu me recuso a desistir.
+sales|n|vendas|Sales increased this month.|As vendas aumentaram este mês.
+roll|v|rolar|The ball rolled under the car.|A bola rolou para debaixo do carro.
+communication|n|comunicação|Good communication is important.|Uma boa comunicação é importante.
+screen|n|tela|The screen of my phone is broken.|A tela do meu celular está quebrada.
+gain|v|ganhar, obter|I gained weight on vacation.|Ganhei peso nas férias.
+resident|n|morador|She is a resident of this city.|Ela é moradora desta cidade.
+hide|v|esconder|The cat likes to hide under the bed.|O gato gosta de se esconder debaixo da cama.
+gold|n|ouro|She wears a gold ring.|Ela usa um anel de ouro.
+club|n|clube|I joined a book club.|Entrei em um clube do livro.
+farm|n|fazenda|My uncle lives on a farm.|Meu tio mora em uma fazenda.
+potential|adj|potencial|She has great potential.|Ela tem um grande potencial.
+European|adj|europeu|Portugal is a European country.|Portugal é um país europeu.
+presence|n|presença|Thank you for your presence.|Obrigado pela sua presença.
+independent|adj|independente|She is very independent.|Ela é muito independente.
+district|n|distrito, bairro|This is the business district.|Este é o distrito comercial.
+shape|n|forma|The cake has the shape of a heart.|O bolo tem forma de coração.
+reader|n|leitor|She is a fast reader.|Ela é uma leitora rápida.
+contract|n|contrato|Read the contract before you sign.|Leia o contrato antes de assinar.
+crowd|n|multidão|There was a big crowd at the concert.|Havia uma grande multidão no show.
+Christian|adj|cristão|It is a Christian holiday.|É um feriado cristão.
+express|v|expressar|It's hard to express my feelings.|É difícil expressar meus sentimentos.
+apartment|n|apartamento|I live in a small apartment.|Eu moro em um apartamento pequeno.
+willing|adj|disposto|Are you willing to help?|Você está disposto a ajudar?
+strength|n|força|She has a lot of strength.|Ela tem muita força.
+previous|adj|anterior|My previous job was boring.|Meu emprego anterior era chato.
+band|n|banda|My favorite band is playing tonight.|Minha banda favorita vai tocar hoje.
+obviously|adv|obviamente|Obviously, I said yes.|Obviamente, eu disse sim.
+horse|n|cavalo|She rides a horse every weekend.|Ela anda a cavalo todo fim de semana.
+interested|adj|interessado|I am interested in art.|Eu me interesso por arte.
+target|n|alvo, meta|Our target is to sell more.|Nossa meta é vender mais.
+prison|n|prisão|He spent ten years in prison.|Ele passou dez anos na prisão.
+ride|v|andar (de bicicleta, cavalo)|Can you ride a bike?|Você sabe andar de bicicleta?
+guard|n|guarda|The guard opened the gate.|O guarda abriu o portão.
+terms|n|termos, condições|Read the terms and conditions.|Leia os termos e condições.
+demand|n|demanda, exigência|There is a high demand for nurses.|Há uma grande demanda por enfermeiros.
+reporter|n|repórter|The reporter asked many questions.|O repórter fez muitas perguntas.
+deliver|v|entregar|They deliver pizza until midnight.|Eles entregam pizza até a meia-noite.
+text|n|texto, mensagem|Send me a text when you arrive.|Me mande uma mensagem quando chegar.
+tool|n|ferramenta|A hammer is a useful tool.|Um martelo é uma ferramenta útil.
+wild|adj|selvagem|We saw wild animals in the park.|Vimos animais selvagens no parque.
+vehicle|n|veículo|Park your vehicle here.|Estacione seu veículo aqui.
+observe|v|observar|Scientists observe the stars.|Os cientistas observam as estrelas.
+flight|n|voo|My flight is at six.|Meu voo é às seis.
+facility|n|instalação|The school has a new sports facility.|A escola tem uma nova instalação esportiva.
+understanding|n|compreensão|Thank you for your understanding.|Obrigado pela compreensão.
+average|adj|médio|The average age is thirty.|A idade média é trinta anos.
+emerge|v|surgir, emergir|The sun emerged from behind the clouds.|O sol surgiu por trás das nuvens.
+advantage|n|vantagem|Speaking English is a big advantage.|Falar inglês é uma grande vantagem.
+quick|adj|rápido|Can I ask a quick question?|Posso fazer uma pergunta rápida?
+leadership|n|liderança|She showed great leadership.|Ela mostrou grande liderança.
+earn|v|ganhar (dinheiro)|He earns a good salary.|Ele ganha um bom salário.
+pound|n|libra|This bag weighs ten pounds.|Esta bolsa pesa dez libras.
+basis|n|base|I go to the gym on a daily basis.|Vou à academia diariamente.
+bright|adj|brilhante, claro|The room is very bright.|O quarto é muito claro.
+operate|v|operar|Can you operate this machine?|Você sabe operar esta máquina?
+guest|n|convidado, hóspede|We have guests tonight.|Temos convidados hoje à noite.
+sample|n|amostra|Can I try a free sample?|Posso provar uma amostra grátis?
+contribute|v|contribuir|Everyone can contribute.|Todo mundo pode contribuir.
+tiny|adj|minúsculo|They live in a tiny apartment.|Eles moram em um apartamento minúsculo.
+block|n|quarteirão, bloco|The bank is two blocks from here.|O banco fica a dois quarteirões daqui.
+protection|n|proteção|Wear a helmet for protection.|Use capacete para proteção.
+settle|v|resolver, estabelecer-se|They settled in a small town.|Eles se estabeleceram em uma cidade pequena.
+feed|v|alimentar|Don't forget to feed the cat.|Não esqueça de dar comida ao gato.
+collect|v|coletar, juntar|He collects old coins.|Ele coleciona moedas antigas.
+additional|adj|adicional|There is an additional fee.|Há uma taxa adicional.
+highly|adv|altamente|I highly recommend this book.|Recomendo muito este livro.
+identity|n|identidade|Show me your identity card.|Me mostre sua carteira de identidade.
+title|n|título|What is the title of the book?|Qual é o título do livro?
+mostly|adv|principalmente|The audience was mostly young.|O público era principalmente jovem.
+lesson|n|lição, aula|Today's lesson is about verbs.|A lição de hoje é sobre verbos.
+faith|n|fé|Don't lose faith.|Não perca a fé.
+river|n|rio|We swam in the river.|Nadamos no rio.
+promote|v|promover|They want to promote the new product.|Eles querem promover o novo produto.
+living|n|vida, sustento|What do you do for a living?|O que você faz da vida?
+count|v|contar|Can you count to ten in English?|Você sabe contar até dez em inglês?
+unless|conj|a menos que|I won't go unless you come too.|Não vou a menos que você venha também.
+marry|v|casar|Will you marry me?|Quer casar comigo?
+tomorrow|adv|amanhã|See you tomorrow!|Até amanhã!
+technique|n|técnica|She has a good technique.|Ela tem uma boa técnica.
+path|n|caminho, trilha|Follow the path to the lake.|Siga a trilha até o lago.
+ear|n|orelha, ouvido|My ear hurts.|Meu ouvido dói.
+shop|n|loja|The shop closes at six.|A loja fecha às seis.
+folk|n|pessoas, gente|The old folks love this song.|Os mais velhos adoram esta música.
+principle|n|princípio|It's a matter of principle.|É uma questão de princípio.
+survive|v|sobreviver|Plants can't survive without water.|As plantas não sobrevivem sem água.
+lift|v|levantar|Can you help me lift this box?|Você pode me ajudar a levantar esta caixa?
+border|n|fronteira, borda|We crossed the border at night.|Cruzamos a fronteira à noite.
+competition|n|competição|She won a singing competition.|Ela ganhou uma competição de canto.
+jump|v|pular|The kids love to jump in the pool.|As crianças adoram pular na piscina.
+gather|v|reunir, juntar|The family gathered for dinner.|A família se reuniu para jantar.
+limit|n|limite|There is a speed limit here.|Há um limite de velocidade aqui.
+fit|v|caber, servir|These jeans don't fit me.|Esta calça jeans não me serve.
+cry|v|chorar, gritar|The baby started to cry.|O bebê começou a chorar.
+equipment|n|equipamento|The gym has new equipment.|A academia tem equipamentos novos.
+worth|adj|que vale|This car is worth a lot of money.|Este carro vale muito dinheiro.
+associate|v|associar|People associate red with love.|As pessoas associam o vermelho ao amor.
+critic|n|crítico|The critic loved the film.|O crítico adorou o filme.
+warm|adj|morno, quente, caloroso|The water is warm.|A água está morna.
+aspect|n|aspecto|This is an important aspect.|Este é um aspecto importante.
+insist|v|insistir|I insist, please stay for dinner.|Eu insisto, fique para o jantar.
+failure|n|fracasso, falha|Failure is part of learning.|O fracasso faz parte do aprendizado.
+annual|adj|anual|The annual meeting is in May.|A reunião anual é em maio.
+French|adj|francês|She speaks French fluently.|Ela fala francês fluentemente.
+Christmas|n|Natal|Merry Christmas!|Feliz Natal!
+comment|n|comentário|Do you have any comments?|Você tem algum comentário?
+responsible|adj|responsável|Who is responsible for this?|Quem é o responsável por isso?
+affair|n|caso, assunto|It is a private affair.|É um assunto particular.
+procedure|n|procedimento|Follow the safety procedure.|Siga o procedimento de segurança.
+regular|adj|regular, comum|He is a regular customer.|Ele é um cliente frequente.
+spread|v|espalhar|The news spread quickly.|A notícia se espalhou rapidamente.
+soft|adj|macio, suave|This pillow is very soft.|Este travesseiro é muito macio.
+ignore|v|ignorar|Just ignore him.|Simplesmente ignore ele.
+egg|n|ovo|I eat an egg for breakfast.|Eu como um ovo no café da manhã.
+belief|n|crença|It is a common belief.|É uma crença comum.
+demonstrate|v|demonstrar|Let me demonstrate how it works.|Deixe-me demonstrar como funciona.
+anybody|pron|qualquer um, alguém|Is anybody home?|Tem alguém em casa?
+gift|n|presente, dom|Thank you for the gift.|Obrigado pelo presente.
+religion|n|religião|We respect every religion.|Respeitamos todas as religiões.
+review|n|análise, revisão|I read a good review of the film.|Li uma boa crítica do filme.
+editor|n|editor|She is the editor of a magazine.|Ela é editora de uma revista.
+engage|v|envolver-se, engajar|Teachers try to engage their students.|Os professores tentam envolver seus alunos.
+coffee|n|café|I drink coffee every morning.|Eu bebo café toda manhã.
+document|n|documento|Please sign this document.|Por favor, assine este documento.
+speed|n|velocidade|The car was at high speed.|O carro estava em alta velocidade.
+cross|v|atravessar, cruzar|Look both ways before you cross the street.|Olhe para os dois lados antes de atravessar a rua.
+influence|n|influência|My mother has a big influence on me.|Minha mãe tem uma grande influência sobre mim.
+anyway|adv|de qualquer forma|Thanks anyway.|Obrigado mesmo assim.
+threaten|v|ameaçar|The storm threatens the coast.|A tempestade ameaça o litoral.
+commit|v|cometer, comprometer-se|He didn't commit the crime.|Ele não cometeu o crime.
+female|adj|feminino|The female lion hunts for food.|A leoa caça para se alimentar.
+youth|n|juventude|He spent his youth in Rio.|Ele passou a juventude no Rio.
+wave|n|onda|A big wave hit the boat.|Uma grande onda atingiu o barco.
+afraid|adj|com medo|I am afraid of the dark.|Tenho medo do escuro.
+quarter|n|quarto, trimestre|It's a quarter past five.|São cinco e quinze.
+background|n|fundo, histórico|The photo has a blue background.|A foto tem um fundo azul.
+native|adj|nativo|English is her native language.|Inglês é a língua nativa dela.
+broad|adj|amplo, largo|He has broad shoulders.|Ele tem ombros largos.
+wonderful|adj|maravilhoso|We had a wonderful time.|Nós nos divertimos muito.
+deny|v|negar|He denied everything.|Ele negou tudo.
+apparently|adv|aparentemente|Apparently, the store is closed.|Aparentemente, a loja está fechada.
+slightly|adv|ligeiramente|The price increased slightly.|O preço aumentou ligeiramente.
+reaction|n|reação|What was his reaction?|Qual foi a reação dele?
+twice|adv|duas vezes|I brush my teeth twice a day.|Escovo os dentes duas vezes por dia.
+suit|n|terno|He wore a black suit.|Ele usou um terno preto.
+perspective|n|perspectiva|Try to see it from my perspective.|Tente ver isso da minha perspectiva.
+growing|adj|crescente|There is a growing interest in English.|Há um interesse crescente pelo inglês.
+blow|v|soprar, explodir|Blow out the candles!|Assopre as velas!
+construction|n|construção|The building is under construction.|O prédio está em construção.
+intelligence|n|inteligência|She has great intelligence.|Ela tem uma grande inteligência.
+destroy|v|destruir|The fire destroyed the house.|O incêndio destruiu a casa.
+cook|v|cozinhar|My father loves to cook.|Meu pai adora cozinhar.
+connection|n|conexão|The internet connection is slow.|A conexão de internet está lenta.
+burn|v|queimar|Be careful, don't burn yourself.|Cuidado, não se queime.
+shoe|n|sapato|I lost my shoe.|Perdi meu sapato.
+grade|n|nota, série|I got a good grade on the test.|Tirei uma boa nota na prova.
+context|n|contexto|You need to understand the context.|Você precisa entender o contexto.
+committee|n|comitê|The committee will meet on Friday.|O comitê vai se reunir na sexta-feira.
+hey|int|ei, oi|Hey, how are you?|Ei, tudo bem?
+mistake|n|erro|Everyone makes mistakes.|Todo mundo comete erros.
+location|n|localização|The hotel has a great location.|O hotel tem uma ótima localização.
+clothes|n|roupas|I need new clothes.|Preciso de roupas novas.
+Indian|adj|indiano|We ate at an Indian restaurant.|Comemos em um restaurante indiano.
+quiet|adj|quieto, silencioso|Please be quiet.|Por favor, fique quieto.
+dress|n|vestido|She bought a new dress.|Ela comprou um vestido novo.
+promise|v|prometer|I promise I will call you.|Prometo que vou te ligar.
+aware|adj|ciente|Are you aware of the risks?|Você está ciente dos riscos?
+neighbor|n|vizinho|My neighbor is very friendly.|Meu vizinho é muito simpático.
+function|n|função|What is the function of this button?|Qual é a função deste botão?
+bone|n|osso|The dog is eating a bone.|O cachorro está comendo um osso.
+active|adj|ativo|My grandmother is very active.|Minha avó é muito ativa.
+extend|v|estender|Can I extend my stay?|Posso estender minha estadia?
+chief|adj|chefe, principal|He is the chief engineer.|Ele é o engenheiro-chefe.
+combine|v|combinar|Combine the eggs and the sugar.|Misture os ovos e o açúcar.
+wine|n|vinho|Would you like red or white wine?|Você prefere vinho tinto ou branco?
+below|prep|abaixo de|Write your name below.|Escreva seu nome abaixo.
+cool|adj|fresco, legal|The weather is cool today.|O tempo está fresco hoje.
+voter|n|eleitor|Every voter must show an ID.|Todo eleitor deve mostrar um documento.
+learning|n|aprendizado|Learning never stops.|O aprendizado nunca para.
+bus|n|ônibus|I take the bus to work.|Eu pego ônibus para o trabalho.
+dangerous|adj|perigoso|This road is dangerous.|Esta estrada é perigosa.
+remind|v|lembrar (alguém)|Remind me to buy milk.|Me lembre de comprar leite.
+moral|adj|moral|It's a moral question.|É uma questão moral.
+category|n|categoria|Which category is this book in?|Em que categoria está este livro?
+relatively|adv|relativamente|The test was relatively easy.|A prova foi relativamente fácil.
+victory|n|vitória|The team celebrated the victory.|O time comemorou a vitória.
+academic|adj|acadêmico|She has a great academic record.|Ela tem um ótimo histórico acadêmico.
+Internet|n|internet|I use the Internet every day.|Eu uso a internet todos os dias.
+healthy|adj|saudável|I try to eat healthy food.|Tento comer comida saudável.
+negative|adj|negativo|Don't be so negative.|Não seja tão negativo.
+following|adj|seguinte|The following day, it rained.|No dia seguinte, choveu.
+historical|adj|histórico|We visited a historical museum.|Visitamos um museu histórico.
+medicine|n|remédio, medicina|Take this medicine twice a day.|Tome este remédio duas vezes por dia.
+tour|n|passeio, turnê|We took a tour of the city.|Fizemos um passeio pela cidade.
+depend|v|depender|It depends on the weather.|Depende do tempo.
+photo|n|foto|Can you take a photo of us?|Você pode tirar uma foto nossa?
+finding|n|descoberta, resultado|The findings of the study were surprising.|Os resultados do estudo foram surpreendentes.
+grab|v|agarrar|Grab your coat, let's go.|Pegue seu casaco, vamos.
+direct|adj|direto|Is there a direct flight to London?|Há um voo direto para Londres?
+classroom|n|sala de aula|The classroom is on the first floor.|A sala de aula fica no primeiro andar.
+contact|n|contato|Do you have her contact?|Você tem o contato dela?
+justice|n|justiça|They are fighting for justice.|Eles estão lutando por justiça.
+participate|v|participar|Everyone can participate.|Todos podem participar.
+daily|adj|diário|I read the news daily.|Eu leio as notícias diariamente.
+fair|adj|justo|That's not fair!|Isso não é justo!
+pair|n|par|I bought a new pair of shoes.|Comprei um novo par de sapatos.
+famous|adj|famoso|He is a famous actor.|Ele é um ator famoso.
+exercise|n|exercício|Exercise is good for your health.|Exercício faz bem para a saúde.
+knee|n|joelho|I hurt my knee playing soccer.|Machuquei o joelho jogando futebol.
+flower|n|flor|She gave me a flower.|Ela me deu uma flor.
+tape|n|fita|Fix it with some tape.|Conserte com um pouco de fita.
+hire|v|contratar|They want to hire new workers.|Eles querem contratar novos funcionários.
+familiar|adj|familiar, conhecido|Your face looks familiar.|Seu rosto parece familiar.
+appropriate|adj|apropriado|These clothes are not appropriate for work.|Estas roupas não são apropriadas para o trabalho.
+supply|n|suprimento, oferta|We have a supply of water for a week.|Temos um suprimento de água para uma semana.
+fully|adv|totalmente|The hotel is fully booked.|O hotel está totalmente reservado.
+actor|n|ator|My favorite actor is in this film.|Meu ator favorito está neste filme.
+birth|n|nascimento|What is your date of birth?|Qual é a sua data de nascimento?
+search|n|busca|The search for the lost dog continues.|A busca pelo cachorro perdido continua.
+tie|n|gravata, empate|He wore a blue tie.|Ele usou uma gravata azul.
+democracy|n|democracia|Brazil is a democracy.|O Brasil é uma democracia.
+eastern|adj|oriental|They live in eastern Europe.|Eles moram no leste da Europa.
+primary|adj|primário, principal|My son is in primary school.|Meu filho está no ensino fundamental.
+yesterday|adv|ontem|I saw him yesterday.|Eu o vi ontem.
+circle|n|círculo|Draw a circle.|Desenhe um círculo.
+device|n|dispositivo|Turn off all electronic devices.|Desliguem todos os dispositivos eletrônicos.
+progress|n|progresso|You are making good progress.|Você está fazendo um bom progresso.
+bottom|n|fundo, parte de baixo|The keys are at the bottom of my bag.|As chaves estão no fundo da minha bolsa.
+island|n|ilha|We spent our holiday on an island.|Passamos as férias em uma ilha.
+exchange|n|troca, câmbio|I did an exchange program in Canada.|Fiz um intercâmbio no Canadá.
+clean|adj|limpo|My room is clean.|Meu quarto está limpo.
+studio|n|estúdio|The band is recording in the studio.|A banda está gravando no estúdio.
+train|n|trem|The train leaves at eight.|O trem sai às oito.
+lady|n|senhora, dama|The lady at the desk helped me.|A senhora no balcão me ajudou.
+colleague|n|colega|My colleague is on vacation.|Meu colega está de férias.
+application|n|aplicativo, candidatura|Download the application on your phone.|Baixe o aplicativo no seu celular.
+neck|n|pescoço|She has a long neck.|Ela tem o pescoço comprido.
+lean|v|inclinar-se, apoiar-se|Don't lean on the door.|Não se apoie na porta.
+damage|n|dano|The storm caused a lot of damage.|A tempestade causou muitos danos.
+plastic|n|plástico|Avoid using plastic bags.|Evite usar sacolas plásticas.
+tall|adj|alto|My brother is very tall.|Meu irmão é muito alto.
+plate|n|prato|Put the food on the plate.|Coloque a comida no prato.
+hate|v|odiar|I hate waking up early.|Eu odeio acordar cedo.
+otherwise|adv|caso contrário|Hurry up, otherwise we'll be late.|Se apresse, senão vamos nos atrasar.
+writing|n|escrita|Her writing is very beautiful.|A escrita dela é muito bonita.
+male|adj|masculino|Is the cat male or female?|O gato é macho ou fêmea?
+alive|adj|vivo|The fish is still alive.|O peixe ainda está vivo.
+expression|n|expressão|I don't know this expression.|Eu não conheço esta expressão.
+football|n|futebol (americano)|They are playing football in the park.|Eles estão jogando futebol no parque.
+intend|v|pretender|I intend to study abroad.|Pretendo estudar no exterior.
+chicken|n|frango, galinha|We had chicken and rice for lunch.|Comemos frango com arroz no almoço.
+army|n|exército|He joined the army at eighteen.|Ele entrou no exército aos dezoito anos.
+theater|n|teatro|We went to the theater last night.|Fomos ao teatro ontem à noite.
+shut|v|fechar|Shut the door, please.|Feche a porta, por favor.
+map|n|mapa|Look at the map.|Olhe o mapa.
+extra|adj|extra|Do you have an extra pen?|Você tem uma caneta extra?
+session|n|sessão|The next session starts at two.|A próxima sessão começa às duas.
+danger|n|perigo|Danger! Do not enter.|Perigo! Não entre.
+welcome|v|dar boas-vindas|Welcome to Brazil!|Bem-vindo ao Brasil!
+domestic|adj|doméstico, nacional|This is a domestic flight.|Este é um voo doméstico.
+lots|n|muitos, um monte|I have lots of friends.|Tenho muitos amigos.
+literature|n|literatura|She studies English literature.|Ela estuda literatura inglesa.
+rain|n|chuva|I love the sound of rain.|Eu amo o som da chuva.
+desire|n|desejo|He has a strong desire to win.|Ele tem um forte desejo de vencer.
+assessment|n|avaliação|The teacher made an assessment of my work.|A professora fez uma avaliação do meu trabalho.
+injury|n|lesão, ferimento|The player has a knee injury.|O jogador tem uma lesão no joelho.
+respect|n|respeito|Show respect to your teachers.|Tenha respeito pelos seus professores.
+northern|adj|do norte|It's cold in northern Europe.|Faz frio no norte da Europa.
+nod|v|acenar com a cabeça|She nodded and smiled.|Ela acenou com a cabeça e sorriu.
+paint|v|pintar|We will paint the house blue.|Vamos pintar a casa de azul.
+fuel|n|combustível|The car is low on fuel.|O carro está com pouco combustível.
+leaf|n|folha|A leaf fell from the tree.|Uma folha caiu da árvore.
+dry|adj|seco|My clothes are dry.|Minhas roupas estão secas.
+Russian|adj|russo|He is learning Russian.|Ele está aprendendo russo.
+instruction|n|instrução|Read the instructions carefully.|Leia as instruções com atenção.
+pool|n|piscina|Let's swim in the pool.|Vamos nadar na piscina.
+climb|v|escalar, subir|The kids like to climb trees.|As crianças gostam de subir em árvores.
+sweet|adj|doce|This cake is too sweet.|Este bolo está doce demais.
+engine|n|motor|The engine is making a strange noise.|O motor está fazendo um barulho estranho.
+fourth|adj|quarto|This is my fourth cup of coffee.|Esta é minha quarta xícara de café.
+salt|n|sal|Pass me the salt, please.|Me passe o sal, por favor.
+expand|v|expandir|The company wants to expand.|A empresa quer expandir.
+importance|n|importância|Never forget the importance of family.|Nunca esqueça a importância da família.
+metal|n|metal|The chair is made of metal.|A cadeira é feita de metal.
+fat|adj|gordo|The cat is very fat.|O gato é muito gordo.
+ticket|n|ingresso, passagem|I bought a ticket for the concert.|Comprei um ingresso para o show.
+software|n|software|We need to update the software.|Precisamos atualizar o software.
+disappear|v|desaparecer|My keys disappeared again.|Minhas chaves sumiram de novo.
+corporate|adj|corporativo|He works in the corporate world.|Ele trabalha no mundo corporativo.
+strange|adj|estranho|I heard a strange noise.|Ouvi um barulho estranho.
+lip|n|lábio|She bit her lip.|Ela mordeu o lábio.
+reading|n|leitura|Reading is my favorite hobby.|Ler é meu hobby favorito.
+urban|adj|urbano|Urban life can be stressful.|A vida urbana pode ser estressante.
+mental|adj|mental|Mental health is very important.|A saúde mental é muito importante.
+increasingly|adv|cada vez mais|It's increasingly hard to find a job.|Está cada vez mais difícil encontrar emprego.
+lunch|n|almoço|Let's have lunch together.|Vamos almoçar juntos.
+educational|adj|educacional|This is an educational game.|Este é um jogo educativo.
+somewhere|adv|em algum lugar|I left my phone somewhere.|Deixei meu celular em algum lugar.
+farmer|n|fazendeiro, agricultor|The farmer grows corn.|O agricultor planta milho.
+sugar|n|açúcar|Do you take sugar in your coffee?|Você coloca açúcar no café?
+planet|n|planeta|We must take care of our planet.|Devemos cuidar do nosso planeta.
+favorite|adj|favorito|Pizza is my favorite food.|Pizza é minha comida favorita.
+explore|v|explorar|Let's explore the city.|Vamos explorar a cidade.
+obtain|v|obter|You need to obtain a visa.|Você precisa obter um visto.
+enemy|n|inimigo|Sugar is the enemy of your teeth.|O açúcar é o inimigo dos seus dentes.
+greatest|adj|maior, melhor|He is the greatest player of all time.|Ele é o maior jogador de todos os tempos.
+complex|adj|complexo|This is a complex problem.|Este é um problema complexo.
+surround|v|cercar|Tall trees surround the house.|Árvores altas cercam a casa.
+athlete|n|atleta|She is a professional athlete.|Ela é uma atleta profissional.
+invite|v|convidar|I want to invite you to my wedding.|Quero te convidar para meu casamento.
+repeat|v|repetir|Can you repeat that, please?|Você pode repetir, por favor?
+carefully|adv|cuidadosamente|Drive carefully.|Dirija com cuidado.
+soul|n|alma|Music is food for the soul.|A música é alimento para a alma.
+scientific|adj|científico|There is no scientific evidence.|Não há evidência científica.
+impossible|adj|impossível|Nothing is impossible.|Nada é impossível.
+panel|n|painel|The panel discussed the new law.|O painel discutiu a nova lei.
+meaning|n|significado|What is the meaning of this word?|Qual é o significado desta palavra?
+mom|n|mãe, mamãe|My mom is the best cook.|Minha mãe é a melhor cozinheira.
+married|adj|casado|They have been married for ten years.|Eles estão casados há dez anos.
+instrument|n|instrumento|Do you play an instrument?|Você toca algum instrumento?
+predict|v|prever|Nobody can predict the future.|Ninguém pode prever o futuro.
+weather|n|tempo, clima|How is the weather today?|Como está o tempo hoje?
+emotional|adj|emocional|It was an emotional moment.|Foi um momento emocionante.
+commitment|n|compromisso|Marriage is a big commitment.|O casamento é um grande compromisso.
+bear|v|suportar, aguentar|I can't bear this noise.|Não aguento este barulho.
+pocket|n|bolso|My phone is in my pocket.|Meu celular está no meu bolso.
+thin|adj|fino, magro|She is tall and thin.|Ela é alta e magra.
+temperature|n|temperatura|The temperature is very high today.|A temperatura está muito alta hoje.
+surprise|n|surpresa|We planned a surprise party.|Planejamos uma festa surpresa.
+poll|n|pesquisa (de opinião)|The poll shows she is winning.|A pesquisa mostra que ela está ganhando.
+proposal|n|proposta|They accepted our proposal.|Eles aceitaram nossa proposta.
+consequence|n|consequência|Every action has a consequence.|Toda ação tem uma consequência.
+breath|n|respiração, fôlego|Take a deep breath.|Respire fundo.
+sight|n|visão, vista|The sunset was a beautiful sight.|O pôr do sol foi uma visão linda.
+balance|n|equilíbrio, saldo|It's hard to keep my balance on ice.|É difícil manter o equilíbrio no gelo.
+adopt|v|adotar|They want to adopt a dog.|Eles querem adotar um cachorro.
+minority|n|minoria|Only a minority voted against it.|Apenas uma minoria votou contra.
+straight|adj|reto, direto|Go straight ahead.|Siga em frente.
+connect|v|conectar|Connect your phone to the Wi-Fi.|Conecte seu celular ao Wi-Fi.
+works|n|obras|The museum has works by Picasso.|O museu tem obras de Picasso.
+teaching|n|ensino|She loves teaching children.|Ela adora ensinar crianças.
+belong|v|pertencer|This book belongs to me.|Este livro pertence a mim.
+aid|n|ajuda|They sent aid to the victims.|Eles enviaram ajuda para as vítimas.
+advice|n|conselho|Can you give me some advice?|Você pode me dar um conselho?
+okay|adv|tudo bem, ok|Is everything okay?|Está tudo bem?
+photograph|n|fotografia|This photograph is very old.|Esta fotografia é muito antiga.
+empty|adj|vazio|The fridge is empty.|A geladeira está vazia.
+regional|adj|regional|We tried the regional food.|Experimentamos a comida regional.
+trail|n|trilha|We walked along the trail.|Caminhamos pela trilha.
+novel|n|romance (livro)|I am reading a great novel.|Estou lendo um ótimo romance.
+code|n|código|Enter the code to open the door.|Digite o código para abrir a porta.
+somehow|adv|de alguma forma|Somehow, we arrived on time.|De alguma forma, chegamos a tempo.
+organize|v|organizar|I need to organize my desk.|Preciso organizar minha mesa.
+acknowledge|v|reconhecer|He acknowledged his mistake.|Ele reconheceu o erro.
+theme|n|tema|What is the theme of the party?|Qual é o tema da festa?
+storm|n|tempestade|A storm is coming.|Uma tempestade está chegando.
+union|n|sindicato, união|He is a member of the workers' union.|Ele é membro do sindicato dos trabalhadores.
+desk|n|mesa (de trabalho)|My desk is near the window.|Minha mesa fica perto da janela.
+thanks|n|obrigado|Thanks for everything!|Obrigado por tudo!
+fruit|n|fruta|I eat fruit every day.|Eu como fruta todos os dias.
+expensive|adj|caro|This watch is very expensive.|Este relógio é muito caro.
+yellow|adj|amarelo|She is wearing a yellow shirt.|Ela está usando uma camisa amarela.
+conservative|adj|conservador|My grandfather is very conservative.|Meu avô é muito conservador.
+wake|v|acordar|Wake me up at seven.|Me acorde às sete.
+mirror|n|espelho|She looked in the mirror.|Ela se olhou no espelho.
+English|n|inglês|I am learning English.|Eu estou aprendendo inglês.
+reply|v|responder|Please reply to my message.|Por favor, responda minha mensagem.
+ourselves|pron|nós mesmos|We painted the house ourselves.|Nós mesmos pintamos a casa.
+fix|v|consertar|Can you fix my bike?|Você pode consertar minha bicicleta?
+shirt|n|camisa|I like your shirt.|Gostei da sua camisa.
+tea|n|chá|Would you like some tea?|Você gostaria de um chá?
+milk|n|leite|I drink milk every morning.|Eu bebo leite toda manhã.
+bread|n|pão|I bought bread at the bakery.|Comprei pão na padaria.
+cheap|adj|barato|This restaurant is cheap and good.|Este restaurante é barato e bom.
+hungry|adj|com fome|I'm very hungry.|Estou com muita fome.
+tired|adj|cansado|I'm too tired to go out.|Estou cansado demais para sair.
+sick|adj|doente|I can't go to work, I'm sick.|Não posso ir trabalhar, estou doente.
+angry|adj|bravo, irritado|Why are you angry with me?|Por que você está bravo comigo?
+sad|adj|triste|Don't be sad.|Não fique triste.
+funny|adj|engraçado|That joke was very funny.|Essa piada foi muito engraçada.
+clever|adj|esperto|She is a very clever girl.|Ela é uma menina muito esperta.
+beach|n|praia|Let's go to the beach.|Vamos à praia.
+holiday|n|feriado, férias|Tomorrow is a holiday.|Amanhã é feriado.
+kiss|v|beijar|She kissed her mother goodbye.|Ela deu um beijo de despedida na mãe.
+hello|int|olá|Hello, nice to meet you!|Olá, prazer em conhecer você!
+goodbye|int|tchau, adeus|It's time to say goodbye.|É hora de dizer adeus.
+cat|n|gato|My cat sleeps all day.|Meu gato dorme o dia todo.
+rice|n|arroz|Rice and beans is a typical Brazilian dish.|Arroz e feijão é um prato típico brasileiro.
+meat|n|carne|I don't eat meat.|Eu não como carne.
+apple|n|maçã|An apple a day keeps the doctor away.|Uma maçã por dia mantém o médico longe.
+nose|n|nariz|My nose is cold.|Meu nariz está frio.
+tooth|n|dente|I have a bad tooth.|Estou com um dente ruim.
+uncle|n|tio|My uncle lives in Portugal.|Meu tio mora em Portugal.
+aunt|n|tia|My aunt makes delicious cakes.|Minha tia faz bolos deliciosos.
+cousin|n|primo|My cousin is my best friend.|Meu primo é meu melhor amigo.
+grandmother|n|avó|My grandmother is eighty years old.|Minha avó tem oitenta anos.

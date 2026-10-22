@@ -30,7 +30,12 @@ class Settings {
   final bool autoSpeak;
   final ThemeMode themeMode;
 
-  Settings copyWith({int? newPerDay, CardDirection? direction, bool? autoSpeak, ThemeMode? themeMode}) {
+  Settings copyWith({
+    int? newPerDay,
+    CardDirection? direction,
+    bool? autoSpeak,
+    ThemeMode? themeMode,
+  }) {
     return Settings(
       newPerDay: newPerDay ?? this.newPerDay,
       direction: direction ?? this.direction,
@@ -40,17 +45,18 @@ class Settings {
   }
 
   Map<String, dynamic> toJson() => {
-        'newPerDay': newPerDay,
-        'direction': direction.name,
-        'autoSpeak': autoSpeak,
-        'themeMode': themeMode.name,
-      };
+    'newPerDay': newPerDay,
+    'direction': direction.name,
+    'autoSpeak': autoSpeak,
+    'themeMode': themeMode.name,
+  };
 
   factory Settings.fromJson(Map<String, dynamic> json) {
     const d = Settings();
     return Settings(
       newPerDay: (json['newPerDay'] as num?)?.toInt() ?? d.newPerDay,
-      direction: CardDirection.values.asNameMap()[json['direction']] ?? d.direction,
+      direction:
+          CardDirection.values.asNameMap()[json['direction']] ?? d.direction,
       autoSpeak: json['autoSpeak'] as bool? ?? d.autoSpeak,
       themeMode: ThemeMode.values.asNameMap()[json['themeMode']] ?? d.themeMode,
     );
@@ -67,13 +73,17 @@ class DayStats {
   /// Palavras novas extras liberadas pelo botão "estudar mais".
   int extraNew;
 
-  Map<String, dynamic> toJson() => {'reviews': reviews, 'learned': learned, 'extraNew': extraNew};
+  Map<String, dynamic> toJson() => {
+    'reviews': reviews,
+    'learned': learned,
+    'extraNew': extraNew,
+  };
 
   factory DayStats.fromJson(Map<String, dynamic> json) => DayStats(
-        reviews: (json['reviews'] as num?)?.toInt() ?? 0,
-        learned: (json['learned'] as num?)?.toInt() ?? 0,
-        extraNew: (json['extraNew'] as num?)?.toInt() ?? 0,
-      );
+    reviews: (json['reviews'] as num?)?.toInt() ?? 0,
+    learned: (json['learned'] as num?)?.toInt() ?? 0,
+    extraNew: (json['extraNew'] as num?)?.toInt() ?? 0,
+  );
 }
 
 /// Estado global do app: vocabulário, progresso e ajustes, salvos no navegador.
@@ -95,7 +105,9 @@ class AppState extends ChangeNotifier {
   static Future<AppState> load() async {
     final raw = await rootBundle.loadString('assets/words.txt');
     final lines = raw.split('\n').where((l) => l.trim().isNotEmpty).toList();
-    final words = [for (var i = 0; i < lines.length; i++) Word.parse(lines[i], i + 1)];
+    final words = [
+      for (var i = 0; i < lines.length; i++) Word.parse(lines[i], i + 1),
+    ];
     final state = AppState._(await SharedPreferences.getInstance(), words);
     final saved = state._prefs.getString(_storageKey);
     if (saved != null) {
@@ -111,18 +123,22 @@ class AppState extends ChangeNotifier {
   // ---------- Persistência ----------
 
   Map<String, dynamic> _toJson() => {
-        'version': 1,
-        'progress': _progress.map((k, v) => MapEntry(k, v.toJson())),
-        'days': _days.map((k, v) => MapEntry(k, v.toJson())),
-        'settings': _settings.toJson(),
-      };
+    'version': 1,
+    'progress': _progress.map((k, v) => MapEntry(k, v.toJson())),
+    'days': _days.map((k, v) => MapEntry(k, v.toJson())),
+    'settings': _settings.toJson(),
+  };
 
   void _restore(Map<String, dynamic> json) {
-    final progress = (json['progress'] as Map<String, dynamic>? ?? {})
-        .map((k, v) => MapEntry(k, CardState.fromJson(v as Map<String, dynamic>)));
-    final days = (json['days'] as Map<String, dynamic>? ?? {})
-        .map((k, v) => MapEntry(k, DayStats.fromJson(v as Map<String, dynamic>)));
-    final settings = Settings.fromJson(json['settings'] as Map<String, dynamic>? ?? {});
+    final progress = (json['progress'] as Map<String, dynamic>? ?? {}).map(
+      (k, v) => MapEntry(k, CardState.fromJson(v as Map<String, dynamic>)),
+    );
+    final days = (json['days'] as Map<String, dynamic>? ?? {}).map(
+      (k, v) => MapEntry(k, DayStats.fromJson(v as Map<String, dynamic>)),
+    );
+    final settings = Settings.fromJson(
+      json['settings'] as Map<String, dynamic>? ?? {},
+    );
     _progress = progress;
     _days = days;
     _settings = settings;
@@ -160,7 +176,8 @@ class AppState extends ChangeNotifier {
 
   int get today => Srs.today();
 
-  DayStats get _todayStats => _days.putIfAbsent(Srs.dateKey(today), DayStats.new);
+  DayStats get _todayStats =>
+      _days.putIfAbsent(Srs.dateKey(today), DayStats.new);
 
   CardState? stateOf(Word word) => _progress[word.id];
 
@@ -171,11 +188,13 @@ class AppState extends ChangeNotifier {
 
   List<Word> dueWords({int? level}) {
     final t = today;
-    final due = wordsInLevel(level).where((w) {
-      final s = _progress[w.id];
-      return s != null && s.due <= t;
-    }).toList()
-      ..sort((a, b) => _progress[a.id]!.due.compareTo(_progress[b.id]!.due));
+    final due =
+        wordsInLevel(level).where((w) {
+          final s = _progress[w.id];
+          return s != null && s.due <= t;
+        }).toList()..sort(
+          (a, b) => _progress[a.id]!.due.compareTo(_progress[b.id]!.due),
+        );
     return due;
   }
 
@@ -186,12 +205,16 @@ class AppState extends ChangeNotifier {
   }
 
   List<Word> newWords({int? level, int? limit}) {
-    final unseen = wordsInLevel(level).where((w) => !_progress.containsKey(w.id));
+    final unseen = wordsInLevel(level)
+        .where((w) => !_progress.containsKey(w.id));
     return unseen.take(limit ?? newRemainingToday).toList();
   }
 
   /// Fila de estudo: revisões vencidas primeiro, depois palavras novas.
-  List<Word> buildSession({int? level}) => [...dueWords(level: level), ...newWords(level: level)];
+  List<Word> buildSession({int? level}) => [
+    ...dueWords(level: level),
+    ...newWords(level: level),
+  ];
 
   int get seenCount => _progress.length;
 
@@ -202,7 +225,8 @@ class AppState extends ChangeNotifier {
   double levelProgress(int level) {
     final inLevel = wordsInLevel(level).toList();
     if (inLevel.isEmpty) return 0;
-    return inLevel.where((w) => _progress.containsKey(w.id)).length / inLevel.length;
+    return inLevel.where((w) => _progress.containsKey(w.id)).length /
+        inLevel.length;
   }
 
   /// Dias seguidos com pelo menos uma revisão, contando até hoje (ou ontem).
@@ -229,8 +253,9 @@ class AppState extends ChangeNotifier {
   }
 
   /// Próximo intervalo previsto para cada nota (mostrado nos botões).
-  String previewInterval(Word word, Grade grade) =>
-      Srs.formatInterval(Srs.schedule(_progress[word.id], grade, today).interval);
+  String previewInterval(Word word, Grade grade) => Srs.formatInterval(
+    Srs.schedule(_progress[word.id], grade, today).interval,
+  );
 
   void unlockExtraNew(int amount) {
     _todayStats.extraNew += amount;

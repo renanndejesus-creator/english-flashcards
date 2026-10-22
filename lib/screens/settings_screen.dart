@@ -26,9 +26,13 @@ class SettingsScreen extends StatelessWidget {
             max: 100,
             divisions: 19,
             label: '${settings.newPerDay}',
-            onChanged: (v) => app.updateSettings(settings.copyWith(newPerDay: v.round())),
+            onChanged: (v) =>
+                app.updateSettings(settings.copyWith(newPerDay: v.round())),
           ),
-          trailing: Text('${settings.newPerDay}', style: theme.textTheme.titleMedium),
+          trailing: Text(
+            '${settings.newPerDay}',
+            style: theme.textTheme.titleMedium,
+          ),
         ),
         ListTile(
           title: const Text('Direção dos cartões'),
@@ -37,12 +41,19 @@ class SettingsScreen extends StatelessWidget {
             child: SegmentedButton<CardDirection>(
               showSelectedIcon: false,
               segments: const [
-                ButtonSegment(value: CardDirection.enToPt, label: Text('EN → PT')),
-                ButtonSegment(value: CardDirection.ptToEn, label: Text('PT → EN')),
+                ButtonSegment(
+                  value: CardDirection.enToPt,
+                  label: Text('EN → PT'),
+                ),
+                ButtonSegment(
+                  value: CardDirection.ptToEn,
+                  label: Text('PT → EN'),
+                ),
                 ButtonSegment(value: CardDirection.mixed, label: Text('Misto')),
               ],
               selected: {settings.direction},
-              onSelectionChanged: (s) => app.updateSettings(settings.copyWith(direction: s.first)),
+              onSelectionChanged: (s) =>
+                  app.updateSettings(settings.copyWith(direction: s.first)),
             ),
           ),
         ),
@@ -60,12 +71,16 @@ class SettingsScreen extends StatelessWidget {
             child: SegmentedButton<ThemeMode>(
               showSelectedIcon: false,
               segments: const [
-                ButtonSegment(value: ThemeMode.system, label: Text('Automático')),
+                ButtonSegment(
+                  value: ThemeMode.system,
+                  label: Text('Automático'),
+                ),
                 ButtonSegment(value: ThemeMode.light, label: Text('Claro')),
                 ButtonSegment(value: ThemeMode.dark, label: Text('Escuro')),
               ],
               selected: {settings.themeMode},
-              onSelectionChanged: (s) => app.updateSettings(settings.copyWith(themeMode: s.first)),
+              onSelectionChanged: (s) =>
+                  app.updateSettings(settings.copyWith(themeMode: s.first)),
             ),
           ),
         ),
@@ -81,7 +96,10 @@ class SettingsScreen extends StatelessWidget {
           leading: const Icon(Icons.download_outlined),
           title: const Text('Exportar progresso'),
           onTap: () {
-            Browser.download('flashcards-progresso-${Srs.dateKey(app.today)}.json', app.exportJson());
+            Browser.download(
+              'flashcards-progresso-${Srs.dateKey(app.today)}.json',
+              app.exportJson(),
+            );
           },
         ),
         ListTile(
@@ -91,7 +109,10 @@ class SettingsScreen extends StatelessWidget {
         ),
         ListTile(
           leading: Icon(Icons.delete_outline, color: theme.colorScheme.error),
-          title: Text('Apagar progresso', style: TextStyle(color: theme.colorScheme.error)),
+          title: Text(
+            'Apagar progresso',
+            style: TextStyle(color: theme.colorScheme.error),
+          ),
           onTap: () => _confirmReset(context, app),
         ),
       ],
@@ -99,9 +120,14 @@ class SettingsScreen extends StatelessWidget {
   }
 
   Widget _header(ThemeData theme, String text) => Padding(
-        padding: const EdgeInsets.fromLTRB(16, 16, 16, 4),
-        child: Text(text, style: theme.textTheme.titleSmall?.copyWith(color: theme.colorScheme.primary)),
-      );
+    padding: const EdgeInsets.fromLTRB(16, 16, 16, 4),
+    child: Text(
+      text,
+      style: theme.textTheme.titleSmall?.copyWith(
+        color: theme.colorScheme.primary,
+      ),
+    ),
+  );
 
   Future<void> _import(BuildContext context, AppState app) async {
     final messenger = ScaffoldMessenger.of(context);
@@ -109,9 +135,13 @@ class SettingsScreen extends StatelessWidget {
     if (text == null) return;
     try {
       app.importJson(text);
-      messenger.showSnackBar(const SnackBar(content: Text('Progresso importado!')));
+      messenger.showSnackBar(
+        const SnackBar(content: Text('Progresso importado!')),
+      );
     } catch (_) {
-      messenger.showSnackBar(const SnackBar(content: Text('Arquivo inválido.')));
+      messenger.showSnackBar(
+        const SnackBar(content: Text('Arquivo inválido.')),
+      );
     }
   }
 
@@ -120,10 +150,18 @@ class SettingsScreen extends StatelessWidget {
       context: context,
       builder: (context) => AlertDialog(
         title: const Text('Apagar progresso?'),
-        content: const Text('Todo o histórico de estudo deste navegador será apagado. Isso não pode ser desfeito.'),
+        content: const Text(
+          'Todo o histórico de estudo deste navegador será apagado. Isso não pode ser desfeito.',
+        ),
         actions: [
-          TextButton(onPressed: () => Navigator.pop(context, false), child: const Text('Cancelar')),
-          FilledButton(onPressed: () => Navigator.pop(context, true), child: const Text('Apagar')),
+          TextButton(
+            onPressed: () => Navigator.pop(context, false),
+            child: const Text('Cancelar'),
+          ),
+          FilledButton(
+            onPressed: () => Navigator.pop(context, true),
+            child: const Text('Apagar'),
+          ),
         ],
       ),
     );

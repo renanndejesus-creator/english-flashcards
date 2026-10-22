@@ -26,9 +26,9 @@ class Srs {
   }
 
   static String dateKey(int day) => DateTime.fromMillisecondsSinceEpoch(
-        day * Duration.millisecondsPerDay,
-        isUtc: true,
-      ).toIso8601String().substring(0, 10);
+    day * Duration.millisecondsPerDay,
+    isUtc: true,
+  ).toIso8601String().substring(0, 10);
 
   static CardState initial(int today) => CardState(due: today);
 
@@ -58,10 +58,15 @@ class Srs {
           1 => 3,
           _ => (s.interval * s.ease).round(),
         };
-        return s.copyWith(reps: s.reps + 1, interval: interval, due: today + interval);
+        return s.copyWith(
+          reps: s.reps + 1,
+          interval: interval,
+          due: today + interval,
+        );
       case Grade.easy:
-        final interval =
-            s.reps == 0 ? 4 : (max(s.interval, 1) * s.ease * 1.3).round();
+        final interval = s.reps == 0
+            ? 4
+            : (max(s.interval, 1) * s.ease * 1.3).round();
         return s.copyWith(
           reps: s.reps + 1,
           interval: interval,

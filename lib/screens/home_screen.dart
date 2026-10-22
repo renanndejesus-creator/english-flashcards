@@ -20,30 +20,70 @@ class HomeScreen extends StatelessWidget {
     return ListView(
       padding: const EdgeInsets.all(16),
       children: [
-        Text('Olá! 👋', style: theme.textTheme.headlineMedium?.copyWith(fontWeight: FontWeight.bold)),
+        Text(
+          'Olá! 👋',
+          style: theme.textTheme.headlineMedium?.copyWith(
+            fontWeight: FontWeight.bold,
+          ),
+        ),
         const SizedBox(height: 4),
         Text(
           'As $total palavras mais usadas do inglês, com repetição espaçada.',
-          style: theme.textTheme.bodyLarge?.copyWith(color: theme.colorScheme.onSurfaceVariant),
+          style: theme.textTheme.bodyLarge?.copyWith(
+            color: theme.colorScheme.onSurfaceVariant,
+          ),
         ),
         const SizedBox(height: 16),
-        Wrap(
-          spacing: 12,
-          runSpacing: 12,
-          children: [
-            _StatCard(value: app.dueWords().length, label: 'para revisar hoje', icon: Icons.replay),
-            _StatCard(value: app.newWords().length, label: 'novas hoje', icon: Icons.fiber_new_outlined),
-            _StatCard(value: seen, label: 'palavras vistas', icon: Icons.visibility_outlined),
-            _StatCard(value: app.countWithStatus(WordStatus.mastered), label: 'dominadas', icon: Icons.emoji_events_outlined),
-            _StatCard(value: app.streak, label: 'dias seguidos', icon: Icons.local_fire_department_outlined),
-          ],
+        LayoutBuilder(
+          builder: (context, constraints) {
+            // 2 colunas no celular, até 5 em telas largas, todas com a mesma largura.
+            final columns = (constraints.maxWidth / 140).floor().clamp(2, 5);
+            final width = (constraints.maxWidth - 12 * (columns - 1)) / columns;
+            final stats = [
+              _StatCard(
+                value: app.dueWords().length,
+                label: 'para revisar hoje',
+                icon: Icons.replay,
+              ),
+              _StatCard(
+                value: app.newWords().length,
+                label: 'novas hoje',
+                icon: Icons.fiber_new_outlined,
+              ),
+              _StatCard(
+                value: seen,
+                label: 'palavras vistas',
+                icon: Icons.visibility_outlined,
+              ),
+              _StatCard(
+                value: app.countWithStatus(WordStatus.mastered),
+                label: 'dominadas',
+                icon: Icons.emoji_events_outlined,
+              ),
+              _StatCard(
+                value: app.streak,
+                label: 'dias seguidos',
+                icon: Icons.local_fire_department_outlined,
+              ),
+            ];
+            return Wrap(
+              spacing: 12,
+              runSpacing: 12,
+              children: [
+                for (final s in stats) SizedBox(width: width, child: s),
+              ],
+            );
+          },
         ),
         const SizedBox(height: 20),
         Row(
           children: [
             Text('Progresso total', style: theme.textTheme.titleSmall),
             const Spacer(),
-            Text('${(seen / total * 100).toStringAsFixed(1)}%', style: theme.textTheme.titleSmall),
+            Text(
+              '${(seen / total * 100).toStringAsFixed(1)}%',
+              style: theme.textTheme.titleSmall,
+            ),
           ],
         ),
         const SizedBox(height: 6),
@@ -65,7 +105,9 @@ class HomeScreen extends StatelessWidget {
         Text('Níveis', style: theme.textTheme.titleLarge),
         Text(
           'Cada nível tem 100 palavras, em ordem de frequência.',
-          style: theme.textTheme.bodyMedium?.copyWith(color: theme.colorScheme.onSurfaceVariant),
+          style: theme.textTheme.bodyMedium?.copyWith(
+            color: theme.colorScheme.onSurfaceVariant,
+          ),
         ),
         const SizedBox(height: 12),
         GridView.builder(
@@ -90,7 +132,11 @@ class HomeScreen extends StatelessWidget {
 }
 
 class _StatCard extends StatelessWidget {
-  const _StatCard({required this.value, required this.label, required this.icon});
+  const _StatCard({
+    required this.value,
+    required this.label,
+    required this.icon,
+  });
 
   final int value;
   final String label;
@@ -99,21 +145,28 @@ class _StatCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
-    return SizedBox(
-      width: 136,
-      child: Card.filled(
-        margin: EdgeInsets.zero,
-        child: Padding(
-          padding: const EdgeInsets.all(14),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Icon(icon, color: theme.colorScheme.primary, size: 20),
-              const SizedBox(height: 6),
-              Text('$value', style: theme.textTheme.headlineSmall?.copyWith(fontWeight: FontWeight.w800)),
-              Text(label, style: theme.textTheme.bodySmall?.copyWith(color: theme.colorScheme.onSurfaceVariant)),
-            ],
-          ),
+    return Card.filled(
+      margin: EdgeInsets.zero,
+      child: Padding(
+        padding: const EdgeInsets.all(14),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Icon(icon, color: theme.colorScheme.primary, size: 20),
+            const SizedBox(height: 6),
+            Text(
+              '$value',
+              style: theme.textTheme.headlineSmall?.copyWith(
+                fontWeight: FontWeight.w800,
+              ),
+            ),
+            Text(
+              label,
+              style: theme.textTheme.bodySmall?.copyWith(
+                color: theme.colorScheme.onSurfaceVariant,
+              ),
+            ),
+          ],
         ),
       ),
     );
@@ -121,7 +174,11 @@ class _StatCard extends StatelessWidget {
 }
 
 class _LevelCard extends StatelessWidget {
-  const _LevelCard({required this.level, required this.progress, required this.onTap});
+  const _LevelCard({
+    required this.level,
+    required this.progress,
+    required this.onTap,
+  });
 
   final int level;
   final double progress;
@@ -141,8 +198,16 @@ class _LevelCard extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Text('Nível $level', style: theme.textTheme.titleSmall?.copyWith(fontWeight: FontWeight.bold)),
-              Text('palavras $first–${first + 99}', style: theme.textTheme.bodySmall),
+              Text(
+                'Nível $level',
+                style: theme.textTheme.titleSmall?.copyWith(
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              Text(
+                'palavras $first–${first + 99}',
+                style: theme.textTheme.bodySmall,
+              ),
               const Spacer(),
               ClipRRect(
                 borderRadius: BorderRadius.circular(4),

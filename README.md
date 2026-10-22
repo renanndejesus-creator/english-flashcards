@@ -5,28 +5,33 @@ App web feito em **Flutter** para estudar as 1500 palavras mais usadas do inglê
 ## Funcionalidades
 
 - 1500 palavras em ordem de frequência, com tradução para o português e classe gramatical
+- Uma frase de exemplo para cada palavra, com tradução e a palavra destacada
+- Áudio com **voz neural natural** (Kokoro TTS) para todas as palavras e frases
 - 15 níveis de 100 palavras
 - Repetição espaçada: responda **Errei / Difícil / Bom / Fácil** e o app agenda a próxima revisão
-- Pronúncia em inglês pela voz do navegador 🔊
 - Direção dos cartões: Inglês → Português, Português → Inglês ou misturado
-- Lista de palavras com busca e filtro por status (nova, aprendendo, revisando, dominada)
+- Barra de progresso da sessão logo abaixo dos botões de resposta
+- Menu lateral à esquerda (vira gaveta no celular)
+- Lista de palavras com busca, filtro por status e detalhes de cada palavra
 - Estatísticas: revisões do dia, palavras vistas, dominadas e dias seguidos
 - Progresso salvo no navegador, com exportação/importação de backup (JSON)
 - Tema claro/escuro (Material 3)
-- Atalhos de teclado: `espaço` vira o cartão · `1`–`4` responde · `P` pronuncia
+- Atalhos de teclado: `espaço` vira o cartão · `1`–`4` responde · `P` ouve a palavra · `F` ouve a frase
 
 ## Estrutura
 
 ```
-assets/words.txt          # lista de palavras: palavra|classe|tradução (uma por linha)
+assets/words.txt          # palavra|classe|tradução|frase em inglês|tradução da frase
+web/audio/                # áudios gerados (words/ e sentences/, um .mp3 por palavra)
+tool/generate_audio.py    # gera os áudios com a voz neural Kokoro
 lib/
   main.dart               # app, tema e navegação
   models/                 # Word e CardState
   services/srs.dart       # algoritmo de repetição espaçada
-  services/browser.dart   # voz, download e upload (APIs do navegador)
+  services/browser.dart   # áudio, download e upload (APIs do navegador)
   state/app_state.dart    # estado global e persistência
   screens/                # Início, Estudar, Palavras, Ajustes
-  widgets/flip_card.dart  # cartão com animação de virar
+  widgets/                # cartão com animação de virar, frase de exemplo
 test/                     # testes do SRS e da lista de palavras
 .github/workflows/        # build e deploy automático no GitHub Pages
 ```
@@ -48,4 +53,15 @@ Cada push na branch `main` roda os testes, compila o app e publica no **GitHub P
 
 ## Editando as palavras
 
-Edite `assets/words.txt`. Cada linha segue o formato `palavra|classe|tradução`, em que a classe é uma destas: `n`, `v`, `adj`, `adv`, `prep`, `pron`, `conj`, `det`, `num`, `int`. A ordem das linhas define a frequência e os níveis. Rode `flutter test` para validar a lista.
+Edite `assets/words.txt`. Cada linha segue o formato `palavra|classe|tradução|frase|tradução da frase`, em que a classe é uma destas: `n`, `v`, `adj`, `adv`, `prep`, `pron`, `conj`, `det`, `num`, `int`. A ordem das linhas define a frequência e os níveis. Rode `flutter test` para validar a lista.
+
+## Gerando os áudios
+
+Os áudios ficam em `web/audio/` e são gerados com a voz neural [Kokoro](https://github.com/thewh1teagle/kokoro-onnx) (voz `af_heart`). Depois de editar palavras ou frases, apague os `.mp3` correspondentes e rode:
+
+```bash
+pip install kokoro-onnx soundfile   # requer também ffmpeg
+python tool/generate_audio.py --model kokoro-v1.0.onnx --voices voices-v1.0.bin
+```
+
+Se um áudio não existir, o app usa a melhor voz em inglês do navegador.

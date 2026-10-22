@@ -14,7 +14,11 @@ void main() {
   });
 
   test('"Errei" zera a sequência e reduz a facilidade', () {
-    final learned = Srs.schedule(Srs.schedule(null, Grade.good, today), Grade.good, today);
+    final learned = Srs.schedule(
+      Srs.schedule(null, Grade.good, today),
+      Grade.good,
+      today,
+    );
     final lapsed = Srs.schedule(learned, Grade.again, today);
     expect(lapsed.reps, 0);
     expect(lapsed.lapses, 1);
@@ -32,12 +36,24 @@ void main() {
 
   test('status acompanha o intervalo', () {
     expect(Srs.status(null), WordStatus.newWord);
-    expect(Srs.status(const CardState(reps: 1, interval: 1, due: today)), WordStatus.learning);
-    expect(Srs.status(const CardState(reps: 3, interval: 8, due: today)), WordStatus.review);
-    expect(Srs.status(const CardState(reps: 5, interval: 30, due: today)), WordStatus.mastered);
+    expect(
+      Srs.status(const CardState(reps: 1, interval: 1, due: today)),
+      WordStatus.learning,
+    );
+    expect(
+      Srs.status(const CardState(reps: 3, interval: 8, due: today)),
+      WordStatus.review,
+    );
+    expect(
+      Srs.status(const CardState(reps: 5, interval: 30, due: today)),
+      WordStatus.mastered,
+    );
   });
 
   test('dateKey usa o dia local', () {
-    expect(Srs.dateKey(Srs.today(DateTime(2026, 10, 22, 23, 30))), '2026-10-22');
+    expect(
+      Srs.dateKey(Srs.today(DateTime(2026, 10, 22, 23, 30))),
+      '2026-10-22',
+    );
   });
 }

@@ -15,7 +15,7 @@ Future<void> main() async {
 /// Dá acesso ao [AppState] para qualquer widget abaixo dele.
 class AppScope extends InheritedNotifier<AppState> {
   const AppScope({super.key, required AppState state, required super.child})
-      : super(notifier: state);
+    : super(notifier: state);
 
   static AppState of(BuildContext context) =>
       context.dependOnInheritedWidgetOfExactType<AppScope>()!.notifier!;
@@ -51,6 +51,14 @@ class FlashcardsApp extends StatelessWidget {
   }
 }
 
+class _Destination {
+  const _Destination(this.label, this.icon, this.selectedIcon);
+
+  final String label;
+  final IconData icon;
+  final IconData selectedIcon;
+}
+
 class HomeShell extends StatefulWidget {
   const HomeShell({super.key});
 
@@ -64,16 +72,19 @@ class _HomeShellState extends State<HomeShell> {
 
   /// Muda para a aba Estudar com o nível escolhido (null = todos).
   void _startStudy(int? level) => setState(() {
-        _studyLevel = level;
-        _index = 1;
-      });
+    _studyLevel = level;
+    _index = 1;
+  });
 
   static const _destinations = [
-    NavigationDestination(icon: Icon(Icons.home_outlined), selectedIcon: Icon(Icons.home), label: 'Início'),
-    NavigationDestination(icon: Icon(Icons.style_outlined), selectedIcon: Icon(Icons.style), label: 'Estudar'),
-    NavigationDestination(icon: Icon(Icons.list_alt_outlined), selectedIcon: Icon(Icons.list_alt), label: 'Palavras'),
-    NavigationDestination(icon: Icon(Icons.settings_outlined), selectedIcon: Icon(Icons.settings), label: 'Ajustes'),
+    _Destination('Início', Icons.home_outlined, Icons.home),
+    _Destination('Estudar', Icons.style_outlined, Icons.style),
+    _Destination('Palavras', Icons.list_alt_outlined, Icons.list_alt),
+    _Destination('Ajustes', Icons.settings_outlined, Icons.settings),
   ];
+
+  /// Abaixo desta largura o menu vira uma gaveta lateral esquerda.
+  static const _railBreakpoint = 640.0;
 
   @override
   Widget build(BuildContext context) {
@@ -87,20 +98,97 @@ class _HomeShellState extends State<HomeShell> {
       const WordsScreen(),
       const SettingsScreen(),
     ];
-
-    return Scaffold(
-      body: SafeArea(
-        child: Center(
-          child: ConstrainedBox(
-            constraints: const BoxConstraints(maxWidth: 760),
-            child: pages[_index],
-          ),
+    final content = SafeArea(
+      child: Center(
+        child: ConstrainedBox(
+          constraints: const BoxConstraints(maxWidth: 760),
+          child: pages[_index],
         ),
       ),
-      bottomNavigationBar: NavigationBar(
-        selectedIndex: _index,
-        onDestinationSelected: (i) => setState(() => _index = i),
-        destinations: _destinations,
+    );
+    final width = MediaQuery.sizeOf(context).width;
+
+    if (width < _railBreakpoint) {
+      return Scaffold(
+        appBar: AppBar(
+          title: Text(_destinations[_index].label),
+          centerTitle: false,
+        ),
+        drawer: NavigationDrawer(
+          selectedIndex: _index,
+          onDestinationSelected: (i) {
+            setState(() => _index = i);
+            Navigator.pop(context);
+          },
+          children: [
+            const _Brand(padding: EdgeInsets.fromLTRB(28, 24, 16, 16)),
+            for (final d in _destinations)
+              NavigationDrawerDestination(
+                icon: Icon(d.icon),
+                selectedIcon: Icon(d.selectedIcon),
+                label: Text(d.label),
+              ),
+          ],
+        ),
+        body: content,
+      );
+    }
+
+    final extended = width >= 1100;
+    return Scaffold(
+      body: Row(
+        children: [
+          NavigationRail(
+            extended: extended,
+            minExtendedWidth: 200,
+            selectedIndex: _index,
+            onDestinationSelected: (i) => setState(() => _index = i),
+            labelType: extended
+                ? NavigationRailLabelType.none
+                : NavigationRailLabelType.all,
+            leading: Padding(
+              padding: const EdgeInsets.symmetric(vertical: 16),
+              child: extended
+                  ? const _Brand()
+                  : const Text('🃏', style: TextStyle(fontSize: 28)),
+            ),
+            destinations: [
+              for (final d in _destinations)
+                NavigationRailDestination(
+                  icon: Icon(d.icon),
+                  selectedIcon: Icon(d.selectedIcon),
+                  label: Text(d.label),
+                ),
+            ],
+          ),
+          const VerticalDivider(width: 1),
+          Expanded(child: content),
+        ],
+      ),
+    );
+  }
+}
+
+class _Brand extends StatelessWidget {
+  const _Brand({this.padding = EdgeInsets.zero});
+
+  final EdgeInsets padding;
+
+  @override
+  Widget build(BuildContext context) {
+    return Padding(
+      padding: padding,
+      child: Row(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          const Text('🃏', style: TextStyle(fontSize: 26)),
+          const SizedBox(width: 10),
+          Text(
+            'Flashcards EN',
+            style: Theme.of(context).textTheme.titleMedium
+                ?.copyWith(fontWeight: FontWeight.bold),
+          ),
+        ],
       ),
     );
   }

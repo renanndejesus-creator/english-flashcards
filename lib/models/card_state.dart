@@ -23,7 +23,13 @@ class CardState {
   /// Quantas vezes a palavra foi esquecida.
   final int lapses;
 
-  CardState copyWith({int? reps, int? interval, double? ease, int? due, int? lapses}) {
+  CardState copyWith({
+    int? reps,
+    int? interval,
+    double? ease,
+    int? due,
+    int? lapses,
+  }) {
     return CardState(
       reps: reps ?? this.reps,
       interval: interval ?? this.interval,
@@ -33,16 +39,21 @@ class CardState {
     );
   }
 
-  Map<String, dynamic> toJson() =>
-      {'r': reps, 'i': interval, 'e': ease, 'd': due, 'l': lapses};
+  Map<String, dynamic> toJson() => {
+    'r': reps,
+    'i': interval,
+    'e': ease,
+    'd': due,
+    'l': lapses,
+  };
 
   factory CardState.fromJson(Map<String, dynamic> json) => CardState(
-        reps: (json['r'] as num?)?.toInt() ?? 0,
-        interval: (json['i'] as num?)?.toInt() ?? 0,
-        ease: (json['e'] as num?)?.toDouble() ?? 2.5,
-        due: (json['d'] as num).toInt(),
-        lapses: (json['l'] as num?)?.toInt() ?? 0,
-      );
+    reps: (json['r'] as num?)?.toInt() ?? 0,
+    interval: (json['i'] as num?)?.toInt() ?? 0,
+    ease: (json['e'] as num?)?.toDouble() ?? 2.5,
+    due: (json['d'] as num).toInt(),
+    lapses: (json['l'] as num?)?.toInt() ?? 0,
+  );
 }
 
 enum WordStatus {
